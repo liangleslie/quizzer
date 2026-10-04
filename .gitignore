@@ -1,2 +1,25 @@
 # Question bank folders
 *question_bank*/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE & OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.kilo/
+.agents/

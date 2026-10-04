@@ -1,0 +1,4127 @@
+[
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q1",
+    "question_type": "multiple_choice_single_answer",
+    "question": "AI systems can contribute to the creation of ideological bubbles or echo chambers by doing the following except",
+    "options": [
+      "Discriminating against certain groups in employment",
+      "Spread of disinformation",
+      "Creating deepfakes",
+      "Reducing carbon emissions through efficient algorithms"
+    ],
+    "correct_answer": "Reducing carbon emissions through efficient algorithms",
+    "explanation": "Answer D. Reducing carbon emissions through efficient algorithms"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q2",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How can AI contribute to the reduction of carbon emissions?",
+    "options": [
+      "By spreading disinformation about climate change",
+      "By accurately recognizing individuals with darker skin tones",
+      "By creating ideological bubbles or echo chambers",
+      "By developing self-driving cars to reduce emissions"
+    ],
+    "correct_answer": "By developing self-driving cars to reduce emissions",
+    "explanation": "Answer D. By developing self-driving cars to reduce emissions"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q3",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How can AI systems contribute to economic opportunities?",
+    "options": [
+      "By spreading disinformation about job opportunities",
+      "By increasing productivity and creating new types of jobs",
+      "By creating ideological bubbles or echo chambers",
+      "By accurately recognizing individuals with darker skin tones"
+    ],
+    "correct_answer": "By increasing productivity and creating new types of jobs",
+    "explanation": "Answer B. By increasing productivity and creating new types of jobs"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q4",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How can AI systems contribute to higher yields in agriculture?",
+    "options": [
+      "By analyzing data to optimize crop growth",
+      "By spreading disinformation about farming techniques",
+      "By accurately recognizing individuals with darker skin tones",
+      "By creating ideological bubbles or echo chambers"
+    ],
+    "correct_answer": "By analyzing data to optimize crop growth",
+    "explanation": "Answer A. By analyzing data to optimize crop growth"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q5",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How can AI systems contribute to the safety of individuals?",
+    "options": [
+      "By spreading disinformation about safety measures",
+      "By accurately recognizing individuals with darker skin tones",
+      "By creating ideological bubbles or echo chambers",
+      "By assisting in weather forecasting and disaster response"
+    ],
+    "correct_answer": "By assisting in weather forecasting and disaster response",
+    "explanation": "Answer D. By assisting in weather forecasting and disaster response"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q6",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How can AI systems help identify disaster-stricken areas?",
+    "options": [
+      "By spreading disinformation about natural disasters",
+      "By using satellite images in AI analysis",
+      "By accurately recognizing individuals with darker skin tones",
+      "By creating ideological bubbles or echo chambers"
+    ],
+    "correct_answer": "By using satellite images in AI analysis",
+    "explanation": "Answer B. By using satellite images in AI analysis"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q7",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How does training employees contribute to a culture of ethical AI?",
+    "options": [
+      "By encouraging biased decision-making in AI systems",
+      "By promoting transparency and explainability in AI systems",
+      "By eliminating the need for diverse oversight bodies",
+      "By fostering a shared understanding of ethical considerations in AI"
+    ],
+    "correct_answer": "By fostering a shared understanding of ethical considerations in AI",
+    "explanation": "Answer D. By fostering a shared understanding of ethical considerations in AI"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q8",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Implicit bias refers to:",
+    "options": [
+      "Discrimination or prejudice toward a particular group or individual",
+      "Data skewed toward a subset of the group, favoring a specific subset of people",
+      "Bias that occurs when a model is trained and functions properly at the time but may not work well in the future",
+      "Data points outside the normal distribution of the data"
+    ],
+    "correct_answer": "Discrimination or prejudice toward a particular group or individual",
+    "explanation": "Answer A. Discrimination or prejudice toward a particular group or individual"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q9",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What are some privacy concerns related to personal data used in AI training and inference?",
+    "options": [
+      "Spread of disinformation",
+      "Discrimination in employment",
+      "Reidentification of deidentified data",
+      "Facial recognition algorithms"
+    ],
+    "correct_answer": "Reidentification of deidentified data",
+    "explanation": "Answer C. Reidentification of deidentified data"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q10",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What does it mean for an AI system to be privacy-enhanced?",
+    "options": [
+      "To prioritize the protection of personal data and comply with privacy regulations",
+      "To maximize data collection without user consent",
+      "To disregard security measures in handling personal data",
+      "To prioritize biased outcomes in AI decision-making"
+    ],
+    "correct_answer": "To prioritize the protection of personal data and comply with privacy regulations",
+    "explanation": "Answer A. To prioritize the protection of personal data and comply with privacy regulations"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q11",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What does it mean to embed trustworthy AI as part of the operating model?",
+    "options": [
+      "Integrating responsible AI practices into the organization's culture and processes",
+      "Ignoring ethical considerations in AI development",
+      "Minimizing human oversight in AI systems",
+      "Prioritizing speed over accuracy in AI decision-making"
+    ],
+    "correct_answer": "Integrating responsible AI practices into the organization's culture and processes",
+    "explanation": "Answer A. Integrating responsible AI practices into the organization's culture and processes"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q12",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What does it mean to ensure governance is risk-centric?",
+    "options": [
+      "Prioritize innovation over risk management",
+      "Consider and address the risk factors associated with AI",
+      "Develop a framework biased towards specific laws and technologies",
+      "Delegate authority to personnel involved in AI development"
+    ],
+    "correct_answer": "Consider and address the risk factors associated with AI",
+    "explanation": "Answer B. Consider and address the risk factors associated with AI"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q13",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What does the principle of accountability in AI governance entail?",
+    "options": [
+      "Holding organizations responsible for the outcomes and impacts of AI systems",
+      "Ensuring complete automation of AI systems",
+      "Prioritizing profit over ethical considerations",
+      "Eliminating the need for human intervention in AI-driven decisions"
+    ],
+    "correct_answer": "Holding organizations responsible for the outcomes and impacts of AI systems",
+    "explanation": "ANSWER A. Holding organizations responsible for the outcomes and impacts of AI systems"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q14",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is a potential harm of deepfakes created by AI?",
+    "options": [
+      "Discrimination in housing selection",
+      "Spread of disinformation during elections",
+      "Reputational risks for companies",
+      "Environmental impact of AI"
+    ],
+    "correct_answer": "Spread of disinformation during elections",
+    "explanation": "Answer B. Spread of disinformation during elections"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q15",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is one key aspect of achieving Trustworthy AI?",
+    "options": [
+      "Maximizing data collection",
+      "Ignoring privacy measures",
+      "Embedding responsible AI practices",
+      "Prioritizing biased outcomes"
+    ],
+    "correct_answer": "Embedding responsible AI practices",
+    "explanation": "Answer C. Embedding responsible AI practices"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q16",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is one of the foundational controls that organizations should have in place to mitigate ethical risks associated with AI?",
+    "options": [
+      "Complete automation of AI systems",
+      "Ignoring the need for diverse oversight bodies",
+      "Developing ethical principles of AI",
+      "Avoiding employee training and education"
+    ],
+    "correct_answer": "Developing ethical principles of AI",
+    "explanation": "Answer C. Developing ethical principles of AI"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q17",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is one operational risk of running an AI algorithm in an organization's environment?",
+    "options": [
+      "Very high costs",
+      "Data repurposing",
+      "Lack of transparency",
+      "Discrimination"
+    ],
+    "correct_answer": "Very high costs",
+    "explanation": "Answer A. Very high costs"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q18",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is one potential harm of AI systems concentrating power in a few individuals or organizations?",
+    "options": [
+      "Data persistence",
+      "Erosion of individual freedom",
+      "Lack of transparency",
+      "False sense of security"
+    ],
+    "correct_answer": "Erosion of individual freedom",
+    "explanation": "Answer B. Erosion of individual freedom"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q19",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is one potential harm of overreliance on AI systems?",
+    "options": [
+      "Job displacement",
+      "Intellectual property infringement",
+      "Lack of transparency",
+      "False sense of security"
+    ],
+    "correct_answer": "False sense of security",
+    "explanation": "Answer D. False sense of security"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q20",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the potential harm of AI systems being perceived as more correct than humans?",
+    "options": [
+      "Reputational risks for companies",
+      "Spread of disinformation in the real estate market",
+      "Cultural harm and lack of critical evaluation",
+      "Environmental impact of AI"
+    ],
+    "correct_answer": "Cultural harm and lack of critical evaluation",
+    "explanation": "Answer C. Cultural harm and lack of critical evaluation"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q21",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the potential harm of AI systems used for recruiting and hiring if they are biased?",
+    "options": [
+      "Discrimination against applicants based on gender, race, ethnicity, or economic status",
+      "Spread of disinformation during the hiring process",
+      "Reputational risks for companies",
+      "Environmental impact of AI"
+    ],
+    "correct_answer": "Discrimination against applicants based on gender, race, ethnicity, or economic status",
+    "explanation": "Answer A. Discrimination against applicants based on gender, race, ethnicity, or economic status"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q22",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the potential harm of biased AI systems used for financial lending?",
+    "options": [
+      "Discrimination in housing selection",
+      "Spread of disinformation in the real estate market",
+      "Reputational risks for companies",
+      "Discrimination against individuals during loan applications"
+    ],
+    "correct_answer": "Discrimination against individuals during loan applications",
+    "explanation": "Answer D. Discrimination against individuals during loan applications"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q23",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the potential harm of biased AI systems used for recruiting?",
+    "options": [
+      "Discrimination in housing selection",
+      "Spread of disinformation in the real estate market",
+      "Reputational risks for companies",
+      "Failure to reach key demographics in job opportunities"
+    ],
+    "correct_answer": "Failure to reach key demographics in job opportunities",
+    "explanation": "Answer D. Failure to reach key demographics in job opportunities"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q24",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the potential harm of biased AI systems used for tenant selection and mortgage qualification?",
+    "options": [
+      "Discrimination in housing selection",
+      "Spread of disinformation in the real estate market",
+      "Reputational risks for companies",
+      "Environmental impact of AI"
+    ],
+    "correct_answer": "Discrimination in housing selection",
+    "explanation": "Answer A. Discrimination in housing selection"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q25",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the potential harm of biased facial recognition algorithms?",
+    "options": [
+      "Discrimination in housing selection",
+      "Spread of disinformation in the real estate market",
+      "Inaccuracy in recognizing individuals with darker skin tones",
+      "Environmental impact of AI"
+    ],
+    "correct_answer": "Inaccuracy in recognizing individuals with darker skin tones",
+    "explanation": "Answer C. Inaccuracy in recognizing individuals with darker skin tones"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q26",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of a risk management framework in achieving Trustworthy AI?",
+    "options": [
+      "To ensure compliance with privacy measures and requirements",
+      "To maximize data collection for AI systems",
+      "To promote biased outcomes in AI decision-making",
+      "To bypass the need for human oversight in AI systems"
+    ],
+    "correct_answer": "To ensure compliance with privacy measures and requirements",
+    "explanation": "Answer A. To ensure compliance with privacy measures and requirements"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q27",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of secure data handling in Trustworthy AI?",
+    "options": [
+      "To protect personal data from unauthorized access, breaches, or misuse",
+      "To prioritize biased outcomes in AI decision-making",
+      "To maximize data collection without user consent",
+      "To disregard privacy measures and requirements"
+    ],
+    "correct_answer": "To protect personal data from unauthorized access, breaches, or misuse",
+    "explanation": "Answer A. To protect personal data from unauthorized access, breaches, or misuse"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q28",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of transparency in AI systems?",
+    "options": [
+      "To hide the decision-making process of AI systems",
+      "To ensure that AI systems are not understandable to the intended audience",
+      "To provide clear insights into the reasoning behind AI system outputs",
+      "To prioritize the well-being and benefit of humans"
+    ],
+    "correct_answer": "To provide clear insights into the reasoning behind AI system outputs",
+    "explanation": "Answer C. To provide clear insights into the reasoning behind AI system outputs"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q29",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of user control and consent in privacy-enhanced AI systems?",
+    "options": [
+      "To minimize user involvement in AI decision-making",
+      "To bypass the need for transparency in AI systems",
+      "To prioritize the well-being and benefit of humans",
+      "To ensure that users have control over their personal data and its use by AI systems"
+    ],
+    "correct_answer": "To ensure that users have control over their personal data and its use by AI systems",
+    "explanation": "Answer D. To ensure that users have control over their personal data and its use by AI systems"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q30",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of a diverse oversight body in AI governance?",
+    "options": [
+      "To ensure complete automation of AI systems",
+      "To review and address ethical concerns in higher-risk AI use cases",
+      "To prioritize profit over ethical considerations",
+      "To eliminate the need for human intervention in AI-driven decisions"
+    ],
+    "correct_answer": "To review and address ethical concerns in higher-risk AI use cases",
+    "explanation": "Answer B. To review and address ethical concerns in higher-risk AI use cases"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q31",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of employee training and education in creating a culture of ethical AI?",
+    "options": [
+      "To avoid any human involvement in AI-driven decisions",
+      "To prioritize profit over ethical considerations",
+      "To ensure complete automation of AI systems",
+      "To create awareness and understanding of ethical AI principles"
+    ],
+    "correct_answer": "To create awareness and understanding of ethical AI principles",
+    "explanation": "Answer D. To create awareness and understanding of ethical AI principles"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q32",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of human oversight in Trustworthy AI?",
+    "options": [
+      "To ensure that AI systems align with human values and ethical considerations",
+      "To bypass the need for transparency in AI systems",
+      "To minimize human involvement in AI decision-making",
+      "To prioritize the well-being and benefit of humans"
+    ],
+    "correct_answer": "To ensure that AI systems align with human values and ethical considerations",
+    "explanation": "Answer A. To ensure that AI systems align with human values and ethical considerations"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q33",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of interpretability in explainable AI systems?",
+    "options": [
+      "To hide the decision-making process of AI systems",
+      "To ensure that AI systems are not understandable to the intended audience",
+      "To prioritize the well-being and benefit of humans",
+      "To provide clear and understandable explanations for AI system decisions"
+    ],
+    "correct_answer": "To provide clear and understandable explanations for AI system decisions",
+    "explanation": "Answer D. To provide clear and understandable explanations for AI system decisions"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q34",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the significance of accountable AI systems?",
+    "options": [
+      "To disregard safety, security, and reliability in AI systems",
+      "To prioritize biased outcomes in AI decision-making",
+      "To ensure that AI systems are not understandable to the intended audience",
+      "To ensure that organizations are responsible for the AI they deliver"
+    ],
+    "correct_answer": "To ensure that organizations are responsible for the AI they deliver",
+    "explanation": "Answer D. To ensure that organizations are responsible for the AI they deliver"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q35",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the significance of data minimization in AI development?",
+    "options": [
+      "It ensures that AI systems have access to a large volume of data for better performance.",
+      "It helps prevent unnecessary data collection and potential misuse of personal information.",
+      "It allows AI systems to make decisions without human intervention.",
+      "It ensures that AI systems are transparent and explainable."
+    ],
+    "correct_answer": "It helps prevent unnecessary data collection and potential misuse of personal information.",
+    "explanation": "Answer B. It helps prevent unnecessary data collection and potential misuse of personal information."
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q36",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the significance of data protection in privacy-enhanced AI systems?",
+    "options": [
+      "To maximize data collection without user consent",
+      "To ensure the protection of personal data and compliance with privacy regulations",
+      "To prioritize biased outcomes in AI decision-making",
+      "To disregard security measures in handling personal data"
+    ],
+    "correct_answer": "To ensure the protection of personal data and compliance with privacy regulations",
+    "explanation": "Answer B. To ensure the protection of personal data and compliance with privacy regulations"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q37",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the significance of transparency and explainability in AI systems?",
+    "options": [
+      "To prevent the use of AI in any decision-making processes",
+      "To ensure complete automation of AI systems",
+      "To provide clear explanations of how AI systems make decisions",
+      "To eliminate the need for human intervention in AI-driven decisions"
+    ],
+    "correct_answer": "To provide clear explanations of how AI systems make decisions",
+    "explanation": "Answer C. To provide clear explanations of how AI systems make decisions"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q38",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which category of privacy harm involves emotional distress and disturbance?",
+    "options": [
+      "Psychological harm",
+      "Discrimination harm",
+      "Autonomy harm",
+      "Reputational harm"
+    ],
+    "correct_answer": "Psychological harm",
+    "explanation": "Answer A. Psychological harm"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q39",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which category of privacy harm involves the impact on an individual's relationships with others?",
+    "options": [
+      "Physical harm",
+      "Reputational harm",
+      "Relationship harm",
+      "Objective privacy harm"
+    ],
+    "correct_answer": "Relationship harm",
+    "explanation": "Answer C. Relationship harm"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q40",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which learning outcome emphasizes the importance of defining responsible AI as a discipline?",
+    "options": [
+      "Tailoring AI governance to the organization",
+      "Getting support from leadership",
+      "Steps to involve key stakeholders",
+      "Creating a culture of responsible AI within an organization"
+    ],
+    "correct_answer": "Creating a culture of responsible AI within an organization",
+    "explanation": "Answer D. Creating a culture of responsible AI within an organization"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q41",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is a business risk associated with AI?",
+    "options": [
+      "Discrimination",
+      "Job displacement",
+      "Data persistence",
+      "Lack of transparency"
+    ],
+    "correct_answer": "Lack of transparency",
+    "explanation": "Answer D. Lack of transparency"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q42",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is a privacy risk associated with AI?",
+    "options": [
+      "Bias and discrimination",
+      "Dependence on AI vendors",
+      "Data Persistence",
+      "Lack of human oversight"
+    ],
+    "correct_answer": "Data Persistence",
+    "explanation": "Answer C. Data Persistence"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q43",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is a privacy risk associated with AI?",
+    "options": [
+      "Data corruption and poisoning",
+      "Misuse of pattern analysis",
+      "Intellectual property infringement",
+      "Lack of human oversight"
+    ],
+    "correct_answer": "Misuse of pattern analysis",
+    "explanation": "Answer B. Misuse of pattern analysis"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q44",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is a risk associated with generative AI?",
+    "options": [
+      "Bias and discrimination",
+      "Use of Deepfakes for Disinformation",
+      "Lack of transparency",
+      "Overreliance on AI vendors"
+    ],
+    "correct_answer": "Use of Deepfakes for Disinformation",
+    "explanation": "Answer B. Use of Deepfakes for Disinformation"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q45",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is an example of individual harm caused by bias in AI systems?",
+    "options": [
+      "Spread of disinformation",
+      "Reputational risks for companies",
+      "Discrimination in housing selection",
+      "Environmental impact of AI"
+    ],
+    "correct_answer": "Discrimination in housing selection",
+    "explanation": "Answer C. Discrimination in housing selection"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q46",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is an example of societal harm caused by AI?",
+    "options": [
+      "Spread of disinformation",
+      "Discrimination in housing selection",
+      "Environmental impact of AI",
+      "Reputational risks for companies"
+    ],
+    "correct_answer": "Spread of disinformation",
+    "explanation": "Answer A. Spread of disinformation"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q47",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is one of the Fair Information Practices (FIPs)?",
+    "options": [
+      "Data monetization",
+      "Data manipulation",
+      "Data monopolization",
+      "Data minimization"
+    ],
+    "correct_answer": "Data minimization",
+    "explanation": "Answer D. Data minimization"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q48",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which type of bias occurs when a model is overfitted to the training data and fails to work with new data?",
+    "options": [
+      "Implicit bias",
+      "Sampling bias",
+      "Temporal bias",
+      "Overfitting to training data"
+    ],
+    "correct_answer": "Overfitting to training data",
+    "explanation": "Answer D. Overfitting to training data"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q49",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which type of harm can occur if an AI system is perceived as biased or discriminatory?",
+    "options": [
+      "Reputational harm for companies",
+      "Spread of disinformation in the real estate market",
+      "Discrimination in housing selection",
+      "Environmental impact of AI"
+    ],
+    "correct_answer": "Reputational harm for companies",
+    "explanation": "Answer A. Reputational harm for companies"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q50",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Why is fairness important in Trustworthy AI?",
+    "options": [
+      "To maximize biased outcomes in AI decision-making",
+      "To ensure that AI systems treat all individuals fairly and without discrimination",
+      "To disregard human values and preferences",
+      "To prioritize the well-being and benefit of humans"
+    ],
+    "correct_answer": "To ensure that AI systems treat all individuals fairly and without discrimination",
+    "explanation": "Answer B. To ensure that AI systems treat all individuals fairly and without discrimination"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q51",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Why is it important for organizations to train and educate employees on ethical AI principles?",
+    "options": [
+      "To encourage biased decision-making in AI systems",
+      "To prioritize profit over ethical considerations",
+      "To create a culture where ethical considerations are prioritized",
+      "To eliminate the need for diverse oversight bodies"
+    ],
+    "correct_answer": "To create a culture where ethical considerations are prioritized",
+    "explanation": "Answer C. To create a culture where ethical considerations are prioritized"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q52",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Why is it important to involve all stakeholders in consensus-driven planning and design?",
+    "options": [
+      "To ensure that the team is outcome-focused",
+      "To address concerns and understand the needs and risks",
+      "To allocate resources to the highest risk areas",
+      "To create policies for managing third-party risk"
+    ],
+    "correct_answer": "To address concerns and understand the needs and risks",
+    "explanation": "Answer B. To address concerns and understand the needs and risks"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q53",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Why is traceability important in explainable AI systems?",
+    "options": [
+      "To hide the decision-making process of AI systems",
+      "To provide a clear audit trail of the decision-making process for accountability and understanding",
+      "To ensure that AI systems are not understandable to the intended audience",
+      "To prioritize the well-being and benefit of humans"
+    ],
+    "correct_answer": "To provide a clear audit trail of the decision-making process for accountability and understanding",
+    "explanation": "Answer B. To provide a clear audit trail of the decision-making process for accountability and understanding"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q54",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Why is transparency important in AI systems?",
+    "options": [
+      "To prevent the use of AI in any decision-making processes",
+      "To ensure that AI systems are biased and discriminatory",
+      "To provide clear explanations of how AI systems make decisions",
+      "To eliminate the need for human intervention in AI-driven decisions"
+    ],
+    "correct_answer": "To provide clear explanations of how AI systems make decisions",
+    "explanation": "Answer C. To provide clear explanations of how AI systems make decisions"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q55",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Why are validity and reliability important in accountable AI systems?",
+    "options": [
+      "To maximize biased outcomes in AI decision-making",
+      "To disregard safety, security, and resilience in AI systems",
+      "To ensure that AI systems produce accurate and reliable results",
+      "To prioritize the well-being and benefit of humans"
+    ],
+    "correct_answer": "To ensure that AI systems produce accurate and reliable results",
+    "explanation": "Answer C. To ensure that AI systems produce accurate and reliable results"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M2",
+    "question_number": "Q56",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is a business risk associated with AI?",
+    "options": [
+      "Data persistence",
+      "Threat to democracy",
+      "Overreliance on AI Vendor",
+      "Data leakage"
+    ],
+    "correct_answer": "Overreliance on AI Vendor",
+    "explanation": "Answer C. Overreliance on AI Vendor"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q1",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How can AI governance team gain leadership support?",
+    "options": [
+      "By showcasing limitations of existing programs and highlight the risks associated with AI bias in customer interactions",
+      "By delegating decision-making authority to lower levels",
+      "By engaging HR to identify work roles and success measures",
+      "By providing knowledge resources and training to personnel"
+    ],
+    "correct_answer": "By showcasing limitations of existing programs and highlight the risks associated with AI bias in customer interactions",
+    "explanation": "Answer A. By showcasing limitations of existing programs and highlight the risks associated with AI bias in customer interactions"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q2",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How can organizations create a culture of responsible AI?",
+    "options": [
+      "By providing knowledge resources and training",
+      "By setting common AI terms and taxonomy",
+      "By recognizing cultural variations and diversity",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q3",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How can organizations empower personnel in the AI development and release process?",
+    "options": [
+      "Provide training and resources",
+      "Establish clear roles and responsibilities",
+      "Engage HR to identify work roles and success measures",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q4",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How can organizations involve existing stakeholders in building AI governance?",
+    "options": [
+      "Engage personnel in privacy, security, legal, and accessibility",
+      "Leverage existing structures and lessons learned",
+      "Establish and communicate roles and responsibilities",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q5",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How is risk scoring calculated in AI risk assessment?",
+    "options": [
+      "By multiplying the severity of harm with the probability of occurrence",
+      "By adding the severity of harm and the probability of occurrence",
+      "By dividing the severity of harm by the probability of occurrence",
+      "By subtracting the severity of harm from the probability of occurrence"
+    ],
+    "correct_answer": "By multiplying the severity of harm with the probability of occurrence",
+    "explanation": "Answer A. By multiplying the severity of harm with the probability of occurrence"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q6",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the goal of conducting a risk analysis in AI implementation?",
+    "options": [
+      "To eliminate all risks associated with AI",
+      "To classify risks as high or low without mitigation strategies",
+      "To identify potential risks and develop appropriate mitigation strategies",
+      "To ignore risks and proceed with the project"
+    ],
+    "correct_answer": "To identify potential risks and develop appropriate mitigation strategies",
+    "explanation": "Answer C. To identify potential risks and develop appropriate mitigation strategies"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q7",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the importance of measuring the risks of AI models?",
+    "options": [
+      "To allocate resources to the highest risk areas",
+      "To ensure compliance with industry standards and regulations",
+      "To assess and prioritize risks for effective risk management",
+      "To determine the severity of harm associated with each risk"
+    ],
+    "correct_answer": "To assess and prioritize risks for effective risk management",
+    "explanation": "Answer C. To assess and prioritize risks for effective risk management"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q8",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the importance of staying updated with industry best practices in AI governance?",
+    "options": [
+      "To ensure compliance with regulatory requirements",
+      "To mitigate risks associated with new purposes and data",
+      "To improve the performance of the AI system",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q9",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of a probability and severity harms matrix?",
+    "options": [
+      "To eliminate all potential harms in an AI project",
+      "To classify risks without considering their probability and severity",
+      "To assess the likelihood and impact of potential harms",
+      "To exclude stakeholders from the risk assessment process"
+    ],
+    "correct_answer": "To assess the likelihood and impact of potential harms",
+    "explanation": "Answer C. To assess the likelihood and impact of potential harms"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q10",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of adopting a non-prescriptive approach in AI risk management?",
+    "options": [
+      "To ensure compliance with industry standards and regulations",
+      "To consider the unique factors and risks associated with AI systems",
+      "To allocate resources to the highest risk areas",
+      "To determine the severity of harm associated with each risk"
+    ],
+    "correct_answer": "To consider the unique factors and risks associated with AI systems",
+    "explanation": "Answer B. To consider the unique factors and risks associated with AI systems"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q11",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of assigning risk levels in AI governance?",
+    "options": [
+      "To allocate resources to the highest risk areas",
+      "To prioritize risks based on their potential impact and likelihood",
+      "To determine the severity of harm associated with each risk",
+      "To ensure compliance with industry standards and regulations"
+    ],
+    "correct_answer": "To prioritize risks based on their potential impact and likelihood",
+    "explanation": "Answer B. To prioritize risks based on their potential impact and likelihood"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q12",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of assigning values and measuring AI against accepted standards in risk assessment?",
+    "options": [
+      "To allocate resources to the highest risk areas",
+      "To ensure compliance with industry standards and regulations",
+      "To assess and prioritize risks for effective risk management",
+      "To determine the severity of harm associated with each risk"
+    ],
+    "correct_answer": "To assess and prioritize risks for effective risk management",
+    "explanation": "Answer C. To assess and prioritize risks for effective risk management"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q13",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of context-specific risk assessment in AI governance?",
+    "options": [
+      "To ensure compliance with industry standards and regulations",
+      "To consider the unique factors and risks associated with AI systems",
+      "To determine the severity of harm associated with each risk",
+      "To allocate resources to the highest risk areas"
+    ],
+    "correct_answer": "To consider the unique factors and risks associated with AI systems",
+    "explanation": "Answer B. To consider the unique factors and risks associated with AI systems"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q14",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of contrasting AI assessments against existing ones?",
+    "options": [
+      "To identify areas of commonality",
+      "To simplify compliance processes",
+      "To reinforce leadership support",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q15",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of creating a culture of responsible AI within an organization?",
+    "options": [
+      "To highlight customer value and increased trust",
+      "To recognize cultural variations and diversity",
+      "To define responsible AI as a discipline",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q16",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of engaging stakeholders early in an AI project?",
+    "options": [
+      "To delay the project timeline",
+      "To gather diverse perspectives and ensure organizational agreement",
+      "To exclude key individuals from the decision-making process",
+      "To minimize the impact of stakeholder input"
+    ],
+    "correct_answer": "To gather diverse perspectives and ensure organizational agreement",
+    "explanation": "Answer B. To gather diverse perspectives and ensure organizational agreement"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q17",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of ensuring governance is risk-centric in AI governance?",
+    "options": [
+      "To ensure compliance with industry standards and regulations",
+      "To consider and address the risk factors associated with AI",
+      "To allocate resources to the highest risk areas",
+      "To determine the severity of harm associated with each risk"
+    ],
+    "correct_answer": "To consider and address the risk factors associated with AI",
+    "explanation": "Answer B. To consider and address the risk factors associated with AI"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q18",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of establishing AI assessment processes?",
+    "options": [
+      "To evaluate the risks and compliance of AI systems",
+      "To streamline compliance processes",
+      "To reinforce leadership support",
+      "None of the above"
+    ],
+    "correct_answer": "To evaluate the risks and compliance of AI systems",
+    "explanation": "Answer A. To evaluate the risks and compliance of AI systems"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q19",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of measuring the risks of AI models in AI governance?",
+    "options": [
+      "To allocate resources to the highest risk areas",
+      "To ensure compliance with industry standards and regulations",
+      "To assess and prioritize risks for effective risk management",
+      "To determine the severity of harm associated with each risk"
+    ],
+    "correct_answer": "To assess and prioritize risks for effective risk management",
+    "explanation": "Answer C. To assess and prioritize risks for effective risk management"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q20",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of the NIST AI Framework in AI risk management?",
+    "options": [
+      "To allocate roles, responsibilities, and authority to stakeholders",
+      "To review and hold accountable the risk management structures",
+      "To provide guidance for AI risk management throughout the organization",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q21",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of external frameworks in AI assessments?",
+    "options": [
+      "To provide established guidelines and best practices",
+      "To contrast assessments against existing ones",
+      "To reinforce leadership support",
+      "None of the above"
+    ],
+    "correct_answer": "To provide established guidelines and best practices",
+    "explanation": "Answer A. To provide established guidelines and best practices"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q22",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of leadership in AI governance?",
+    "options": [
+      "To develop AI systems quickly and efficiently",
+      "To advocate for improved governance and structure",
+      "To delegate decision-making authority to lower levels",
+      "To provide technical expertise and operational perspectives"
+    ],
+    "correct_answer": "To advocate for improved governance and structure",
+    "explanation": "Answer B. To advocate for improved governance and structure"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q23",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of risk tolerance in AI governance frameworks?",
+    "options": [
+      "To determine the profitability of AI systems",
+      "To assess the willingness to accept and manage risks",
+      "To regulate the use of AI in specific industries",
+      "To ensure compliance with jurisdictional requirements"
+    ],
+    "correct_answer": "To assess the willingness to accept and manage risks",
+    "explanation": "Answer B. To assess the willingness to accept and manage risks"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q24",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of senior and independent oversight in AI risk management?",
+    "options": [
+      "To allocate resources to the highest risk areas",
+      "To review and hold accountable the risk management structures",
+      "To determine the severity of harm associated with each risk",
+      "To ensure compliance with industry standards and regulations"
+    ],
+    "correct_answer": "To review and hold accountable the risk management structures",
+    "explanation": "Answer B. To review and hold accountable the risk management structures"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q25",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the starting point for building AI governance?",
+    "options": [
+      "Understanding the organization's operations",
+      "Identifying supportive leaders",
+      "Engaging existing stakeholders",
+      "Defining responsible AI as a discipline"
+    ],
+    "correct_answer": "Understanding the organization's operations",
+    "explanation": "Answer A. Understanding the organization's operations"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q26",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What should be considered when assessing the company's risk tolerance?",
+    "options": [
+      "The desire to eliminate all risks",
+      "The prioritization of competing values",
+      "The exclusion of stakeholder input",
+      "The preference of the project manager"
+    ],
+    "correct_answer": "The prioritization of competing values",
+    "explanation": "Answer B. The prioritization of competing values"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q27",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What should be considered when responding to internal and external risks in AI systems?",
+    "options": [
+      "Legal requirements",
+      "Performance issues",
+      "Risk score",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q28",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What should organizations consider when choosing a governance model?",
+    "options": [
+      "Organizational structure and culture",
+      "Size of the organization",
+      "Availability of resources",
+      "None of the above"
+    ],
+    "correct_answer": "Organizational structure and culture",
+    "explanation": "Answer A. Organizational structure and culture"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q29",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What should organizations consider when tailoring AI governance to their context?",
+    "options": [
+      "Incentive structures",
+      "Sector-specific requirements",
+      "Differentiating roles among developers, deployers, and users",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q30",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What should organizations focus on when conducting AI assessments?",
+    "options": [
+      "Key AI risks and needs based on their principles and values",
+      "Existing assessments for privacy and security",
+      "Commonality with other organizations' AI governance practices",
+      "None of the above"
+    ],
+    "correct_answer": "Key AI risks and needs based on their principles and values",
+    "explanation": "Answer A. Key AI risks and needs based on their principles and values"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q31",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which external frameworks can be used to guide AI assessments?",
+    "options": [
+      "NIST AI Risk Management Framework and ISO standards",
+      "Privacy reviews and compliance assessments",
+      "AI principles and values developed internally",
+      "None of the above"
+    ],
+    "correct_answer": "NIST AI Risk Management Framework and ISO standards",
+    "explanation": "Answer A. NIST AI Risk Management Framework and ISO standards"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q32",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which factor should organizations consider when building an AI governance framework?",
+    "options": [
+      "Organizational principles",
+      "Risk tolerance",
+      "Jurisdictional requirements",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q33",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which governance model involves a combination of centralized and local governance?",
+    "options": [
+      "Centralized model",
+      "Hybrid model",
+      "Decentralized structure",
+      "None of the above"
+    ],
+    "correct_answer": "Hybrid model",
+    "explanation": "Answer B. Hybrid model"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q34",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which learning outcome emphasizes the importance of engaging HR in AI governance?",
+    "options": [
+      "Tailoring AI governance to the organization",
+      "Getting support from leadership",
+      "Steps to involve key stakeholders",
+      "Creating a culture of responsible AI within an organization"
+    ],
+    "correct_answer": "Creating a culture of responsible AI within an organization",
+    "explanation": "Answer D. Creating a culture of responsible AI within an organization"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q35",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is a characteristic of trustworthy AI according to the NIST AI Risk Management Framework?",
+    "options": [
+      "Privacy-enhanced",
+      "Cost-efficient",
+      "Performance-driven",
+      "Market-dominating"
+    ],
+    "correct_answer": "Privacy-enhanced",
+    "explanation": "Answer A. Privacy-enhanced"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q36",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is a key principle of the NIST AI Risk Management Framework?",
+    "options": [
+      "Inclusivity",
+      "Scalability",
+      "Profitability",
+      "Accountability"
+    ],
+    "correct_answer": "Accountability",
+    "explanation": "Answer D. Accountability"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q37",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which stakeholders should be involved in building AI governance?",
+    "options": [
+      "Researchers and data scientists only",
+      "Legal advisors and compliance officers only",
+      "Existing governance teams, privacy personnel, and other relevant stakeholders",
+      "Non-AI engineers and HR personnel only"
+    ],
+    "correct_answer": "Existing governance teams, privacy personnel, and other relevant stakeholders",
+    "explanation": "Answer C. Existing governance teams, privacy personnel, and other relevant stakeholders"
+  },
+  {
+    "source_file": "qn set 1.html",
+    "section": "AIGP Quiz - M3",
+    "question_number": "Q38",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which type of governance model involves one team or person responsible for AI-related affairs?",
+    "options": [
+      "Centralized model",
+      "Hybrid model",
+      "Decentralized structure",
+      "None of the above"
+    ],
+    "correct_answer": "Centralized model",
+    "explanation": "Answer A. Centralized model"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q1",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How does an Expert System make decisions?",
+    "options": [
+      "By analyzing and categorizing sensory information.",
+      "By mimicking human actions on digital systems.",
+      "By using a knowledge base and an inference engine.",
+      "By learning through trial and error using a reward and punishment system."
+    ],
+    "correct_answer": "By using a knowledge base and an inference engine.",
+    "explanation": "Answer C. By using a knowledge base and an inference engine."
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q2",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How does Machine Learning improve over time?",
+    "options": [
+      "By analyzing and categorizing sensory information.",
+      "By making accurate predictions or classifications based on labeled training data.",
+      "By learning through trial and error using a reward and punishment system.",
+      "By analyzing data and adjusting its predictions or decisions accordingly."
+    ],
+    "correct_answer": "By analyzing data and adjusting its predictions or decisions accordingly.",
+    "explanation": "Answer D. By analyzing data and adjusting its predictions or decisions accordingly."
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q3",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How does Reinforcement Learning work?",
+    "options": [
+      "It learns from labeled training data.",
+      "It requires feedback in the form of rewards or punishments.",
+      "It does not require labeled data.",
+      "It learns through trial and error using a reward and punishment system."
+    ],
+    "correct_answer": "It requires feedback in the form of rewards or punishments.",
+    "explanation": "Answer B. It requires feedback in the form of rewards or punishments."
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q4",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What are some benefits of AI in the healthcare industry?",
+    "options": [
+      "Improved diagnostic accuracy",
+      "Enhanced patient care",
+      "Reduced interpretation time",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q5",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is one of the common ethical principles derived from the frameworks for ethical AI?",
+    "options": [
+      "Profit maximization",
+      "Data monopolization",
+      "Fairness",
+      "Exploitation"
+    ],
+    "correct_answer": "Fairness",
+    "explanation": "Answer C. Fairness"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q6",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the difference between Artificial Narrow Intelligence (ANI) and Artificial General Intelligence (AGI)?",
+    "options": [
+      "ANI is designed for specific tasks, while AGI mimics human intelligence.",
+      "ANI mimics human intelligence, while AGI is designed for specific tasks.",
+      "ANI and AGI are the same thing.",
+      "ANI is more advanced than AGI"
+    ],
+    "correct_answer": "ANI is designed for specific tasks, while AGI mimics human intelligence.",
+    "explanation": "Answer A. ANI is designed for specific tasks, while AGI mimics human intelligence."
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q7",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the key characteristic of Unsupervised Learning?",
+    "options": [
+      "It learns from labeled training data.",
+      "It requires feedback in the form of rewards or punishments.",
+      "It does not require labeled data.",
+      "It learns through trial and error using a reward and punishment system."
+    ],
+    "correct_answer": "It does not require labeled data.",
+    "explanation": "Answer C. It does not require labeled data."
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q8",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the main focus of Machine Learning?",
+    "options": [
+      "Designing physical machines that can perform tasks without human intervention.",
+      "Analyzing and categorizing sensory information.",
+      "Making accurate predictions or decisions without explicit programming.",
+      "Mimicking the decision-making abilities of human experts."
+    ],
+    "correct_answer": "Making accurate predictions or decisions without explicit programming.",
+    "explanation": "Answer C. Making accurate predictions or decisions without explicit programming."
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q9",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the main application of Natural Language Processing (NLP)?",
+    "options": [
+      "Analyzing and categorizing sensory information.",
+      "Making accurate predictions or classifications based on labeled training data.",
+      "Enabling computers to understand, interpret, and generate human language.",
+      "Mimicking the decision-making abilities of human experts."
+    ],
+    "correct_answer": "Enabling computers to understand, interpret, and generate human language.",
+    "explanation": "Answer C. Enabling computers to understand, interpret, and generate human language."
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q10",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the main goal of Supervised Learning?",
+    "options": [
+      "To identify patterns in unlabeled data.",
+      "To make accurate predictions or classifications based on labeled training data.",
+      "To learn through trial and error using a reward and punishment system.",
+      "To mimic human decision-making within a specific field."
+    ],
+    "correct_answer": "To make accurate predictions or classifications based on labeled training data.",
+    "explanation": "Answer B. To make accurate predictions or classifications based on labeled training data."
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q11",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the primary application of Reinforcement Learning?",
+    "options": [
+      "Image classification and object recognition.",
+      "Clustering and anomaly detection.",
+      "Game playing, robotics, and autonomous driving.",
+      "Customer segmentation and market analysis."
+    ],
+    "correct_answer": "Game playing, robotics, and autonomous driving.",
+    "explanation": "Answer C. Game playing, robotics, and autonomous driving."
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q12",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the primary training method used in Supervised Learning?",
+    "options": [
+      "Feedback in the form of rewards or punishments.",
+      "Unlabeled data.",
+      "Labeled training data with input-output pairs.",
+      "Trial and error using a reward and punishment system."
+    ],
+    "correct_answer": "Labeled training data with input-output pairs.",
+    "explanation": "Answer C. Labeled training data with input-output pairs."
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q13",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of AI observability in the context of AI systems?",
+    "options": [
+      "To ensure compliance with AI conformity assessments",
+      "To monitor the behavior and performance of AI systems",
+      "To protect the privacy of individuals' personal data",
+      "To anonymize and pseudonymize data used by AI systems"
+    ],
+    "correct_answer": "To monitor the behavior and performance of AI systems",
+    "explanation": "Answer B. To monitor the behavior and performance of AI systems"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q14",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of classifying AI systems and examining their risks?",
+    "options": [
+      "To restrict the use of AI technologies",
+      "To promote responsible and safe AI development and deployment",
+      "To eliminate all risks associated with AI systems",
+      "To discourage the use of AI in organizations"
+    ],
+    "correct_answer": "To promote responsible and safe AI development and deployment",
+    "explanation": "Answer B. To promote responsible and safe AI development and deployment"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q15",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of developing ethical principles of AI in organizations?",
+    "options": [
+      "To ensure complete automation of decision-making processes",
+      "To prioritize profit over ethical considerations",
+      "To guide the development, procurement, and deployment of AI systems",
+      "To avoid any human involvement in AI-driven decisions"
+    ],
+    "correct_answer": "To guide the development, procurement, and deployment of AI systems",
+    "explanation": "Answer C. To guide the development, procurement, and deployment of AI systems"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q16",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of Machine Perception?",
+    "options": [
+      "To make accurate predictions or classifications based on labeled training data.",
+      "To enable systems to process sensory information and mimic human senses.",
+      "To automate repetitive and rule-based tasks within business processes.",
+      "To replicate the decision-making abilities of human experts."
+    ],
+    "correct_answer": "To enable systems to process sensory information and mimic human senses.",
+    "explanation": "Answer B. To enable systems to process sensory information and mimic human senses."
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q17",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of the inference engine in an Expert System?",
+    "options": [
+      "To analyze and categorize sensory information.",
+      "To make accurate predictions or classifications based on labeled training data.",
+      "To extract relevant information from the knowledge base and make decisions.",
+      "To replicate the decision-making abilities of human experts."
+    ],
+    "correct_answer": "To extract relevant information from the knowledge base and make decisions.",
+    "explanation": "Answer C. To extract relevant information from the knowledge base and make decisions."
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q18",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of an expert system?",
+    "options": [
+      "To automate repetitive tasks within business processes.",
+      "To mimic human actions on digital systems.",
+      "To replicate the decision-making abilities of human experts.",
+      "To analyze and categorize sensory information."
+    ],
+    "correct_answer": "To replicate the decision-making abilities of human experts.",
+    "explanation": "Answer C. To replicate the decision-making abilities of human experts."
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q19",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of the Institute of Electrical and Electronics Engineers (IEEE) Initiative on Ethics of Autonomous and Intelligent Systems?",
+    "options": [
+      "To promote the use of AI for military purposes",
+      "To develop guidelines for ethical AI development and deployment",
+      "To prioritize profit over ethical considerations",
+      "To eliminate the need for human intervention in AI-driven decisions"
+    ],
+    "correct_answer": "To develop guidelines for ethical AI development and deployment",
+    "explanation": "Answer B. To develop guidelines for ethical AI development and deployment"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q20",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What technology played a crucial role in driving AI development and enabling advanced data processing capabilities?",
+    "options": [
+      "Cloud Computing",
+      "Mobile Technology",
+      "Internet of Things (IoT)",
+      "Blockchain"
+    ],
+    "correct_answer": "Cloud Computing",
+    "explanation": "Answer A. Cloud Computing"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q21",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which AI model is commonly used for facial recognition?",
+    "options": [
+      "Linear regression",
+      "Decision tree",
+      "Neural network",
+      "Reinforcement learning model"
+    ],
+    "correct_answer": "Neural network",
+    "explanation": "Answer C. Neural network"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q22",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which AI model is known for its explainability and is often used for sales prediction based on historical data?",
+    "options": [
+      "Decision trees",
+      "Neural networks",
+      "Reinforcement learning models",
+      "Robotics"
+    ],
+    "correct_answer": "Decision trees",
+    "explanation": "Answer A. Decision trees"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q23",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which AI model is known for its lack of transparency and explainability?",
+    "options": [
+      "Linear regression",
+      "Decision tree",
+      "Neural network",
+      "Reinforcement learning model"
+    ],
+    "correct_answer": "Neural network",
+    "explanation": "Answer C. Neural network"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q24",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which AI model is used for analyzing and interpreting spoken language?",
+    "options": [
+      "Computer vision model",
+      "Speech recognition model",
+      "Language model",
+      "Reinforcement learning model"
+    ],
+    "correct_answer": "Speech recognition model",
+    "explanation": "Answer B. Speech recognition model"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q25",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which AI model is used for analyzing and interpreting visual data?",
+    "options": [
+      "Computer vision model",
+      "Speech recognition model",
+      "Language model",
+      "Reinforcement learning model"
+    ],
+    "correct_answer": "Computer vision model",
+    "explanation": "Answer A. Computer vision model"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q26",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which AI model is used for natural language processing and understanding human language?",
+    "options": [
+      "Computer vision model",
+      "Speech recognition model",
+      "Language model",
+      "Reinforcement learning model"
+    ],
+    "correct_answer": "Language model",
+    "explanation": "Answer C. Language model"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q27",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which AI model is used for training AI agents to play games?",
+    "options": [
+      "Linear regression",
+      "Decision tree",
+      "Neural network",
+      "Reinforcement learning model"
+    ],
+    "correct_answer": "Reinforcement learning model",
+    "explanation": "Answer D. Reinforcement learning model"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q28",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which AI model is used in voice assistants like Siri or Alexa?",
+    "options": [
+      "Computer vision model",
+      "Speech recognition model",
+      "Language model",
+      "Reinforcement learning model"
+    ],
+    "correct_answer": "Speech recognition model",
+    "explanation": "Answer B. Speech recognition model"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q29",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which AI model optimizes its actions based on rewards and penalties to achieve a specific goal?",
+    "options": [
+      "Linear regression",
+      "Decision tree",
+      "Neural network",
+      "Reinforcement learning model"
+    ],
+    "correct_answer": "Reinforcement learning model",
+    "explanation": "Answer D. Reinforcement learning model"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q30",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which branch of computer science is concerned with creating technology to do things that normally require human intelligence?",
+    "options": [
+      "Artificial Intelligence (AI)",
+      "Data storage management",
+      "Programming language and development tools",
+      "Data analytics and business intelligence"
+    ],
+    "correct_answer": "Artificial Intelligence (AI)",
+    "explanation": "Answer A. Artificial Intelligence (AI)"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q31",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which category of AI use cases involves analyzing customer behavior and preferences to provide personalized experiences?",
+    "options": [
+      "Recognition",
+      "Detection",
+      "Personalization",
+      "Interaction support"
+    ],
+    "correct_answer": "Personalization",
+    "explanation": "Answer C. Personalization"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q32",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which category of AI use cases involves analyzing images or speech?",
+    "options": [
+      "Recognition",
+      "Detection",
+      "Personalization",
+      "Goal-driven optimization"
+    ],
+    "correct_answer": "Recognition",
+    "explanation": "Answer A. Recognition"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q33",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which compute infrastructure provides isolated compute power, high-speed networking, and specialized chipsets for efficient processing of AI tasks?",
+    "options": [
+      "CPUs and GPUs",
+      "Serverless computing",
+      "High-performance compute clusters",
+      "Quantum computing"
+    ],
+    "correct_answer": "High-performance compute clusters",
+    "explanation": "Answer C. High-performance compute clusters"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q34",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which dimension of the OECD framework examines the type of data used in the AI model?",
+    "options": [
+      "People and planet",
+      "Economic context",
+      "Data and input",
+      "AI model"
+    ],
+    "correct_answer": "Data and input",
+    "explanation": "Answer C. Data and input"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q35",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which dimension of the OECD framework identifies the individuals and groups that might be affected by the AI system?",
+    "options": [
+      "People and planet",
+      "Economic context",
+      "Data and input",
+      "AI model"
+    ],
+    "correct_answer": "People and planet",
+    "explanation": "Answer A. People and planet"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q36",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which ethical principle emphasizes the need for AI systems to be explainable?",
+    "options": [
+      "Accountability",
+      "Safety",
+      "Fairness",
+      "Transparency"
+    ],
+    "correct_answer": "Transparency",
+    "explanation": "Answer D. Transparency"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q37",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which layer of the AI technology stack enables data transmission and communication between AI systems and devices?",
+    "options": [
+      "AI Applications",
+      "AI Platforms",
+      "Compute Infrastructure",
+      "Networks"
+    ],
+    "correct_answer": "Networks",
+    "explanation": "Answer D. Networks"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q38",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which layer of the AI technology stack includes hardware and software resources that support AI systems",
+    "options": [
+      "AI Applications",
+      "AI Platforms",
+      "Compute Infrastructure",
+      "Storage"
+    ],
+    "correct_answer": "Compute Infrastructure",
+    "explanation": "Answer C. Compute Infrastructure"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q39",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which layer of the AI technology stack includes tools and frameworks for developing and managing AI applications?",
+    "options": [
+      "AI Applications",
+      "AI Platforms",
+      "Compute Infrastructure",
+      "Software Development"
+    ],
+    "correct_answer": "Software Development",
+    "explanation": "Answer D. Software Development"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q40",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which layer of the AI technology stack involves storing and managing large amounts of data used by AI applications?",
+    "options": [
+      "AI Applications",
+      "AI Platforms",
+      "Compute Infrastructure",
+      "Storage"
+    ],
+    "correct_answer": "Storage",
+    "explanation": "Answer D. Storage"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q41",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which layer of the AI technology stack involves the development and management of AI applications?",
+    "options": [
+      "AI Applications",
+      "AI Platforms",
+      "Compute Infrastructure",
+      "Storage"
+    ],
+    "correct_answer": "AI Applications",
+    "explanation": "Answer A. AI Applications"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q42",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which layer of the AI technology stack provides tools and infrastructure to develop, test, and deploy AI applications?",
+    "options": [
+      "AI Applications",
+      "AI Platforms",
+      "Compute Infrastructure",
+      "Storage"
+    ],
+    "correct_answer": "AI Platforms",
+    "explanation": "Answer B. AI Platforms"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q43",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is an example of an AI platform?",
+    "options": [
+      "Linear regression",
+      "Decision tree",
+      "Google Cloud Platform",
+      "Robotics"
+    ],
+    "correct_answer": "Google Cloud Platform",
+    "explanation": "Answer C. Google Cloud Platform"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q44",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which organization published the OECD AI Principles?",
+    "options": [
+      "United Nations",
+      "World Health Organization",
+      "Organisation for Economic Co-operation and Development",
+      "International Monetary Fund"
+    ],
+    "correct_answer": "Organisation for Economic Co-operation and Development",
+    "explanation": "Answer C. Organisation for Economic Co-operation and Development"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q45",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which type of machine learning involves learning through rewards and penalties?",
+    "options": [
+      "Supervised learning",
+      "Unsupervised learning",
+      "Reinforcement learning",
+      "Deep learning"
+    ],
+    "correct_answer": "Reinforcement learning",
+    "explanation": "Answer C. Reinforcement learning"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q46",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which type of machine learning involves training an AI system with labelled data to classify or group it into categories?",
+    "options": [
+      "Supervised learning",
+      "Unsupervised learning",
+      "Reinforcement learning",
+      "Deep learning"
+    ],
+    "correct_answer": "Supervised learning",
+    "explanation": "Answer A. Supervised learning"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q47",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of data scientists in industries like healthcare and finance?",
+    "options": [
+      "Leveraging statistical and machine learning methods to extract insights from data",
+      "Developing cloud computing technologies",
+      "Creating social media platforms",
+      "Managing IoT devices"
+    ],
+    "correct_answer": "Leveraging statistical and machine learning methods to extract insights from data",
+    "explanation": "Answer A. Leveraging statistical and machine learning methods to extract insights from data"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M1",
+    "question_number": "Q48",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which technology enables machines to understand the world through images and videos?",
+    "options": [
+      "Cloud Computing",
+      "Mobile Technology",
+      "Computer Vision",
+      "Internet of Things (IoT)"
+    ],
+    "correct_answer": "Computer Vision",
+    "explanation": "Answer C. Computer Vision"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q1",
+    "question_type": "multiple_choice_single_answer",
+    "question": "In the design phase, what is the purpose of data wrangling and preparation?",
+    "options": [
+      "To define the features of the model",
+      "To gather the right data",
+      "To convert raw data into valuable information",
+      "To determine the scope of the project"
+    ],
+    "correct_answer": "To convert raw data into valuable information",
+    "explanation": "Answer C. To convert raw data into valuable information"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q2",
+    "question_type": "multiple_choice_single_answer",
+    "question": "In the development phase, what is the purpose of model training, testing, and evaluation?",
+    "options": [
+      "To define the features of the model",
+      "To gather the right data",
+      "To convert raw data into valuable information",
+      "To train and evaluate the machine learning model"
+    ],
+    "correct_answer": "To train and evaluate the machine learning model",
+    "explanation": "Answer D. To train and evaluate the machine learning model"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q3",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What does privacy testing in AI systems primarily evaluate?",
+    "options": [
+      "The accuracy and precision of the system",
+      "The system's ability to handle unexpected inputs",
+      "Compliance with privacy regulations and data protection",
+      "The system's interpretability and explainability"
+    ],
+    "correct_answer": "Compliance with privacy regulations and data protection",
+    "explanation": "Answer C. Compliance with privacy regulations and data protection"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q4",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is NOT the key consideration in the planning phase regarding data availability?",
+    "options": [
+      "Evaluating the availability and quality of data",
+      "Gathering the right data",
+      "Assessing the impact of using an AI system",
+      "Establishing an AI governance structure"
+    ],
+    "correct_answer": "Gathering the right data",
+    "explanation": "Answer B. Gathering the right data"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q5",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is one of the risks associated with introducing new data into an algorithm?",
+    "options": [
+      "Model inversion",
+      "Data poisoning",
+      "Evasion",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q6",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the key consideration in the design phase regarding data formats?",
+    "options": [
+      "Evaluating the availability and quality of data",
+      "Determining the required data",
+      "Assessing the impact of using an AI system",
+      "Considering structured and unstructured data"
+    ],
+    "correct_answer": "Considering structured and unstructured data",
+    "explanation": "Answer D. Considering structured and unstructured data"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q7",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the key consideration in the design phase regarding data quality?",
+    "options": [
+      "Evaluating the availability and quality of data",
+      "Determining the required data",
+      "Assessing the impact of using an AI system",
+      "Ensuring data accuracy and trustworthiness"
+    ],
+    "correct_answer": "Ensuring data accuracy and trustworthiness",
+    "explanation": "Answer D. Ensuring data accuracy and trustworthiness"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q8",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the primary focus of the development phase in the AI development life cycle?",
+    "options": [
+      "Defining the business problem",
+      "Implementing a data strategy",
+      "Building the AI model",
+      "Conducting a readiness assessment"
+    ],
+    "correct_answer": "Building the AI model",
+    "explanation": "Answer C. Building the AI model"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q9",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the primary focus of the planning phase in the AI development life cycle?",
+    "options": [
+      "Defining the business problem",
+      "Implementing a data strategy",
+      "Building the AI model",
+      "Conducting a readiness assessment"
+    ],
+    "correct_answer": "Defining the business problem",
+    "explanation": "Answer A. Defining the business problem"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q10",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of a communication plan in AI projects?",
+    "options": [
+      "To limit communication with stakeholders",
+      "To ensure compliance with regulations",
+      "To confuse stakeholders with complex documentation",
+      "To provide transparency and clarity about the AI system"
+    ],
+    "correct_answer": "To provide transparency and clarity about the AI system",
+    "explanation": "Answer D. To provide transparency and clarity about the AI system"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q11",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of a privacy impact assessment (PIA) in AI projects?",
+    "options": [
+      "To ensure compliance with data protection regulations",
+      "To eliminate all privacy risks associated with AI",
+      "To exclude stakeholders from the decision-making process",
+      "To delay the AI project timeline"
+    ],
+    "correct_answer": "To ensure compliance with data protection regulations",
+    "explanation": "Answer A. To ensure compliance with data protection regulations"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q12",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of bias testing in AI systems?",
+    "options": [
+      "To evaluate the accuracy and precision of the system",
+      "To assess the system's ability to handle different types of inputs",
+      "To ensure compliance with privacy regulations",
+      "To identify and mitigate biases in the system's decision-making process"
+    ],
+    "correct_answer": "To identify and mitigate biases in the system's decision-making process",
+    "explanation": "Answer D. To identify and mitigate biases in the system's decision-making process"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q13",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of continuous monitoring in the implementation phase?",
+    "options": [
+      "To evaluate the availability and quality of data",
+      "To continuously monitor the AI system's performance",
+      "To determine the scope of the project",
+      "To assess if the AI system is ready for deployment"
+    ],
+    "correct_answer": "To continuously monitor the AI system's performance",
+    "explanation": "Answer B. To continuously monitor the AI system's performance"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q14",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of creating challenger models in AI systems?",
+    "options": [
+      "To test and compare against the existing model for drift or unexpected results",
+      "To improve the performance of the AI system",
+      "To comply with industry standards",
+      "All of the above"
+    ],
+    "correct_answer": "To test and compare against the existing model for drift or unexpected results",
+    "explanation": "Answer A. To test and compare against the existing model for drift or unexpected results"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q15",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of feature engineering in the development phase?",
+    "options": [
+      "To define the features of the model",
+      "To gather the right data",
+      "To convert raw data into valuable information",
+      "To ensure the model can deeply understand the data"
+    ],
+    "correct_answer": "To ensure the model can deeply understand the data",
+    "explanation": "Answer D. To ensure the model can deeply understand the data"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q16",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of having the ability to shut down underperforming AI systems?",
+    "options": [
+      "To prevent errors and harm",
+      "To comply with industry standards",
+      "To improve the performance of the AI system",
+      "All of the above"
+    ],
+    "correct_answer": "To prevent errors and harm",
+    "explanation": "Answer A. To prevent errors and harm"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q17",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of interpretability testing in AI systems?",
+    "options": [
+      "To evaluate the accuracy and precision of the system",
+      "To assess the system's ability to handle different types of inputs",
+      "To ensure compliance with privacy regulations",
+      "To understand and explain how the system arrives at its decisions"
+    ],
+    "correct_answer": "To understand and explain how the system arrives at its decisions",
+    "explanation": "Answer D. To understand and explain how the system arrives at its decisions"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q18",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of model cards or fact sheets in AI systems?",
+    "options": [
+      "To evaluate the accuracy and precision of the system",
+      "To provide standardized information about the model and its function",
+      "To ensure compliance with privacy regulations",
+      "To understand and explain how the system arrives at its decisions"
+    ],
+    "correct_answer": "To provide standardized information about the model and its function",
+    "explanation": "Answer B. To provide standardized information about the model and its function"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q19",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of robustness testing in AI systems?",
+    "options": [
+      "To evaluate the accuracy and precision of the system",
+      "To ensure compliance with privacy regulations",
+      "To assess the system's ability to handle unexpected or adversarial inputs",
+      "To identify and mitigate biases in the system's decision-making process"
+    ],
+    "correct_answer": "To assess the system's ability to handle unexpected or adversarial inputs",
+    "explanation": "Answer C. To assess the system's ability to handle unexpected or adversarial inputs"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q20",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of the planning phase in the AI development life cycle?",
+    "options": [
+      "To build the AI model",
+      "To continuously monitor the AI system's performance",
+      "To update and modify the AI model over time",
+      "To define the business problem and set the foundation for the AI system"
+    ],
+    "correct_answer": "To define the business problem and set the foundation for the AI system",
+    "explanation": "Answer D. To define the business problem and set the foundation for the AI system"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q21",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What should be considered when identifying the data needed for training an AI algorithm?",
+    "options": [
+      "The availability of data",
+      "The accuracy and representativeness of the data",
+      "The desire to include biased data",
+      "The need to exclude certain data sources"
+    ],
+    "correct_answer": "The accuracy and representativeness of the data",
+    "explanation": "Answer B. The accuracy and representativeness of the data"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q22",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What should be documented in an algorithmic impact assessment?",
+    "options": [
+      "Decisions made by the stakeholder group",
+      "All potential risks without mitigation strategies",
+      "The exclusion of certain stakeholders",
+      "The desire to ignore potential risks"
+    ],
+    "correct_answer": "Decisions made by the stakeholder group",
+    "explanation": "Answer A. Decisions made by the stakeholder group"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q23",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which phase of the AI development life cycle involves determining the scope of the project?",
+    "options": [
+      "Planning phase",
+      "Design phase",
+      "Development phase",
+      "Implementation phase"
+    ],
+    "correct_answer": "Planning phase",
+    "explanation": "Answer A. Planning phase"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q24",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which phase of the AI development life cycle involves selecting the appropriate algorithm and system architecture?",
+    "options": [
+      "Planning phase",
+      "Design phase",
+      "Development phase",
+      "Implementation phase"
+    ],
+    "correct_answer": "Design phase",
+    "explanation": "Answer B. Design phase"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q25",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which type of testing evaluates how well an AI system performs by comparing its outputs or predictions with ground truth or expert judgments",
+    "options": [
+      "Accuracy testing",
+      "Robustness testing",
+      "Reliability testing",
+      "Privacy testing"
+    ],
+    "correct_answer": "Accuracy testing",
+    "explanation": "Answer A. Accuracy testing"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q26",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which type of testing focuses on assessing the consistency and stability of an AI system's performance over time?",
+    "options": [
+      "Accuracy testing",
+      "Robustness testing",
+      "Reliability testing",
+      "Privacy testing"
+    ],
+    "correct_answer": "Reliability testing",
+    "explanation": "Answer C. Reliability testing"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q27",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which type of testing is crucial for AI systems with safety implications?",
+    "options": [
+      "Accuracy testing",
+      "Robustness testing",
+      "Safety testing",
+      "Bias testing"
+    ],
+    "correct_answer": "Safety testing",
+    "explanation": "Answer C. Safety testing"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M4",
+    "question_number": "Q28",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Why is documentation important in the development of AI systems?",
+    "options": [
+      "It helps ensure compliance with regulatory requirements",
+      "It provides a record of decisions and updates for future audits",
+      "It promotes transparency and accountability",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q1",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How can AI systems be continuously improved and maintained?",
+    "options": [
+      "By retraining with new data",
+      "By incorporating human input and feedback",
+      "By creating challenger models",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q2",
+    "question_type": "multiple_choice_single_answer",
+    "question": "In the implementation phase, what is the purpose of continuous monitoring?",
+    "options": [
+      "To evaluate the availability and quality of data",
+      "To continuously monitor the AI system's performance",
+      "To determine the scope of the project",
+      "To assess if the AI system is ready for deployment"
+    ],
+    "correct_answer": "To continuously monitor the AI system's performance",
+    "explanation": "Answer B. To continuously monitor the AI system's performance"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q3",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the importance of documenting appropriate uses of AI?",
+    "options": [
+      "To prevent any use of AI in the project",
+      "To ensure that AI is used for unintended purposes",
+      "To provide clarity and prevent misuse of the AI system",
+      "To exclude stakeholders from understanding the AI system"
+    ],
+    "correct_answer": "To provide clarity and prevent misuse of the AI system",
+    "explanation": "Answer C. To provide clarity and prevent misuse of the AI system"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q4",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the primary focus of the implementation phase in the AI development life cycle?",
+    "options": [
+      "Defining the business problem",
+      "Implementing a data strategy",
+      "Building the AI model",
+      "Deploying and monitoring the AI system"
+    ],
+    "correct_answer": "Deploying and monitoring the AI system",
+    "explanation": "Answer D. Deploying and monitoring the AI system"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q5",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of creating policies to manage third-party risk in AI governance?",
+    "options": [
+      "To mitigate risks associated with third-party involvement",
+      "To identify the purpose and specify the use of AI programs",
+      "To determine the severity of harm associated with each risk",
+      "To ensure compliance with industry standards and regulations"
+    ],
+    "correct_answer": "To mitigate risks associated with third-party involvement",
+    "explanation": "Answer A. To mitigate risks associated with third-party involvement"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q6",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of monitoring AI systems for security risks?",
+    "options": [
+      "To ensure compliance with industry standards",
+      "To identify unintended outputs or additional risks",
+      "To improve the performance of the AI system",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q7",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of the readiness assessment in the implementation phase?",
+    "options": [
+      "To evaluate the availability and quality of data",
+      "To continuously monitor the AI system's performance",
+      "To determine the scope of the project",
+      "To assess if the AI system is ready for deployment"
+    ],
+    "correct_answer": "To assess if the AI system is ready for deployment",
+    "explanation": "Answer D. To assess if the AI system is ready for deployment"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q8",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What should organizations have in place to handle incidents related to AI systems?",
+    "options": [
+      "Incident response plan",
+      "Risk score",
+      "Deactivation procedure",
+      "All of the above"
+    ],
+    "correct_answer": "Incident response plan",
+    "explanation": "Answer A. Incident response plan"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q9",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which phase of the AI development life cycle involves updating or modifying the AI model over time?",
+    "options": [
+      "Planning phase",
+      "Design phase",
+      "Development phase",
+      "Implementation phase"
+    ],
+    "correct_answer": "Implementation phase",
+    "explanation": "Answer D. Implementation phase"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q10",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Why is continuous evaluation important for AI systems?",
+    "options": [
+      "It helps identify potential risks associated with the system",
+      "It ensures the system produces consistent outcomes",
+      "It allows for testing with unseen data and edge cases",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q11",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Why is it important to document the model version and data set used for an AI system?",
+    "options": [
+      "To comply with regulatory requirements",
+      "To create challenger models for comparison",
+      "To ensure transparency with regulatory agencies and consumers",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 2.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q12",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Why is it important to monitor risks from third parties in AI systems?",
+    "options": [
+      "To ensure the security and integrity of the system",
+      "To comply with industry standards",
+      "To improve the performance of the AI system",
+      "All of the above"
+    ],
+    "correct_answer": "To ensure the security and integrity of the system",
+    "explanation": "Answer A. To ensure the security and integrity of the system"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q1",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How can AI systems be continuously improved and maintained?",
+    "options": [
+      "By retraining with new data",
+      "By incorporating human input and feedback",
+      "By creating challenger models",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q2",
+    "question_type": "multiple_choice_single_answer",
+    "question": "In the implementation phase, what is the purpose of continuous monitoring?",
+    "options": [
+      "To evaluate the availability and quality of data",
+      "To continuously monitor the AI system's performance",
+      "To determine the scope of the project",
+      "To assess if the AI system is ready for deployment"
+    ],
+    "correct_answer": "To continuously monitor the AI system's performance",
+    "explanation": "Answer B. To continuously monitor the AI system's performance"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q3",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the importance of documenting appropriate uses of AI?",
+    "options": [
+      "To prevent any use of AI in the project",
+      "To ensure that AI is used for unintended purposes",
+      "To provide clarity and prevent misuse of the AI system",
+      "To exclude stakeholders from understanding the AI system"
+    ],
+    "correct_answer": "To provide clarity and prevent misuse of the AI system",
+    "explanation": "Answer C. To provide clarity and prevent misuse of the AI system"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q4",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the primary focus of the implementation phase in the AI development life cycle?",
+    "options": [
+      "Defining the business problem",
+      "Implementing a data strategy",
+      "Building the AI model",
+      "Deploying and monitoring the AI system"
+    ],
+    "correct_answer": "Deploying and monitoring the AI system",
+    "explanation": "Answer D. Deploying and monitoring the AI system"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q5",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of creating policies to manage third-party risk in AI governance?",
+    "options": [
+      "To mitigate risks associated with third-party involvement",
+      "To identify the purpose and specify the use of AI programs",
+      "To determine the severity of harm associated with each risk",
+      "To ensure compliance with industry standards and regulations"
+    ],
+    "correct_answer": "To mitigate risks associated with third-party involvement",
+    "explanation": "Answer A. To mitigate risks associated with third-party involvement"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q6",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of monitoring AI systems for security risks?",
+    "options": [
+      "To ensure compliance with industry standards",
+      "To identify unintended outputs or additional risks",
+      "To improve the performance of the AI system",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q7",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of the readiness assessment in the implementation phase?",
+    "options": [
+      "To evaluate the availability and quality of data",
+      "To assess if the AI system is ready for deployment",
+      "To determine the scope of the project",
+      "To continuously monitor the AI system's performance"
+    ],
+    "correct_answer": "To assess if the AI system is ready for deployment",
+    "explanation": "Answer B. To assess if the AI system is ready for deployment"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q8",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What should organizations have in place to handle incidents related to AI systems?",
+    "options": [
+      "Incident response plan",
+      "Risk score",
+      "Deactivation procedure",
+      "All of the above"
+    ],
+    "correct_answer": "Incident response plan",
+    "explanation": "Answer A. Incident response plan"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q9",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which phase of the AI development life cycle involves updating or modifying the AI model over time?",
+    "options": [
+      "Planning phase",
+      "Implementation phase",
+      "Development phase",
+      "Design phase"
+    ],
+    "correct_answer": "Implementation phase",
+    "explanation": "Answer B. Implementation phase"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q10",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Why is continuous evaluation important for AI systems?",
+    "options": [
+      "It helps identify potential risks associated with the system",
+      "It ensures the system produces consistent outcomes",
+      "It allows for testing with unseen data and edge cases",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q11",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Why is it important to document the model version and data set used for an AI system?",
+    "options": [
+      "To comply with regulatory requirements",
+      "To create challenger models for comparison",
+      "To ensure transparency with regulatory agencies and consumers",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M5",
+    "question_number": "Q12",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Why is it important to monitor risks from third parties in AI systems?",
+    "options": [
+      "To ensure the security and integrity of the system",
+      "To comply with industry standards",
+      "To improve the performance of the AI system",
+      "All of the above"
+    ],
+    "correct_answer": "To ensure the security and integrity of the system",
+    "explanation": "Answer A. To ensure the security and integrity of the system"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q1",
+    "question_type": "multiple_choice_single_answer",
+    "question": "The EU AI Act emphasizes the importance of which of the following characteristics for AI systems?",
+    "options": [
+      "Safety and transparency",
+      "Accuracy and efficiency",
+      "Scalability and adaptability",
+      "Cost-effectiveness and profitability"
+    ],
+    "correct_answer": "Safety and transparency",
+    "explanation": "Answer. A Safety and transparency"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q2",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What are the penalties for noncompliance with the EU AI Act?",
+    "options": [
+      "Verbal warnings",
+      "Monetary fines",
+      "Suspension of AI system operations",
+      "Community service"
+    ],
+    "correct_answer": "Monetary fines",
+    "explanation": "Answer B. Monetary fines"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q3",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the EU model's classification for AI risk levels?",
+    "options": [
+      "Low, medium, high",
+      "Acceptable, moderate, high",
+      "Unacceptable/Prohibited, high, limited, minimal",
+      "Critical, significant, minor"
+    ],
+    "correct_answer": "Unacceptable/Prohibited, high, limited, minimal",
+    "explanation": "Answer C. Unacceptable/Prohibited, high, limited, minimal"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q4",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the penalty for non-compliance with the EU AI Act for prohibited AI systems?",
+    "options": [
+      "Verbal warning",
+      "Temporary suspension of AI system operations",
+      "Monetary fines",
+      "Community service"
+    ],
+    "correct_answer": "Monetary fines",
+    "explanation": "Answer C. Monetary fines"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q5",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of AI conformity assessments (CAs)?",
+    "options": [
+      "To ensure compliance with the GDPR",
+      "To assess the risks associated with AI systems",
+      "To provide technical documentation for AI technology",
+      "To anonymize and pseudonymize data"
+    ],
+    "correct_answer": "To assess the risks associated with AI systems",
+    "explanation": "Answer B. To assess the risks associated with AI systems"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q6",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of the EU AI Act's classification framework?",
+    "options": [
+      "To categorize AI systems based on their market value",
+      "To determine the level of risk associated with AI systems",
+      "To differentiate between AI systems developed by different providers",
+      "To assess the popularity of AI systems in the market"
+    ],
+    "correct_answer": "To determine the level of risk associated with AI systems",
+    "explanation": "Answer B. To determine the level of risk associated with AI systems"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q7",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of the EU model for classifying AI into risk levels?",
+    "options": [
+      "To determine the severity of harm associated with each risk",
+      "To ensure compliance with industry standards and regulations",
+      "To prioritize risks based on their potential impact and likelihood",
+      "To allocate resources to the highest risk areas"
+    ],
+    "correct_answer": "To prioritize risks based on their potential impact and likelihood",
+    "explanation": "Answer C. To prioritize risks based on their potential impact and likelihood"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q8",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of the exemptions for research and development under the EU AI Act?",
+    "options": [
+      "To encourage responsible innovation and experimentation",
+      "To exempt researchers from ethical considerations",
+      "To limit the use of AI in research activities",
+      "To promote commercialization of AI technologies"
+    ],
+    "correct_answer": "To encourage responsible innovation and experimentation",
+    "explanation": "Answer A. To encourage responsible innovation and experimentation"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q9",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of the public EU database for high-risk AI systems?",
+    "options": [
+      "To track the performance of AI systems",
+      "To provide transparency about high-risk AI systems",
+      "To register AI providers",
+      "To report serious incidents and malfunctions"
+    ],
+    "correct_answer": "To provide transparency about high-risk AI systems",
+    "explanation": "Answer B. To provide transparency about high-risk AI systems"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q10",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of the transparency measures required for high-risk AI systems?",
+    "options": [
+      "To limit the use of AI in specific sectors",
+      "To track the performance of AI systems",
+      "To encourage innovation and experimentation",
+      "To ensure the safety and accountability of AI systems"
+    ],
+    "correct_answer": "To ensure the safety and accountability of AI systems",
+    "explanation": "Answer D To ensure the safety and accountability of AI systems"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q11",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the requirement for providers of GPAI models under the EU AI Act?",
+    "options": [
+      "They must maintain technical documentation and provide summaries of training data.",
+      "They must implement a risk management system and register in the public EU database.",
+      "They must complete a Full Risk Impact Assessment (FRIA) and report serious incidents.",
+      "They must comply with transparency measures and provide instructions for use."
+    ],
+    "correct_answer": "They must maintain technical documentation and provide summaries of training data.",
+    "explanation": "Answer A. They must maintain technical documentation and provide summaries of training data."
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q12",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the requirement for providers of high-risk AI systems regarding transparency measures?",
+    "options": [
+      "They must provide clear and relevant information about the provider and how the system was built.",
+      "They must register in the public EU database before placing the system on the market.",
+      "They must complete a Full Risk Impact Assessment (FRIA).",
+      "They must report serious incidents and malfunctions to national authorities."
+    ],
+    "correct_answer": "They must provide clear and relevant information about the provider and how the system was built.",
+    "explanation": "Answer A. They must provide clear and relevant information about the provider and how the system was built."
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q13",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of sectoral regulators in enforcing the EU AI Act?",
+    "options": [
+      "To oversee the implementation of the Act at the EU level",
+      "To maintain the public EU database",
+      "To enforce the Act for specific sectors",
+      "To conduct risk assessments for AI systems"
+    ],
+    "correct_answer": "To enforce the Act for specific sectors",
+    "explanation": "Answer C. To enforce the Act for specific sectors"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q14",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of the European AI Office and AI Board established by the EU AI Act?",
+    "options": [
+      "To enforce the Act for specific sectors",
+      "To oversee the implementation and enforcement of the Act at the EU level",
+      "To conduct risk assessments for AI systems",
+      "To maintain the public EU database"
+    ],
+    "correct_answer": "To oversee the implementation and enforcement of the Act at the EU level",
+    "explanation": "Answer B. To oversee the implementation and enforcement of the Act at the EU level"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q15",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which category of AI systems has the least regulatory requirements under the EU AI Act?",
+    "options": [
+      "Prohibited risk",
+      "High risk",
+      "Limited risk",
+      "Low risk"
+    ],
+    "correct_answer": "Low risk",
+    "explanation": "Answer D. Low risk"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q16",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which category of AI systems primarily focuses on transparency requirements?",
+    "options": [
+      "Prohibited risk",
+      "High risk",
+      "Limited risk",
+      "Low risk"
+    ],
+    "correct_answer": "Limited risk",
+    "explanation": "Answer C. Limited risk"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q17",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which category of AI systems requires deployers to complete a Full Risk Impact Assessment (FRIA)?",
+    "options": [
+      "Prohibited risk",
+      "High risk",
+      "Limited risk",
+      "Low risk"
+    ],
+    "correct_answer": "High risk",
+    "explanation": "Answer B. High risk"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q18",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which category of AI systems requires providers to implement a risk management system?",
+    "options": [
+      "Prohibited risk",
+      "High risk",
+      "Limited risk",
+      "Low risk"
+    ],
+    "correct_answer": "High risk",
+    "explanation": "Answer B. High risk"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q19",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which category of AI systems requires providers to register in the public EU database before placing them on the market?",
+    "options": [
+      "High risk",
+      "Limited risk",
+      "Low risk",
+      "Prohibited risk"
+    ],
+    "correct_answer": "High risk",
+    "explanation": "Answer A. High risk"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q20",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is a characteristic of trustworthy AI according to the EU AI Act?",
+    "options": [
+      "Scalability",
+      "Non-discrimination",
+      "Cost-effectiveness",
+      "Technological advancement"
+    ],
+    "correct_answer": "Non-discrimination",
+    "explanation": "Answer B. Non-discrimination"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q21",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is an example of a prohibited AI system under the EU AI Act?",
+    "options": [
+      "AI system used for spam filtering",
+      "AI system used for inventory management",
+      "AI system used for predictive policing",
+      "AI system used for customer service chatbots"
+    ],
+    "correct_answer": "AI system used for predictive policing",
+    "explanation": "Answer: C. AI system used for predictive policing"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M6",
+    "question_number": "Q22",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is not a category of AI systems under the EU AI Act?",
+    "options": [
+      "Prohibited risk",
+      "High risk",
+      "Moderate risk",
+      "Low risk"
+    ],
+    "correct_answer": "Moderate risk",
+    "explanation": "Answer C. Moderate risk"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q1",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How can personal data be protected in AI systems?",
+    "options": [
+      "By sharing personal data with individuals who should not have access to it",
+      "By aggregating personal data with identified data",
+      "By removing identifiers from the data",
+      "By using facial recognition algorithms"
+    ],
+    "correct_answer": "By removing identifiers from the data",
+    "explanation": "Answer C. By removing identifiers from the data"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q2",
+    "question_type": "multiple_choice_single_answer",
+    "question": "The Council of Europe's HUDERIA framework focuses on incorporating which aspect into AI impact assessments?",
+    "options": [
+      "Human rights and ethical considerations",
+      "Financial and economic considerations",
+      "Technological advancements and innovations",
+      "Political and ideological considerations"
+    ],
+    "correct_answer": "Human rights and ethical considerations",
+    "explanation": "Answer A. Human rights and ethical considerations"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q3",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What are the challenges in complying with privacy laws in the context of AI?",
+    "options": [
+      "Notice and consent models for personal data control",
+      "Understanding the scope of laws and conducting necessary reviews",
+      "Implementing controls to mitigate risks and ensure compliance",
+      "Compliance with data retention and disclosure rules"
+    ],
+    "correct_answer": "Notice and consent models for personal data control",
+    "explanation": "Answer A. Notice and consent models for personal data control"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q4",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What are the key principles underpinning the GDPR?",
+    "options": [
+      "Accuracy, correction, and right to erasure",
+      "Purpose limitations, data minimization, and integrity",
+      "Lawfulness, fairness, and transparency",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "Answer D. All of the above"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q5",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is one of the challenges in compensating for AI-induced harm?",
+    "options": [
+      "Clear attribution of liability to the AI system",
+      "Transparency of AI system decision-making",
+      "Simplified legal frameworks for AI product liability",
+      "Complexity and opacity of AI systems"
+    ],
+    "correct_answer": "Complexity and opacity of AI systems",
+    "explanation": "Answer D. Complexity and opacity of AI systems"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q6",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is one of the challenges in proving liability for AI-induced harm?",
+    "options": [
+      "Lack of product liability laws for AI systems",
+      "Difficulty in attributing harm due to the autonomous nature of AI systems",
+      "Clear understanding of AI system outputs",
+      "Simplified and transparent AI system design"
+    ],
+    "correct_answer": "Difficulty in attributing harm due to the autonomous nature of AI systems",
+    "explanation": "Answer B. Difficulty in attributing harm due to the autonomous nature of AI systems"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q7",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is one of the core measures of the AI Liability Directive?",
+    "options": [
+      "Empowering courts to order disclosures of evidence about high-risk AI systems",
+      "Presumption of strict liability for AI-induced harm",
+      "Exemption of AI systems from liability claims",
+      "Restricting compensation for AI-induced harm"
+    ],
+    "correct_answer": "Empowering courts to order disclosures of evidence about high-risk AI systems",
+    "explanation": "Answer A. Empowering courts to order disclosures of evidence about high-risk AI systems"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q8",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the main goal of AI conformity assessments (CAs)?",
+    "options": [
+      "To ensure the AI system is fair and transparent",
+      "To identify potential impacts and risks of the AI system",
+      "To provide technical documentation for the AI system",
+      "To anonymize and pseudonymize data used by the AI system"
+    ],
+    "correct_answer": "To identify potential impacts and risks of the AI system",
+    "explanation": "Answer B. To identify potential impacts and risks of the AI system"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q9",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of a data protection impact assessment (DPIA)?",
+    "options": [
+      "To assess the risks and impacts of data breaches",
+      "To evaluate the effectiveness of data protection measures",
+      "To identify and mitigate risks associated with personal data processing activities",
+      "To ensure compliance with data retention requirements"
+    ],
+    "correct_answer": "To identify and mitigate risks associated with personal data processing activities",
+    "explanation": "Answer C. To identify and mitigate risks associated with personal data processing activities"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q10",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of notice and consent models in privacy laws?",
+    "options": [
+      "To ensure accurate data retention and disclosure",
+      "To govern employment practices in AI companies",
+      "To provide transparency and control over personal data",
+      "To regulate AI-specific technologies"
+    ],
+    "correct_answer": "To provide transparency and control over personal data",
+    "explanation": "Answer C. To provide transparency and control over personal data"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q11",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of pseudonymization in the context of AI?",
+    "options": [
+      "To protect data by encrypting it",
+      "To remove all personal identifiers from data",
+      "To ensure compliance with the GDPR",
+      "To retain utility while protecting privacy"
+    ],
+    "correct_answer": "To retain utility while protecting privacy",
+    "explanation": "Answer D. To retain utility while protecting privacy"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q12",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of the Council of Europe's HUDERIA framework?",
+    "options": [
+      "To promote AI research and development",
+      "To incorporate human rights into AI impact assessments",
+      "To regulate the use of AI in specific industries",
+      "To ensure the profitability of AI systems"
+    ],
+    "correct_answer": "To incorporate human rights into AI impact assessments",
+    "explanation": "Answer B. To incorporate human rights into AI impact assessments"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q13",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of the General Data Protection Regulation (GDPR)?",
+    "options": [
+      "To regulate AI-specific technologies",
+      "To ensure product safety in AI systems",
+      "To protect individuals' privacy rights",
+      "To govern employment practices in AI companies"
+    ],
+    "correct_answer": "To protect individuals' privacy rights",
+    "explanation": "Answer C. To protect individuals' privacy rights"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q14",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of AI conformity assessments (CAs) in ensuring compliance with the GDPR?",
+    "options": [
+      "To assess the risks associated with AI systems",
+      "To provide technical documentation for AI technology",
+      "To anonymize and pseudonymize data",
+      "To ensure the AI system is fair and transparent"
+    ],
+    "correct_answer": "To assess the risks associated with AI systems",
+    "explanation": "Answer A. To assess the risks associated with AI systems"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q15",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of consumer protection laws in the context of AI?",
+    "options": [
+      "To regulate AI-specific technologies",
+      "To ensure the safety and fairness of AI systems",
+      "To govern employment practices in AI companies",
+      "To protect AI systems from intellectual property infringement"
+    ],
+    "correct_answer": "To ensure the safety and fairness of AI systems",
+    "explanation": "Answer B. To ensure the safety and fairness of AI systems"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q16",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of human intervention in automated decision-making under the GDPR?",
+    "options": [
+      "To ensure the AI system is accurate and fair",
+      "To provide consent for automated decision-making",
+      "To review and override automated decisions in certain circumstances",
+      "To train the AI system on new data"
+    ],
+    "correct_answer": "To review and override automated decisions in certain circumstances",
+    "explanation": "Answer C. To review and override automated decisions in certain circumstances"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q17",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the threshold for anonymization under the GDPR?",
+    "options": [
+      "No threshold, all data can be anonymized",
+      "50% of data must be anonymized",
+      "75% of data must be anonymized",
+      "High threshold, making re-identification practically impossible"
+    ],
+    "correct_answer": "High threshold, making re-identification practically impossible",
+    "explanation": "Answer D. High threshold, making re-identification practically impossible"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q18",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which article of the GDPR grants individuals the right to access their personal data?",
+    "options": [
+      "Article 22",
+      "Article 35",
+      "Article 15",
+      "Article 10"
+    ],
+    "correct_answer": "Article 15",
+    "explanation": "Answer C. Article 15"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q19",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which article of the GDPR imposes a general prohibition on automated decision-making?",
+    "options": [
+      "Article 22",
+      "Article 35",
+      "Article 15",
+      "Article 10"
+    ],
+    "correct_answer": "Article 22",
+    "explanation": "Answer A. Article 22"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q20",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which article of the GDPR requires organizations to conduct a data protection impact assessment (DPIA) for high-risk processing activities?",
+    "options": [
+      "Article 22",
+      "Article 35",
+      "Article 15",
+      "Article 10"
+    ],
+    "correct_answer": "Article 35",
+    "explanation": "Answer B. Article 35"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q21",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which country has implemented the first AI governance framework in Asia?",
+    "options": [
+      "Canada",
+      "United States",
+      "Singapore",
+      "China"
+    ],
+    "correct_answer": "Singapore",
+    "explanation": "Answer C. Singapore"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q22",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which country's product liability laws are determined at the state level?",
+    "options": [
+      "United States",
+      "United Kingdom",
+      "Germany",
+      "France"
+    ],
+    "correct_answer": "United States",
+    "explanation": "Answer A. United States"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q23",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which data protection impact assessment (DPIA) is required for high-risk AI systems?",
+    "options": [
+      "Initial DPIA",
+      "Continuous DPIA",
+      "AI DPIA",
+      "GDPR DPIA"
+    ],
+    "correct_answer": "AI DPIA",
+    "explanation": "Answer C. AI DPIA"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q24",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which EU liability reform proposal reinforces the EU AI Act?",
+    "options": [
+      "Reform Product Liability Directive",
+      "AI Liability Directive",
+      "EU Product Liability Reform Act",
+      "EU AI Product Liability Directive"
+    ],
+    "correct_answer": "AI Liability Directive",
+    "explanation": "Answer B. AI Liability Directive"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q25",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which EU proposal aims to include AI, software, and digital products within the scope of product liability law?",
+    "options": [
+      "Reform Product Liability Directive",
+      "AI Liability Directive",
+      "EU AI Act",
+      "EU Product Liability Reform Act"
+    ],
+    "correct_answer": "Reform Product Liability Directive",
+    "explanation": "Answer A. Reform Product Liability Directive"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q26",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which EU proposal seeks to make it easier for victims of AI-induced harm to prove liability and receive compensation?",
+    "options": [
+      "Reform Product Liability Directive",
+      "AI Liability Directive",
+      "EU AI Act",
+      "EU Product Liability Reform Act"
+    ],
+    "correct_answer": "AI Liability Directive",
+    "explanation": "Answer B. AI Liability Directive"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q27",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which industries have specific regulatory considerations when implementing AI?",
+    "options": [
+      "Financial services, healthcare, transportation",
+      "Retail, hospitality, entertainment",
+      "Agriculture, construction, manufacturing",
+      "Education, technology, telecommunications"
+    ],
+    "correct_answer": "Financial services, healthcare, transportation",
+    "explanation": "Answer A. Financial services, healthcare, transportation"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q28",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which jurisdiction focuses on explainability, transparency, and fairness in AI decision-making?",
+    "options": [
+      "United States",
+      "China",
+      "Singapore",
+      "Japan"
+    ],
+    "correct_answer": "Singapore",
+    "explanation": "Answer C. Singapore"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q29",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which jurisdiction does not focus on risk-based approach in AI regulation?",
+    "options": [
+      "Brazil",
+      "United States",
+      "China",
+      "Canada"
+    ],
+    "correct_answer": "China",
+    "explanation": "Answer C. China"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q30",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which jurisdiction has a focus on managing risk and ensuring trust in AI systems?",
+    "options": [
+      "Brazil",
+      "United States",
+      "Singapore",
+      "Canada"
+    ],
+    "correct_answer": "Singapore",
+    "explanation": "Answer C. Singapore"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q31",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which jurisdiction has a focus on removing bias and promoting equity in AI systems?",
+    "options": [
+      "Canada",
+      "United States",
+      "China",
+      "Japan"
+    ],
+    "correct_answer": "United States",
+    "explanation": "Answer B. United States"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q32",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which jurisdiction has a rights-based approach and requires companies to register algorithms with the government?",
+    "options": [
+      "Brazil",
+      "China",
+      "Canada",
+      "Singapore"
+    ],
+    "correct_answer": "China",
+    "explanation": "Answer B. China"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q33",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which jurisdiction has a voluntary Model Framework for AI governance?",
+    "options": [
+      "China",
+      "United States",
+      "Singapore",
+      "Japan"
+    ],
+    "correct_answer": "Singapore",
+    "explanation": "Answer C. Singapore"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q34",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which jurisdiction has an industry-led advisory council on ethical use of AI?",
+    "options": [
+      "Japan",
+      "China",
+      "Singapore",
+      "United States"
+    ],
+    "correct_answer": "Singapore",
+    "explanation": "Answer C. Singapore"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q35",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which jurisdiction has existing federal guidance but no specific overarching AI legislation?",
+    "options": [
+      "China",
+      "United States",
+      "Singapore",
+      "Japan"
+    ],
+    "correct_answer": "United States",
+    "explanation": "Answer B. United States"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q36",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which jurisdiction has guidelines for generative AI service providers to conduct security reviews and register algorithms?",
+    "options": [
+      "United States",
+      "China",
+      "Singapore",
+      "Japan"
+    ],
+    "correct_answer": "China",
+    "explanation": "Answer B. China"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q37",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which jurisdiction has the Digital Charter Implementation Act of 2022?",
+    "options": [
+      "United States",
+      "China",
+      "Canada",
+      "Singapore"
+    ],
+    "correct_answer": "Canada",
+    "explanation": "Answer C. Canada"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q38",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which jurisdiction has well-developed machine-learning management guidelines?",
+    "options": [
+      "China",
+      "United States",
+      "Japan",
+      "Brazil"
+    ],
+    "correct_answer": "Japan",
+    "explanation": "Answer C. Japan"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q39",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which jurisdiction replaces privacy provisions with the Consumer Privacy and Protection Act?",
+    "options": [
+      "Canada",
+      "United States",
+      "China",
+      "Japan"
+    ],
+    "correct_answer": "Canada",
+    "explanation": "Answer A. Canada"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q40",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which jurisdiction requires human oversight if fundamental rights may be violated?",
+    "options": [
+      "Canada",
+      "Brazil",
+      "China",
+      "Singapore"
+    ],
+    "correct_answer": "Brazil",
+    "explanation": "Answer B. Brazil"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q41",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which laws are relevant and applicable to AI systems in highly regulated industries?",
+    "options": [
+      "Intellectual property laws",
+      "Employment laws",
+      "Consumer protection laws",
+      "Taxation laws"
+    ],
+    "correct_answer": "Consumer protection laws",
+    "explanation": "Answer C. Consumer protection laws"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q42",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which laws govern the collection and use of personal data in AI systems?",
+    "options": [
+      "Employment laws",
+      "Intellectual property laws",
+      "Privacy laws",
+      "Taxation laws"
+    ],
+    "correct_answer": "Privacy laws",
+    "explanation": "Answer C. Privacy laws"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q43",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following best describes AI governance principles?",
+    "options": [
+      "Guidelines for risk management",
+      "Values and guidelines put forth by an organization",
+      "Standards for AI system development",
+      "Regulations for AI data protection"
+    ],
+    "correct_answer": "Values and guidelines put forth by an organization",
+    "explanation": "Answer B. Values and guidelines put forth by an organization"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q44",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is a characteristic of trustworthy AI according to the Singapore Model AI Framework?",
+    "options": [
+      "Profitability",
+      "Scalability",
+      "Safety",
+      "Market dominance"
+    ],
+    "correct_answer": "Safety",
+    "explanation": "Answer C. Safety"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q45",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is an example of an existing law that would continue to apply to an AI-driven process?",
+    "options": [
+      "Safety standards",
+      "AI-specific regulations",
+      "Data retention rules",
+      "Software liability laws"
+    ],
+    "correct_answer": "Safety standards",
+    "explanation": "Answer A. Safety standards"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q46",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is an example of an industry/sector-specific requirement for AI governance?",
+    "options": [
+      "ISO 9001 certification",
+      "HIPAA compliance for healthcare data",
+      "GDPR compliance for data protection",
+      "All of the above"
+    ],
+    "correct_answer": "HIPAA compliance for healthcare data",
+    "explanation": "Answer B. HIPAA compliance for healthcare data"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q47",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is true regarding the regulatory requirements for AI development?",
+    "options": [
+      "Regulatory requirements are not necessary for AI development.",
+      "Regulatory requirements should be considered throughout the AI development lifecycle.",
+      "Regulatory requirements only apply to AI systems in highly regulated industries.",
+      "Regulatory requirements are only relevant for new processes enabled by AI."
+    ],
+    "correct_answer": "Regulatory requirements should be considered throughout the AI development lifecycle.",
+    "explanation": "Answer B. Regulatory requirements should be considered throughout the AI development lifecycle."
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q48",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which organization published the White House Office of Science and Technology Policy Blueprint for an AI Bill of Rights?",
+    "options": [
+      "United Nations",
+      "European Union",
+      "United States government",
+      "World Health Organization"
+    ],
+    "correct_answer": "United States government",
+    "explanation": "Answer C. United States government"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q49",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which principle of the GDPR requires organizations to limit the collection and storage of personal data?",
+    "options": [
+      "Purpose limitation",
+      "Data minimization",
+      "Accuracy",
+      "Transparency"
+    ],
+    "correct_answer": "Data minimization",
+    "explanation": "Answer B. Data minimization"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q50",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which privacy-enhancing technology allows multiple parties to compute a result without revealing their individual inputs?",
+    "options": [
+      "Homomorphic encryption",
+      "Differential privacy",
+      "Secure multi-party computation",
+      "Anonymization"
+    ],
+    "correct_answer": "Secure multi-party computation",
+    "explanation": "Answer C. Secure multi-party computation"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q51",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which privacy-enhancing technology focuses on adding noise to data to protect individual privacy?",
+    "options": [
+      "Homomorphic encryption",
+      "Differential privacy",
+      "Secure multi-party computation",
+      "Anonymization"
+    ],
+    "correct_answer": "Differential privacy",
+    "explanation": "Answer B. Differential privacy"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q52",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which privacy-enhancing technology is used to protect data in a way that allows computation without revealing the data itself?",
+    "options": [
+      "Homomorphic encryption",
+      "Differential privacy",
+      "Secure multi-party computation",
+      "Anonymization"
+    ],
+    "correct_answer": "Homomorphic encryption",
+    "explanation": "Answer A. Homomorphic encryption"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q53",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which regulation includes specific requirements addressing the use of automated decision-making with AI technologies?",
+    "options": [
+      "HIPAA",
+      "GDPR",
+      "CCPA",
+      "FISMA"
+    ],
+    "correct_answer": "GDPR",
+    "explanation": "Answer B. GDPR"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q54",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which regulatory approach emphasizes end-user rights and clear notice?",
+    "options": [
+      "Regulatory",
+      "Voluntary",
+      "Risk-based",
+      "Rights-based"
+    ],
+    "correct_answer": "Rights-based",
+    "explanation": "Answer D. Rights-based"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q55",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which regulatory requirements apply to most consumer-facing AI systems?",
+    "options": [
+      "Employment laws",
+      "Product safety laws",
+      "Intellectual property laws",
+      "Taxation laws"
+    ],
+    "correct_answer": "Product safety laws",
+    "explanation": "Answer B. Product safety laws"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q56",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which type of liability claim requires victims to prove they were harmed by a defective product?",
+    "options": [
+      "Strict liability",
+      "Negligence liability",
+      "Breach of warranty",
+      "Fault liability"
+    ],
+    "correct_answer": "Strict liability",
+    "explanation": "Answer A. Strict liability"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q57",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which type of liability regime does not require proving intentional wrongdoing or fault on the part of the product-maker?",
+    "options": [
+      "Strict liability",
+      "Fault liability",
+      "Negligence liability",
+      "Breach of warranty"
+    ],
+    "correct_answer": "Strict liability",
+    "explanation": "Answer A. Strict liability"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q58",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which type of liability regime requires proving intentional wrongdoing or fault on the part of the product-maker?",
+    "options": [
+      "Strict liability",
+      "Fault liability",
+      "Negligence liability",
+      "Breach of warranty"
+    ],
+    "correct_answer": "Fault liability",
+    "explanation": "Answer B. Fault liability"
+  },
+  {
+    "source_file": "qn set 3.html",
+    "section": "AIGP Quiz - M7",
+    "question_number": "Q59",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which U.S. court case ruled that AI software does not qualify as a product under New Jersey law?",
+    "options": [
+      "Rodgers vs. Christie",
+      "Connecticut Fair Housing Association vs. CoreLogic Rental Property Solutions",
+      "Smith vs. Johnson",
+      "Brown vs. Thompson"
+    ],
+    "correct_answer": "Rodgers vs. Christie",
+    "explanation": "Answer A. Rodgers vs. Christie"
+  }
+]

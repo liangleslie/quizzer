@@ -1,0 +1,558 @@
+[
+  {
+    "source_file": "free-iapp-artificial-intelligence-governance-professional-learning-questions-by-hebert.pdf",
+    "section": "Free Iapp Artificial Intelligence Governance Professional Learning Questions By Hebert",
+    "question_number": "Q1",
+    "question_type": "multiple_choice_single_answer",
+    "question": "To maintain fairness in a deployed system, it is most important to?",
+    "options": [
+      "Protect against loss of personal data in the model.",
+      "Monitor for data drift that may affect performance and accuracy.",
+      "Detect anomalies outside established metrics that require new training data.",
+      "Optimize computational resources and data to ensure efficiency and scalability."
+    ],
+    "correct_answer": "Monitor for data drift that may affect performance and accuracy.",
+    "explanation": "To maintain fairness in a deployed system, it is crucial to monitor for data drift that may affect performance and accuracy. Data drift occurs when the statistical properties of the input data change over time, which can lead to a decline in model performance. Continuous monitoring and updating of the model with new data ensure that it remains fair and accurate, adapting to any changes in the data distribution. Reference: AIGP Body of Knowledge on Post-Deployment Monitoring and Model Maintenance."
+  },
+  {
+    "source_file": "free-iapp-artificial-intelligence-governance-professional-learning-questions-by-hebert.pdf",
+    "section": "Free Iapp Artificial Intelligence Governance Professional Learning Questions By Hebert",
+    "question_number": "Q2",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Scenario: An enterprise is evaluating multiple third-party generative AI tools to integrate into its platform. As part of its AI governance policy, it is assessing themost effective methodsto reduce risks related to bias, data misuse, and liability when using third-party solutions. All of the following are commonly adopted processes and policies in reducing potential risks introduced by third-party AI tools or applications EXCEPT:",
+    "options": [
+      "Including clauses in the procurement agreement for buyers of generative AI tools to put certain liabilities on the tool supplier",
+      "Allowing publicly available information and personally identifiable information (PII) to be incorporated into the prompt",
+      "Requiring an independent third-party bias audit for third-party generative AI tools",
+      "Requiring new use cases of the generative AI tools or applications to be reviewed and approved by the generative AI governance body"
+    ],
+    "correct_answer": "Allowing publicly available information and personally identifiable information (PII) to be incorporated into the prompt",
+    "explanation": "The correct answer isB. AllowingPIIto be freely entered into prompts without safeguards is considered amajor privacy and security riskand is not a responsible governance practice. From the AIGP ILT Guide -- Generative AI & Third-Party Risk Management: ''Use of personal or sensitive information in AI prompts can result in unintended exposure, regulatory breaches, and downstream liability.'' The AI Governance in Practice Report 2025 highlights: ''PII should be minimized or protected by design. Prompt engineering should prevent entry of personally identifiable data unless legally and technically safeguarded.'' A, C, and D are established best practices under responsible AI procurement and use."
+  },
+  {
+    "source_file": "free-iapp-artificial-intelligence-governance-professional-learning-questions-by-hebert.pdf",
+    "section": "Free Iapp Artificial Intelligence Governance Professional Learning Questions By Hebert",
+    "question_number": "Q3",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following most encourages accountability over Al systems?",
+    "options": [
+      "Determining the business objective and success criteria for the Al project.",
+      "Performing due diligence on third-party Al training and testing data.",
+      "Defining the roles and responsibilities of Al stakeholders.",
+      "Understanding Al legal and regulatory requirements."
+    ],
+    "correct_answer": "Defining the roles and responsibilities of Al stakeholders.",
+    "explanation": "Defining the roles and responsibilities of AI stakeholders is crucial for encouraging accountability over AI systems. Clear delineation of who is responsible for different aspects of the AI lifecycle ensures that there is a person or team accountable for monitoring, maintaining, and addressing issues that arise. This accountability framework helps in ensuring that ethical standards and regulatory requirements are met, and it facilitates transparency and traceability in AI operations. By assigning specific roles, organizations can better manage and mitigate risks associated with AI deployment and use."
+  },
+  {
+    "source_file": "free-iapp-artificial-intelligence-governance-professional-learning-questions-by-hebert.pdf",
+    "section": "Free Iapp Artificial Intelligence Governance Professional Learning Questions By Hebert",
+    "question_number": "Q4",
+    "question_type": "multiple_choice_single_answer",
+    "question": "In the machine learning context, feature engineering is the process of?",
+    "options": [
+      "Converting raw data into clean data.",
+      "Creating learning schema for a model apply.",
+      "Developing guidelines to train and test a model.",
+      "Extracting attributes and variables from raw data."
+    ],
+    "correct_answer": "Extracting attributes and variables from raw data.",
+    "explanation": "In the machine learning context, feature engineering is the process of extracting attributes and variables from raw data to make it suitable for training an AI model. This step is crucial as it transforms raw data into meaningful features that can improve the model's accuracy and performance. Feature engineering involves selecting, modifying, and creating new features that help the model learn more effectively. Reference: AIGP Body of Knowledge on AI Model Development and Feature Engineering."
+  },
+  {
+    "source_file": "free-iapp-artificial-intelligence-governance-professional-learning-questions-by-hebert.pdf",
+    "section": "Free Iapp Artificial Intelligence Governance Professional Learning Questions By Hebert",
+    "question_number": "Q5",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is a subcategory of Al and machine learning that uses labeled datasets to train algorithms?",
+    "options": [
+      "Segmentation.",
+      "Generative Al.",
+      "Expert systems.",
+      "Supervised learning."
+    ],
+    "correct_answer": "Supervised learning.",
+    "explanation": "Supervised learning is a subcategory of AI and machine learning where labeled datasets are used to train algorithms. This process involves feeding the algorithm a dataset where the input-output pairs are known, allowing the algorithm to learn and make predictions or decisions based on new, unseen data. Reference: AIGP BODY OF KNOWLEDGE, which describes supervised learning as a model trained on labeled data (e.g., text recognition, detecting spam in emails)."
+  },
+  {
+    "source_file": "free-iapp-artificial-intelligence-governance-professional-learning-questions-by-hebert.pdf",
+    "section": "Free Iapp Artificial Intelligence Governance Professional Learning Questions By Hebert",
+    "question_number": "Q6",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Scenario: A financial services company is planning a new AI project to assess creditworthiness. The AI team is mapping out what tasks should be completed during theplanning phaseof the AI lifecycle. The planning phase of the AI lifecycle includes all of the following EXCEPT:",
+    "options": [
+      "Definition of underlying assumptions",
+      "Approach to governance",
+      "Choice of the architecture",
+      "Context in which the model will operate"
+    ],
+    "correct_answer": "Choice of the architecture",
+    "explanation": "The correct answer isC. Thechoice of architecture(e.g., neural networks vs. decision trees) is typically part of thedesign and developmentphase, not the initial planning. From the AIGP Body of Knowledge -- AI Lifecycle Module: ''Planning involves scoping, context definition, stakeholder identification, governance planning, and assumptionsnot yet model selection.'' Confirmed in the ILT Participant Guide: ''Design decisions such as architecture or algorithm type come after planningusually during development based on technical feasibility and data availability.''"
+  },
+  {
+    "source_file": "free-iapp-artificial-intelligence-governance-professional-learning-questions-by-hebert.pdf",
+    "section": "Free Iapp Artificial Intelligence Governance Professional Learning Questions By Hebert",
+    "question_number": "Q7",
+    "question_type": "multiple_choice_single_answer",
+    "question": "During the first month when the company monitors the model for bias, it is most important to?",
+    "options": [
+      "Continue disparity testing.",
+      "Provide regular awareness training.",
+      "Analyze the quality of the training and testing data.",
+      "Document the results of final decisions made by the human underwriter."
+    ],
+    "correct_answer": "Continue disparity testing.",
+    "explanation": "Theinitial deployment phaseof an AI model is critical forpost-deployment monitoring. When tracking forbias, the most important task is tocontinue disparity testingto determine whether outputs differ across protected groups. From theAI Governance in Practice Report 2025: ''Performance monitoring protocols... should include mechanisms to assess and measure disparities in outcomes across different demographic groups.'' (p. 12) ''Bias may not be evident during pre-deployment testing but can emerge in real-world use.'' (p. 41) B . Awareness trainingis helpful, but not a technical bias mitigation activity. C . Analyzing training datais apre-deploymenttask. D . Documenting human decisionsmay support auditability but doesn't detect bias in AI outputs."
+  },
+  {
+    "source_file": "free-iapp-artificial-intelligence-governance-professional-learning-questions-by-hebert.pdf",
+    "section": "Free Iapp Artificial Intelligence Governance Professional Learning Questions By Hebert",
+    "question_number": "Q8",
+    "question_type": "multiple_choice_single_answer",
+    "question": "After completing model testing and validation, which of the following is the most important step that an organization takes prior to deploying the model into production?",
+    "options": [
+      "Perform a readiness assessment.",
+      "Define a model-validation methodology.",
+      "Document maintenance teams and processes.",
+      "Identify known edge cases to monitor post-deployment."
+    ],
+    "correct_answer": "Perform a readiness assessment.",
+    "explanation": "After completing model testing and validation, the most important step prior to deploying the model into production is to perform a readiness assessment. This assessment ensures that the model is fully prepared for deployment, addressing any potential issues related to infrastructure, performance, security, and compliance. It verifies that the model meets all necessary criteria for a successful launch. Other steps, such as defining a model-validation methodology, documenting maintenance teams and processes, and identifying known edge cases, are also important but come secondary to confirming overall readiness. Reference: AIGP Body of Knowledge on Deployment Readiness."
+  },
+  {
+    "source_file": "free-iapp-artificial-intelligence-governance-professional-learning-questions-by-hebert.pdf",
+    "section": "Free Iapp Artificial Intelligence Governance Professional Learning Questions By Hebert",
+    "question_number": "Q9",
+    "question_type": "multiple_choice_single_answer",
+    "question": "A shipping service based in the US is looking to expand its operations into the EU. It utilizes an in- house developed multimodal AI model that analyzes all personal data collected from shipping senders and recipients, and optimizes shipping routes and schedules based on this data. As they expand into the EU, all of the following descriptions should be included in the technical documentation for their AI model EXCEPT?",
+    "options": [
+      "A general description of the AI system.",
+      "A description of the prioritization of the risks of deployment of the AI system.",
+      "A description of the appropriateness of the performance metrics for the specific AI system.",
+      "A detailed description of the elements of the AI system and of the process for its development."
+    ],
+    "correct_answer": "A description of the prioritization of the risks of deployment of the AI system.",
+    "explanation": "The EU AI Act outlines what must be included intechnical documentationfor high-risk systems. These requirements are designed to supportconformity assessment, transparency, and traceability. From theAI Governance in Practice Report 2025: ''It mandates drawing up technical documentation... must include a general description of the AI system, the intended purpose, and a detailed description of the elements and development process.'' (p. 34) ''Documentation... includes training, testing, evaluation procedures, andappropriateness of performance metrics.'' (p. 34--35) Therisk management systemis addressed separately through arisk management plan, not within the technical documentation itself. Thus: A, C, and Dare explicitly required in thetechnical documentation. B, while important, is part of therisk management process, not a required section oftechnical documentation."
+  },
+  {
+    "source_file": "free-iapp-artificial-intelligence-governance-professional-learning-questions-by-hebert.pdf",
+    "section": "Free Iapp Artificial Intelligence Governance Professional Learning Questions By Hebert",
+    "question_number": "Q10",
+    "question_type": "multiple_choice_single_answer",
+    "question": "All of the following types of testing can help evaluate the performance of a responsible Al system EXCEPT?",
+    "options": [
+      "Risk probability/severity.",
+      "Adversarial robustness.",
+      "Statistical sampling.",
+      "Decision analysis."
+    ],
+    "correct_answer": "Risk probability/severity.",
+    "explanation": "Risk probability/severity testing is not typically used to evaluate the performance of an AI system. While important for risk management, it does not directly assess an AI system's operational performance. Adversarial robustness, statistical sampling, and decision analysis are all methods that can help evaluate the performance of a responsible AI system by testing its resilience, accuracy, and decision-making processes under various conditions. Reference: AIGP Body of Knowledge on AI Performance Evaluation and Testing."
+  },
+  {
+    "source_file": "free-iapp-artificial-intelligence-governance-professional-learning-questions-by-hebert.pdf",
+    "section": "Free Iapp Artificial Intelligence Governance Professional Learning Questions By Hebert",
+    "question_number": "Q11",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which model is best for efficiency and agility, and tailored for lower-resource settings?",
+    "options": [
+      "Supervised learning model.",
+      "Multimodal model.",
+      "Small language model.",
+      "Generative language model."
+    ],
+    "correct_answer": "Small language model.",
+    "explanation": "Small language models (SLMs)arelightweight, requireless compute, and arebetter suited to low- resource or edge environments, making them ideal for agility and efficiency. From general AI best practices: ''SLMs can be deployed in environments with limited computing power, ensuring lower cost and faster integration in constrained contexts.'' (aligned with industry-wide AI deployment strategies)"
+  },
+  {
+    "source_file": "iapp-aigp-dumps-by-king.pdf",
+    "section": "Iapp Aigp Dumps By King",
+    "question_number": "Q1",
+    "question_type": "multiple_choice_single_answer",
+    "question": "The best practice to manage third-party risk associated with AI systems is to create and implement policies that?",
+    "options": [
+      "Focus on the financial stability of third-party vendors as the primary criterion for risk assessment.",
+      "Provide for an appropriate level of due diligence and ongoing monitoring based on the defined risk.",
+      "Require third-party AI systems to undergo a comprehensive audit by an external cybersecurity firm every six months.",
+      "Focus on the technical aspects of AI systems, such as data security, while ethical risks are addressed through suitable contracts."
+    ],
+    "correct_answer": "Provide for an appropriate level of due diligence and ongoing monitoring based on the defined risk.",
+    "explanation": "Third-party risk management for AI systems should beproportional and risk-based, involvinginitial due diligenceandongoing monitoringthat reflects thelevel of risk posedby the third party's AI system. From theAI Governance in Practice Report 2025: ''Third-party due diligence assessments to identify possible external risk and inform selection.'' (p. 11) ''Legal due diligence may include verification of the personal data's lawful collection by the data broker, review of contractual obligations...'' (p. 19) Afocuses too narrowly on financial stability. Cis excessive and not scalable or aligned with best practices. Dinappropriately separates ethical and technical risks; both must be evaluated holistically."
+  },
+  {
+    "source_file": "iapp-aigp-dumps-by-king.pdf",
+    "section": "Iapp Aigp Dumps By King",
+    "question_number": "Q2",
+    "question_type": "multiple_choice_single_answer",
+    "question": "A leading software development company wants to integrate AI-powered chatbots into their customer service platform. After researching various AI models in the market which have been developed by third-party developers, they're considering two options: Option A - an open-source language model trained on a vast corpus of text data and capable of being trained to respond to natural language inputs. Option B - a proprietary, generative AI model pre-trained on large data sets, which uses transformer-based architectures to generate human-like responses based on multimodal user input. Option A would be the best choice for the company because?",
+    "options": [
+      "It is less expensive to run",
+      "It may be better suited for applications requiring customization.",
+      "It can handle voice commands and is more suitable for phone-based customer support.",
+      "It is built for large-scale, complex dialogues and would be more effective in handling high- volume customer inquiries."
+    ],
+    "correct_answer": "It may be better suited for applications requiring customization.",
+    "explanation": "Open-source modelsoffer morecustomization flexibility, allowing organizations to fine-tune or adapt the model tofit their own workflows, branding, or compliance needs making it preferable when deep control is needed. From theAI Governance in Practice Report 2025: ''Open-source AI allows organizations to review, adapt, and control model behavior in line with organizational needs and policies.'' (p. 39)"
+  },
+  {
+    "source_file": "iapp-aigp-dumps-by-king.pdf",
+    "section": "Iapp Aigp Dumps By King",
+    "question_number": "Q3",
+    "question_type": "multiple_choice_single_answer",
+    "question": "All of the following areunique characteristics of AIthat require a comprehensive approach to governanceEXCEPT?",
+    "options": [
+      "Autonomy",
+      "Automation",
+      "Adaptability",
+      "Speed and scale",
+      "Superintelligence"
+    ],
+    "correct_answer": "Superintelligence",
+    "explanation": "The correct answer isE -- Superintelligence. While the other options (Autonomy, Automation, Adaptability, Speed and Scale) are commonly cited as real-world characteristics that affect governance today,superintelligenceremainsa theoretical concept. From the AIGP ILT Guide and AI Governance in Practice Report 2025: ''Core AI characteristicssuch as automation, adaptability, speed, and autonomyrequire active governance due to their impact on decision-making, legal liability, and risk.'' However,superintelligenceis speculative and not a current feature of AI systems under governance frameworks like theEU AI Act or NIST RMF. Thus, it'snot a current characteristicrequiring governance in real-world enterprise settings."
+  },
+  {
+    "source_file": "iapp-aigp-dumps-by-king.pdf",
+    "section": "Iapp Aigp Dumps By King",
+    "question_number": "Q4",
+    "question_type": "multiple_choice_single_answer",
+    "question": "The White House Executive Order from November 2023 requires companies that develop dual- use foundation models to provide reports to the federal government about all of the following EXCEPT?",
+    "options": [
+      "Any current training or development of dual-use foundation models.",
+      "The results of red-team testing of each dual-use foundation model.",
+      "Any environmental impact study for each dual-use foundation model.",
+      "The physical and cybersecurity protection measures of their dual-use foundation models."
+    ],
+    "correct_answer": "Any environmental impact study for each dual-use foundation model.",
+    "explanation": "The White House Executive Order from November 2023 requires companies developing dual-use foundation models to report on their current training or development activities, the results of red- team testing, and the physical and cybersecurity protection measures. However, it does not mandate reports on environmental impact studies for each dual-use foundation model. While environmental considerations are important, they are not specified in this context as a reporting requirement under this Executive Order."
+  },
+  {
+    "source_file": "iapp-aigp-dumps-by-king.pdf",
+    "section": "Iapp Aigp Dumps By King",
+    "question_number": "Q5",
+    "question_type": "multiple_choice_single_answer",
+    "question": "During the planning and design phases of the Al development life cycle, bias can be reduced by all of the following EXCEPT?",
+    "options": [
+      "Stakeholder involvement.",
+      "Feature selection.",
+      "Human oversight.",
+      "Data collection."
+    ],
+    "correct_answer": "Feature selection.",
+    "explanation": "Bias in AI can be reduced during the planning and design phases through stakeholder involvement, human oversight, and careful data collection. While feature selection is critical in the development phase, it does not specifically occur during planning and design. Ensuring diverse stakeholder involvement and human oversight helps identify and mitigate potential biases early, and data collection ensures a representative dataset. Reference: AIGP Body of Knowledge on AI Development Lifecycle and Bias Mitigation."
+  },
+  {
+    "source_file": "iapp-aigp-dumps-by-king.pdf",
+    "section": "Iapp Aigp Dumps By King",
+    "question_number": "Q6",
+    "question_type": "multiple_choice_single_answer",
+    "question": "All of the following are elements of establishing a global Al governance infrastructure EXCEPT?",
+    "options": [
+      "Providing training to foster a culture that promotes ethical behavior.",
+      "Creating policies and procedures to manage third-partyrisk.",
+      "Understanding differences in norms across countries.",
+      "Publicly disclosing ethical principles."
+    ],
+    "correct_answer": "Publicly disclosing ethical principles.",
+    "explanation": "Establishing a global AI governance infrastructure involves several key elements, including providing training to foster a culture that promotes ethical behavior, creating policies and procedures to manage third-party risk, and understanding differences in norms across countries. While publicly disclosing ethical principles can enhance transparency and trust, it is not a core element necessary for the establishment of a governance infrastructure. The focus is more on internal processes and structures rather than public disclosure. Reference: AIGP Body of Knowledge on AI Governance and Infrastructure."
+  },
+  {
+    "source_file": "iapp-aigp-dumps-by-king.pdf",
+    "section": "Iapp Aigp Dumps By King",
+    "question_number": "Q7",
+    "question_type": "multiple_choice_single_answer",
+    "question": "A company developed Al technology that can analyze text, video, images and sound to tag content, including the names of animals, humans and objects. What type of Al is this technology classified as?",
+    "options": [
+      "Deductive inference.",
+      "Multi-modal model.",
+      "Transformative Al.",
+      "Expert system."
+    ],
+    "correct_answer": "Multi-modal model.",
+    "explanation": "A multi-modal model is an AI system that can process and analyze multiple types of data, such as text, video, images, and sound. This type of AI integrates different data sources to enhance its understanding and decision-making capabilities. In the given scenario, the AI technology that tags content including names of animals, humans, and objects falls under this category. Reference: AIGP BODY OF KNOWLEDGE, which outlines the capabilities and use cases of multi- modal models."
+  },
+  {
+    "source_file": "iapp-aigp-dumps-by-king.pdf",
+    "section": "Iapp Aigp Dumps By King",
+    "question_number": "Q8",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the 1956 Dartmouth summer research project on Al best known as?",
+    "options": [
+      "A meeting focused on the impacts of the launch of the first mass-produced computer.",
+      "A research project on the impacts of technology on society.",
+      "A research project to create a test for machine intelligence.",
+      "A meeting focused on the founding of the Al field."
+    ],
+    "correct_answer": "A meeting focused on the founding of the Al field.",
+    "explanation": "The 1956 Dartmouth summer research project on AI is best known as a meeting focused on the founding of the AI field. This conference is historically significant because it marked the formal beginning of artificial intelligence as an academic discipline. The term 'artificial intelligence' was coined during this event, and it laid the foundation for future research and development in AI."
+  },
+  {
+    "source_file": "iapp-aigp-dumps-by-king.pdf",
+    "section": "Iapp Aigp Dumps By King",
+    "question_number": "Q9",
+    "question_type": "multiple_choice_single_answer",
+    "question": "According to the GDPR's transparency principle, when an Al system processes personal data in automated decision-making, controllers are required to provide data subjects specific information on?",
+    "options": [
+      "The existence of automated decision-making and meaningful information on its logic and consequences.",
+      "The personal data used during processing, including inferences drawn by the Al system about the data.",
+      "The data protection impact assessments carried out on the Al system and legal bases for processing.",
+      "The contact details of the data protection officer and the data protection national authority."
+    ],
+    "correct_answer": "The existence of automated decision-making and meaningful information on its logic and consequences.",
+    "explanation": "The GDPR's transparency principle requires that when personal data is processed for automated decision-making, including profiling, data subjects must be informed about the existence of such automated decision-making. Additionally, they must be provided with meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for them. This requirement ensures that data subjects are fully aware of how their personal data is being used and the potential impacts, thereby promoting transparency and trust in the processing activities."
+  },
+  {
+    "source_file": "iapp-aigp-dumps-by-king.pdf",
+    "section": "Iapp Aigp Dumps By King",
+    "question_number": "Q10",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What type of organizational risk is associated with Al's resource-intensive computing demands?",
+    "options": [
+      "People risk.",
+      "Security risk.",
+      "Third-party risk.",
+      "Environmental risk."
+    ],
+    "correct_answer": "Environmental risk.",
+    "explanation": "AI's resource-intensive computing demands pose significant environmental risks. High- performance computing required for training and deploying AI models often leads to substantial energy consumption, which can result in increased carbon emissions and other environmental impacts. This is particularly relevant given the growing concern over climate change and the environmental footprint of technology. Organizations need to consider these environmental risks when developing AI systems, potentially exploring more energy-efficient methods and renewable energy sources to mitigate the environmental impact."
+  },
+  {
+    "source_file": "iapp-aigp-mock-exam-by-stark.pdf",
+    "section": "Iapp Aigp Mock Exam By Stark",
+    "question_number": "Q1",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Scenario: A public sector agency is reviewing proposed AI use cases for improving services. It wants to prioritize implementations that deliver value butminimize unintended negative consequences. When evaluating which AI use cases to implement, an organization should consider all of the following EXCEPT:",
+    "options": [
+      "Related TEVV (test, evaluate, verify, validate) and system metrics",
+      "The users and their expectations",
+      "Equitable access to the AI tool",
+      "Potential positive and negative impacts of the system"
+    ],
+    "correct_answer": "Related TEVV (test, evaluate, verify, validate) and system metrics",
+    "explanation": "The correct answer isA. While TEVV is important inlater lifecycle phases, it isnot the primary considerationwhen evaluating and prioritizinguse cases. From the AIGP Body of Knowledge -- Use Case Assessment Module: ''Use case evaluation focuses on value, impact, fairness, and accessibilitytechnical testing considerations come later.'' ILT Guide confirms: ''Organizations should first assess whether the AI system provides equitable outcomes and aligns with stakeholder expectations. TEVV is part of implementation, not initial prioritization.'' Thus,Ais not a top-level consideration during use caseselection."
+  },
+  {
+    "source_file": "iapp-aigp-mock-exam-by-stark.pdf",
+    "section": "Iapp Aigp Mock Exam By Stark",
+    "question_number": "Q2",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which option best is an example of a high-risk application under the EU Al Act?",
+    "options": [
+      "A resume scanning tool that ranks applicants.",
+      "An Al-enabled inventory management tool.",
+      "A government-run social scoring tool.",
+      "A customer service chatbot tool."
+    ],
+    "correct_answer": "A government-run social scoring tool.",
+    "explanation": "The EU AI Act categorizes certain applications of AI as high-risk due to their potential impact on fundamental rights and safety. High-risk applications include those used in critical areas such as employment, education, and essential public services. A government-run social scoring tool, which assesses individuals based on their social behavior or perceived trustworthiness, falls under this category because of its profound implications for privacy, fairness, and individual rights. This contrasts with other AI applications like resume scanning tools or customer service chatbots, which are generally not classified as high-risk under the EU AI Act."
+  },
+  {
+    "source_file": "iapp-aigp-mock-exam-by-stark.pdf",
+    "section": "Iapp Aigp Mock Exam By Stark",
+    "question_number": "Q3",
+    "question_type": "multiple_choice_single_answer",
+    "question": "According to the Singapore Model Al Governance Framework, all of the following are recommended measures to promote the responsible use of Al EXCEPT?",
+    "options": [
+      "Determining the level of human involvement in algorithmic decision-making.",
+      "Adapting the existing governance structure algorithmic decision-making.",
+      "Employing human-over-the-loop protocols for high-risk systems.",
+      "Establishing communications and collaboration among stakeholders."
+    ],
+    "correct_answer": "Employing human-over-the-loop protocols for high-risk systems.",
+    "explanation": "The Singapore Model AI Governance Framework recommends several measures to promote the responsible use of AI, such as determining the level of human involvement in decision-making, adapting governance structures, and establishing communications and collaboration among stakeholders. However, employing human-over-the-loop protocols is not specifically mentioned in this framework. The focus is more on integrating human oversight appropriately within the decision-making process rather than exclusively employing such protocols. Reference: AIGP Body of Knowledge, section on AI governance frameworks."
+  },
+  {
+    "source_file": "iapp-aigp-mock-exam-by-stark.pdf",
+    "section": "Iapp Aigp Mock Exam By Stark",
+    "question_number": "Q4",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Scenario: A U.S.-based AI governance professional is evaluating resources from the National Institute of Standards and Technology (NIST) to guide the organization's AI risk assessment strategy. They are particularly interested in programs focused on assessing AI-specific impacts. The main purpose of NIST'sAssessing Risks and Impacts of AI (ARIA)program is to:",
+    "options": [
+      "Provide a suite of resources to manage risks",
+      "Pilot new standards for AI red-teaming",
+      "Promote interoperability across AI systems",
+      "Offer a regulatory sandbox for risk reporting"
+    ],
+    "correct_answer": "Provide a suite of resources to manage risks",
+    "explanation": "The correct answer isA. TheARIA programby NIST is explicitly designed tosupport stakeholders in understanding and managing the risks and impactsof AI systems. From the AIGP ILT Guide -- U.S. Risk Frameworks Module: ''NIST's ARIA program develops and pilots assessment tools for AI risks and impacts, aimed at improving organizational capacity for responsible AI use.'' Also cited in the AI Governance in Practice Report 2025 (Frameworks Section): ''ARIA supports and aligns with the AI Risk Management Framework by helping organizations assess AI harms, safety concerns, and societal implications.'' ARIA isnota red-teaming or sandbox programit's anassessment and governance resource."
+  },
+  {
+    "source_file": "iapp-aigp-mock-exam-by-stark.pdf",
+    "section": "Iapp Aigp Mock Exam By Stark",
+    "question_number": "Q5",
+    "question_type": "multiple_choice_single_answer",
+    "question": "A company has trained an ML model primarily using synthetic data, and now intends to use live personal data to test the model. Which option best is NOT a best practice apply during the testing?",
+    "options": [
+      "The test data should be representative of the expected operational data.",
+      "Testing should minimize human involvement to the extent practicable.",
+      "The test data should be anonymized to the extent practicable.",
+      "Testing should be performed specific to the intended uses."
+    ],
+    "correct_answer": "Testing should minimize human involvement to the extent practicable.",
+    "explanation": "Minimizing human involvement to the extent practicable is not a best practice during the testing of an ML model. Human oversight is crucial during testing to ensure that the model performs correctly and ethically, and to interpret any anomalies or issues that arise. Best practices include using representative test data, anonymizing data to the extent practicable, and performing testing specific to the intended uses of the model. Reference: AIGP Body of Knowledge on AI Model Testing and Human Oversight."
+  },
+  {
+    "source_file": "iapp-aigp-mock-exam-by-stark.pdf",
+    "section": "Iapp Aigp Mock Exam By Stark",
+    "question_number": "Q6",
+    "question_type": "multiple_choice_single_answer",
+    "question": "CASE STUDY Please use the following answer the next question: XYZ Corp., a premier payroll services company that employs thousands of people globally, is embarking on a new hiring campaign and wants to implement policies and procedures to identify and retain the best talent. The new talent will help the company's product team expand its payroll offerings to companies in the healthcare and transportation sectors, including in Asia. It has become time consuming and expensive for HR to review all resumes, and they are concerned that human reviewers might be susceptible to bias. Address these concerns, the company is considering using a third-party Al tool to screen resumes and assist with hiring. They have been talking to several vendors about possibly obtaining a third- party Al-enabled hiring solution, as long as it would achieve its goals and comply with all applicable laws. The organization has a large procurement team that is responsible for the contracting of technology solutions. One of the procurement team's goals is to reduce costs, and it often prefers lower-cost solutions. Others within the company are responsible for integrating and deploying technology solutions into the organization's operations in a responsible, cost-effective manner. The organization is aware of the risks presented by Al hiring tools and wants to mitigate them. It also questions how best to organize and train its existing personnel to use the Al hiring tool responsibly. Their concerns are heightened by the fact that relevant laws vary across jurisdictions and continue to change. All of the following are potential negative consequences created by using the Al tool when making hiring decisions EXCEPT?",
+    "options": [
+      "Reputational harm.",
+      "Civil rights violations.",
+      "Discriminatory treatment.",
+      "Intellectual property infringement."
+    ],
+    "correct_answer": "Intellectual property infringement.",
+    "explanation": "The potential negative consequences of using an AI tool in hiring include reputational harm (A), civil rights violations (B), and discriminatory treatment (C). These issues stem from biases in the AI system or its misuse, which can lead to unfair hiring practices and legal liabilities. Intellectual property infringement (D) is not a typical consequence of using AI in hiring, as it relates to the unauthorized use of protected intellectual property, which is not directly relevant to the hiring process or the potential biases within AI tools."
+  },
+  {
+    "source_file": "iapp-aigp-mock-exam-by-stark.pdf",
+    "section": "Iapp Aigp Mock Exam By Stark",
+    "question_number": "Q7",
+    "question_type": "multiple_choice_single_answer",
+    "question": "All of the following are potential benefits of using private over public LLMs EXCEPT?",
+    "options": [
+      "Reduction in time taken for data validation and verification.",
+      "Confirmation of security and confidentiality.",
+      "Reduction in possibility of hallucinated information.",
+      "Application for specific use cases within the enterprise."
+    ],
+    "correct_answer": "Reduction in time taken for data validation and verification.",
+    "explanation": "Private LLMs offer advantages likecustomizability,reduced hallucination,confidentiality, andalignment with enterprise-specific tasks, but theydo not inherently reduce the time or effortneeded fordata validation or verification which remains an essential step regardless of model privacy. From the AI risk and quality sections: ''Ensuring the quality of the data... is highly contextual and must be validated regardless of the model's deployment environment.'' (p. 17) B, C, Dare legitimate benefits of private LLMs. Ais incorrect validation still requires time and resources."
+  },
+  {
+    "source_file": "iapp-aigp-practice-questions-by-blackwell.pdf",
+    "section": "Iapp Aigp Practice Questions By Blackwell",
+    "question_number": "Q1",
+    "question_type": "multiple_choice_single_answer",
+    "question": "An Al system that maintains its level of performance within defined acceptable limits despite real world or adversarial conditions would be described as?",
+    "options": [
+      "Robust.",
+      "Reliable.",
+      "Resilient.",
+      "Reinforced."
+    ],
+    "correct_answer": "Resilient.",
+    "explanation": "An AI system that maintains its level of performance within defined acceptable limits despite real-world or adversarial conditions is described as resilient. Resilience in AI refers to the system's ability to withstand and recover from unexpected challenges, such as cyber-attacks, hardware failures, or unusual input data. This characteristic ensures that the AI system can continue to function effectively and reliably in various conditions, maintaining performance and integrity. Robustness, on the other hand, focuses on the system's strength against errors, while reliability ensures consistent performance over time. Resilience combines these aspects with the capacity to adapt and recover."
+  },
+  {
+    "source_file": "iapp-aigp-practice-questions-by-blackwell.pdf",
+    "section": "Iapp Aigp Practice Questions By Blackwell",
+    "question_number": "Q11",
+    "question_type": "multiple_choice_single_answer",
+    "question": "A US company has developed an Al system, Crime Buster 9619, that collects information about incarcerated individuals to help parole boards predict whether someone is likely to commit another crime if released from prison. When considering expanding to the EU market, this type of technology would?",
+    "options": [
+      "Require the company to register the tool with the EU database.",
+      "Be subject approval by the relevant EU authority.",
+      "Require a detailed conformity assessment.",
+      "Be banned under the EU Al Act."
+    ],
+    "correct_answer": "Be banned under the EU Al Act.",
+    "explanation": "Under the EU AI Act, high-risk AI systems like Crime Buster 9619 would require a detailed conformity assessment before being deployed in the EU market. This assessment ensures that the AI system complies with all relevant regulations and standards, addressing potential risks related to privacy, security, and discrimination. The company would not need to register the tool with the EU database (A), seek approval from an EU authority (B), or face a ban (D) as long as it meets the necessary conformity requirements."
+  },
+  {
+    "source_file": "iapp-aigp-practice-questions-by-blackwell.pdf",
+    "section": "Iapp Aigp Practice Questions By Blackwell",
+    "question_number": "Q12",
+    "question_type": "multiple_choice_single_answer",
+    "question": "You are the chief privacy officer of a medical research company that would like to collect and use sensitive data about cancer patients, such as their names, addresses, race and ethnic origin, medical histories, insurance claims, pharmaceutical prescriptions, eating and drinking habits and physical activity. The company will use this sensitive data to build an Al algorithm that will spot common attributes that will help predict if seemingly healthy people are more likely to get cancer. However, the company is unable to obtain consent from enough patients to sufficiently collect the minimum data to train its model. Which of the following solutions would most efficiently balance privacy concerns with the lack of available data during the testing phase?",
+    "options": [
+      "Deploy the current model and recalibrate it over time with more data.",
+      "Extend the model to multi-modal ingestion with text and images.",
+      "Utilize synthetic data to offset the lack of patient data.",
+      "Refocus the algorithm to patients without cancer."
+    ],
+    "correct_answer": "Utilize synthetic data to offset the lack of patient data.",
+    "explanation": "Utilizing synthetic data to offset the lack of patient data is an efficient solution that balances privacy concerns with the need for sufficient data to train the model. Synthetic data can be generated to simulate real patient data while avoiding the privacy issues associated with using actual patient data. This approach allows for the development and testing of the AI algorithm without compromising patient privacy, and it can be refined with real data as it becomes available. Reference: AIGP Body of Knowledge on Data Privacy and AI Model Training."
+  },
+  {
+    "source_file": "practice-with-iapp-aigp-mock-test-by-cote.pdf",
+    "section": "Practice With Iapp Aigp Mock Test By Cote",
+    "question_number": "Q1",
+    "question_type": "multiple_choice_single_answer",
+    "question": "CASE STUDY Please use the following answer the next question: A mid-size US healthcare network has decided to develop an Al solution to detect a type of cancer that is most likely arise in adults. Specifically, the healthcare network intends to create a recognition algorithm that will perform an initial review of all imaging and then route records a radiologist for secondary review pursuant agreed-upon criteria (e.g., a confidence score below a threshold). To date, the healthcare network has taken the following steps: defined its Al ethical principles: conducted discovery to identify the intended uses and success criteria for the system: established an Al governance committee; assembled a broad, crossfunctional team with clear roles and responsibilities; and created policies and procedures to document standards, workflows, timelines and risk thresholds during the project. The healthcare network intends to retain a cloud provider to host the solution and a consulting firm to help develop the algorithm using the healthcare network's existing data and de-identified data that is licensed from a large US clinical research partner. In the design phase, which of the following steps is most important in gathering the data from the clinical research partner?",
+    "options": [
+      "Perform a privacy impact assessment.",
+      "Combine only anonymized data.",
+      "Segregate the data sets.",
+      "Review the terms of use."
+    ],
+    "correct_answer": "Review the terms of use.",
+    "explanation": "Reviewing the terms of use is essential when gathering data from a clinical research partner. This step ensures that the healthcare network complies with all legal and contractual obligations related to data usage. It addresses data ownership, usage limitations, consent requirements, and privacy obligations, which are critical to maintaining ethical standards and avoiding legal repercussions. This review helps ensure that the data is used in a manner consistent with the agreements made and the regulatory environment, which is fundamental for lawful and ethical AI development. Reference: AIGP Body of Knowledge on Legal and Regulatory Considerations."
+  },
+  {
+    "source_file": "practice-with-iapp-aigp-mock-test-by-cote.pdf",
+    "section": "Practice With Iapp Aigp Mock Test By Cote",
+    "question_number": "Q2",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Scenario: An organization wants to leverage its existing compliance structures to identify AI-specific risks as part of an ongoing data governance audit. Which of the following compliance-related controls within an organization ismost easily adaptedto identify AI risks?",
+    "options": [
+      "Privacy training",
+      "Penetration testing",
+      "Transfer risk assessments",
+      "Privacy impact assessments"
+    ],
+    "correct_answer": "Privacy impact assessments",
+    "explanation": "The correct answer isD -- Privacy impact assessments (PIAs). These aredirectly adaptablefor identifying risks in AI systems, particularly around data usage, bias, and individual impacts. From the AIGP ILT Guide -- Risk Management Module: ''PIAs and DPIAs are existing tools used in privacy compliance that can be extended to evaluate the risks of AI, including fairness, explainability, and legality.'' AI Governance in Practice Report 2025 further explains: ''Organizations can adapt privacy impact assessments to evaluate the ethical, legal, and technical risks posed by AI systems. They provide a structured and recognized method.'' PIAs are preferable over general security practices (like pen testing) which do not address algorithmic bias or legal compliance directly."
+  },
+  {
+    "source_file": "practice-with-iapp-aigp-mock-test-by-cote.pdf",
+    "section": "Practice With Iapp Aigp Mock Test By Cote",
+    "question_number": "Q3",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Scenario: An organization is building a compliance program to ensure responsible AI deployment. It aims to align operations with AI risk frameworks and mitigate legal, ethical, and operational risks, while still promoting innovation. Which of the following would be theleast likelystep for an organization to take when designing an integrated compliance strategy for responsible AI?",
+    "options": [
+      "Meeting with and obtaining approval from senior management",
+      "Launching a survey to understand the concerns and interests of potentially impacted stakeholders",
+      "Consulting experts to consider the ethical principles underpinning the use of AI within the organization",
+      "Employing a new software platform to modernize existing compliance processes across the organization"
+    ],
+    "correct_answer": "Employing a new software platform to modernize existing compliance processes across the organization",
+    "explanation": "The correct answer isD. While modernization through software may support efficiency, it isnot a foundational or essential componentof designing an integrated strategy. From the AI Governance in Practice Report 2025: ''Integrated strategies rely on senior management support, ethical reviews, and stakeholder engagement... The use of tools and platforms may come later as an operational enhancement.'' Also confirmed in AIGP Body of Knowledge: ''Key components of a governance framework include leadership buy-in, ethical analysis, and stakeholder input. Tools are supporting elementsnot strategic drivers.''"
+  },
+  {
+    "source_file": "practice-with-iapp-aigp-mock-test-by-cote.pdf",
+    "section": "Practice With Iapp Aigp Mock Test By Cote",
+    "question_number": "Q4",
+    "question_type": "multiple_choice_single_answer",
+    "question": "CASE STUDY Please use the following answer the next question: ABC Corp, is a leading insurance provider offering a range of coverage options to individuals. ABC has decided to utilize artificial intelligence to streamline and improve its customer acquisition and underwriting process, including the accuracy and efficiency of pricing policies. ABC has engaged a cloud provider to utilize and fine-tune its pre-trained, general purpose large language model (''LLM''). In particular, ABC intends to use its historical customer dataincluding applications, policies, and claimsand proprietary pricing and risk strategies to provide an initial qualification assessment of potential customers, which would then be routed tA. human underwriter for final review. ABC and the cloud provider have completed training and testing the LLM, performed a readiness assessment, and made the decision to deploy the LLM into production. ABC has designated an internal compliance team to monitor the model during the first month, specifically to evaluate the accuracy, fairness, and reliability of its output. After the first month in production, ABC realizes that the LLM declines a higher percentage of women's loan applications due primarily to women historically receiving lower salaries than men. The best approach to enable a customer who wants information on the Al model's parameters for underwriting purposes is to provide?",
+    "options": [
+      "A transparency notice.",
+      "An opt-out mechanism.",
+      "Detailed terms of service.",
+      "Customer service support."
+    ],
+    "correct_answer": "A transparency notice.",
+    "explanation": "The best approach to enable a customer who wants information on the AI model's parameters for underwriting purposes is to provide a transparency notice. This notice should explain the nature of the AI system, how it uses customer data, and the decision-making process it follows. Providing a transparency notice is crucial for maintaining trust and compliance with regulatory requirements regarding the transparency and accountability of AI systems."
+  },
+  {
+    "source_file": "practice-with-iapp-aigp-mock-test-by-cote.pdf",
+    "section": "Practice With Iapp Aigp Mock Test By Cote",
+    "question_number": "Q5",
+    "question_type": "multiple_choice_single_answer",
+    "question": "CASE STUDY Please use the following answer the next question: ABC Corp, is a leading insurance provider offering a range of coverage options to individuals. ABC has decided to utilize artificial intelligence to streamline and improve its customer acquisition and underwriting process, including the accuracy and efficiency of pricing policies. ABC has engaged a cloud provider to utilize and fine-tune its pre-trained, general purpose large language model (''LLM''). In particular, ABC intends to use its historical customer dataincluding applications, policies, and claimsand proprietary pricing and risk strategies to provide an initial qualification assessment of potential customers, which would then be routed .. human underwriter for final review. ABC and the cloud provider have completed training and testing the LLM, performed a readiness assessment, and made the decision to deploy the LLM into production. ABC has designated an internal compliance team to monitor the model during the first month, specifically to evaluate the accuracy, fairness, and reliability of its output. After the first month in production, ABC realizes that the LLM declines a higher percentage of women's loan applications due primarily to women historically receiving lower salaries than men. During the first month when ABC monitors the model for bias, it is most important to?",
+    "options": [
+      "Continue disparity testing.",
+      "Analyze the quality of the training and testing data.",
+      "Compare the results to human decisions prior to deployment.",
+      "Seek approval from management for any changes to the model."
+    ],
+    "correct_answer": "Continue disparity testing.",
+    "explanation": "During the first month of monitoring the model for bias, it is most important to continue disparity testing. Disparity testing involves regularly evaluating the model's decisions to identify and address any biases, ensuring that the model operates fairly across different demographic groups."
+  },
+  {
+    "source_file": "practice-with-iapp-aigp-mock-test-by-cote.pdf",
+    "section": "Practice With Iapp Aigp Mock Test By Cote",
+    "question_number": "Q8",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which option best most encourages accountability over Al systems?",
+    "options": [
+      "Determining the business objective and success criteria for the Al project.",
+      "Performing due diligence on third-party Al training and testing data.",
+      "Defining the roles and responsibilities of Al stakeholders.",
+      "Understanding Al legal and regulatory requirements."
+    ],
+    "correct_answer": "Defining the roles and responsibilities of Al stakeholders.",
+    "explanation": "Defining the roles and responsibilities of AI stakeholders is crucial for encouraging accountability over AI systems. Clear delineation of who is responsible for different aspects of the AI lifecycle ensures that there is a person or team accountable for monitoring, maintaining, and addressing issues that arise. This accountability framework helps in ensuring that ethical standards and regulatory requirements are met, and it facilitates transparency and traceability in AI operations. By assigning specific roles, organizations can better manage and mitigate risks associated with AI deployment and use."
+  }
+]

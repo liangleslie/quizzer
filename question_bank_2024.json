@@ -1,0 +1,1512 @@
+[
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q1",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is a method that helps to ensure AI integrity and that data is representative, accurate and unbiased?",
+    "options": [
+      "Tracking data lineage.",
+      "Assuming the data is accurate.",
+      "Purchasing data from a vendor.",
+      "Reversioning the data internally."
+    ],
+    "correct_answer": "Tracking data lineage.",
+    "explanation": "The correct answer is A. Data lineage tracks data over time from the source to any other intervening programs or uses, and ultimately to the AI program or process utilizing it. Knowing where and how data has been used and manipulated before it is incorporated into an AI program or process helps ensure the data being used is accurate and appropriate. Body of Knowledge Domain III, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q2",
+    "question_type": "multiple_choice_single_answer",
+    "question": "You are tasked with designing an AI system to predict customer attrition for a telecommunications company. During the design phase, you are focusing on developing the data strategy. Which of the following statementsbestdescribes the critical importance of data gathering in this phase?",
+    "options": [
+      "It primarily aims to reduce data storage costs, prioritizing low-cost repositories over data quality or relevance.",
+      "It ensures the AI system has access to high-quality and relevant data, which is the fuel for training effective models.",
+      "It focuses on designing attractive user interfaces for data input, catering to user experience over data completeness or accuracy.",
+      "It is only important for regulatory compliance, ensuring data practices adhere to regulations but not impacting the AI system's performance."
+    ],
+    "correct_answer": "It ensures the AI system has access to high-quality and relevant data, which is the fuel for training effective models.",
+    "explanation": "The correct answer is B. Implementing a data strategy during the AI system design phase is crucial because it ensures access to high-quality and relevant data, which is fundamental for training effective AI models. The quality and relevance of data directly impacts the performance and accuracy of AI systems. The other options are irrelevant aspects of an AI system's design phase. Body of Knowledge Domain III, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q3",
+    "question_type": "multiple_choice_single_answer",
+    "question": "A US manufacturing company is implementing an algorithm-based system to assist with screening job applicants and making hiring decisions. Which of the following isleast likelyto provide guidance on minimizing potential discrimination and bias with this system?",
+    "options": [
+      "Fair Credit Reporting Act (FCRA).",
+      "American with Disabilities Act (ADA).",
+      "National Artificial Intelligence Initiative Act (NAIIA).",
+      "Equal Employment Opportunity Commission (EEOC) enforcement actions."
+    ],
+    "correct_answer": "National Artificial Intelligence Initiative Act (NAIIA).",
+    "explanation": "The correct answer is C. The National Artificial Intelligence Initiative Act of 2020 establishes a national initiative to advance AI research and development. It does not provideguidanceon minimizing potential discrimination and bias, although these are considerations for the various committees formed thereunder to address. The ADA has direct application to the use of software algorithms to make employment decisions. The FCRA imposes certain obligations on an organization using credit reporting information for employment purposes and adverse employment actions based on credit reporting information. While EEOC enforcement actions are not binding legal standards beyond the target company, enforcement actions for alleged discrimination and bias related to AI and automated decision-making systems provides direct evidence of the EEOC's view on how such systems may result in discrimination and bias. Body of Knowledge Domain II, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q4",
+    "question_type": "multiple_choice_single_answer",
+    "question": "In the context of workforce readiness for AI, what is an essential consideration for businesses to fully leverage AI benefits responsibly?",
+    "options": [
+      "Focusing on training a select IT task force in advanced AI techniques.",
+      "Avoiding employee training on AI to prevent over-reliance on technology.",
+      "Implementing comprehensive training programs across various departments.",
+      "Outsourcing AI-related tasks to third-party specialists to reduce training needs."
+    ],
+    "correct_answer": "Implementing comprehensive training programs across various departments.",
+    "explanation": "The correct answer is C. To maximize the benefits of AI, businesses should implement comprehensive training programs that encompass not just technical AI skills but also ethical considerations of AI usage. This approach ensures a broad-based understanding of AI across the organization, enabling more effective and responsible use of AI technologies. Body of Knowledge Domain IV, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q5",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of the model card in assessing the readiness of an AI model for production?",
+    "options": [
+      "It stores the model's input data that is used to generate outputs.",
+      "It provides the correct outputs against which the AI model is tested.",
+      "It holds the model's final “Dev” code to provide a performance baseline.",
+      "It documents the model's performance, limitations and intended use cases."
+    ],
+    "correct_answer": "It documents the model's performance, limitations and intended use cases.",
+    "explanation": "The correct answer is D. Model cards are short documents provided with machine learning models that explain the context in which the models are intended to be used, details of the performance evaluation procedures and any other relevant information. Body of Knowledge Domain III, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q6",
+    "question_type": "multiple_choice_single_answer",
+    "question": "The manager of a call center decides to use an AI system to record and conduct sentiment analysis on interactions between customers and call center agents. Prior to using this data to evaluate the performance of the agents, what step should be implemented to minimize error in the evaluations?",
+    "options": [
+      "A security review of the AI system.",
+      "A manual review of the recordings.",
+      "An estimate of call rates to the center.",
+      "A retention policy for aggregate reports."
+    ],
+    "correct_answer": "A manual review of the recordings.",
+    "explanation": "The correct answer is B. Human review or supervision of the recorded call should be done to ensure the sentiment analysis of the AI system is accurate prior to using the data to evaluate the agent's performance. Retention of data is important, but aggregate report data will not create risk for an individual. An estimate of call rates may help in staffing or workforce planning but won't directly affect an individual's performance rating. A security review of the AI will ensure security of the system, but also does not directly affect the individual or how their performance is evaluated. Body of Knowledge Domain III, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q7",
+    "question_type": "multiple_choice_single_answer",
+    "question": "With this solution in sight, what initial step should AlphaTech take to ensure the interoperability of AI risk management with privacy risk management in its operations?",
+    "options": [
+      "Conduct regular simulations and tests.",
+      "Implement continuous audit protocols.",
+      "Create a specialized multidisciplinary team.",
+      "Develop ethical and transparent AI algorithms."
+    ],
+    "correct_answer": "Create a specialized multidisciplinary team.",
+    "explanation": "The correct answer is C. While each of the steps listed is important at various stages of development and implementation, the first step should be to create a team that understands the complexities and needs of both privacy risk management and AI risk management. The reason for prioritizing the creation of a specialized multidisciplinary team is twofold: a. Integration of diversified knowledge: A multidisciplinary team brings together specialists in different areas, such as AI, data protection and digital law. This diversity of knowledge is essential to fully understand both the technical aspects of AI and the legal and ethical implications related to data privacy; and b. Foundation for implementing: With a specialized team in place, the company will have the necessary resources to plan and execute other strategies more effectively. For example, the team can oversee the implementation of continuous audit protocols, guide the development of ethical and transparent AI algorithms, and plan regular simulations and tests. Body of Knowledge Domain II, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q8",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following strategies would bemosteffective for AlphaTech to ensure privacy compliance when integrating AI into its operations?",
+    "options": [
+      "Delegate all the AI decisions to an automated algorithm.",
+      "Implement a privacy training program for all employees.",
+      "Focus on the technological development of AI without considering legal aspects.",
+      "Reduce data collection to a minimum, regardless of the impact on AI effectiveness."
+    ],
+    "correct_answer": "Implement a privacy training program for all employees.",
+    "explanation": "The correct answer is B. Implementing a privacy training program for all employees will help ensure everyone in the company is aware of the responsibilities and practices necessary to maintain compliance with the data protection law. Body of Knowledge Domain II, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q9",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the best practice for AlphaTech to effectively integrate AI into operational risk monitoring without compromising data privacy?",
+    "options": [
+      "Allow full access to the AI system for all employees.",
+      "Focus only on operational risks, ignoring privacy risks.",
+      "Apply data minimization and transparency principles in AI.",
+      "Delete all personal data from the system to avoid privacy risks."
+    ],
+    "correct_answer": "Apply data minimization and transparency principles in AI.",
+    "explanation": "The correct answer is C. Applying data minimization and transparency principles in AI implementation ensures that only necessary data is used and processes are transparent, balancing operational efficiency with privacy protection. Body of Knowledge Domain II, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q10",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What approach should AlphaTech adopt to ensure the integration of AI into its operations aligns with best cybersecurity practices?",
+    "options": [
+      "Delegate cybersecurity exclusively to the IT team.",
+      "Reduce focus on cybersecurity to increase AI efficiency.",
+      "Rely entirely on traditional firewalls and antivirus software.",
+      "Integrate cybersecurity into the design and development of AI."
+    ],
+    "correct_answer": "Integrate cybersecurity into the design and development of AI.",
+    "explanation": "The correct answer is D. Integrating cybersecurity into the design and development of AI from the beginning ensures security concerns are proactively addressed rather than being an afterthought. This is essential to protect both the company's infrastructure and the data it processes. Body of Knowledge Domain II, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q11",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Consider you are a privacy consultant with a tech company developing an AI-driven health-monitoring application. The application collects user data to provide personalized health insights. The company is dedicated to ensuring user privacy and seeks your advice. In the context of developing a privacy-enhanced AI health-monitoring application, which of the following measures would bemosteffective in aligning with privacy standards?",
+    "options": [
+      "Implementing user consent mechanisms and anonymizing collected data to protect user identities.",
+      "Utilizing social media integration to enrich user profiles with additional lifestyle information and offers.",
+      "Sharing raw user data with various pharmaceutical companies to facilitate targeted drug development.",
+      "Storing user health data on a publicly accessible server for easy collaboration with health care researchers."
+    ],
+    "correct_answer": "Implementing user consent mechanisms and anonymizing collected data to protect user identities.",
+    "explanation": "The correct answer is A. Obtaining consent from users empowers individuals to make informed decisions about the use of their health data. Furthermore, anonymizing involves removing personally identifiable information from the collected data, such as names, addresses and contact details. Body of Knowledge Domain II, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q12",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is an important consideration for mitigating AI system errors?",
+    "options": [
+      "Excluding a review of previous incidents.",
+      "Focusing exclusively on legal compliance.",
+      "Adopting a uniform approach for all errors.",
+      "Understanding the AI use case and the data type."
+    ],
+    "correct_answer": "Understanding the AI use case and the data type.",
+    "explanation": "The correct answer is D. The AI use case and the data type involved in system errors will guide the method of mitigation needed. This allows for an appropriate response and helps to guide any updates or changes needed to avoid similar issues in the future . Body of Knowledge Domain III, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q13",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following should be included in the documentation of an AI model's impact assessment?",
+    "options": [
+      "Marketing and sales budgets.",
+      "Stakeholder input and concerns.",
+      "User demographics and feedback.",
+      "Training algorithm and audit details."
+    ],
+    "correct_answer": "Stakeholder input and concerns.",
+    "explanation": "The correct answer is B. Stakeholder inputs and concerns are important to be part of impact assessment, as it will provide key details on the output and how AI is performing, which will help in addressing issues. Training algorithm details and user demographics are required, but at the planning stage, which will help in access and eliminate any biased data. Marketing Budget is not a relevant option. Body of Knowledge Domain IV, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q14",
+    "question_type": "multiple_choice_single_answer",
+    "question": "In the design phase of AI development, privacy-enhancing technologies play a critical role in addressing data privacy concerns. Among these technologies, differential privacy and federated learning are significant. Given this context, which of the followingbestillustrates the application of differential privacy in the AI design phase?",
+    "options": [
+      "An AI model is trained in a centralized dataset in which individual data points are anonymized before being added to the dataset.",
+      "An AI system enables multiple models to learn from separate datasets, then combines them to improve the overall model without sharing individual data points.",
+      "An AI application uses encryption to secure data in transit between the client and server, ensuring that intercepted data cannot be read by unauthorized parties.",
+      "An AI system adds random noise to the raw data it collects, ensuring that any output reflects general trends in the dataset but does not compromise individual data privacy."
+    ],
+    "correct_answer": "An AI system adds random noise to the raw data it collects, ensuring that any output reflects general trends in the dataset but does not compromise individual data privacy.",
+    "explanation": "The correct answer is D. This option directly aligns with the principles of differential privacy. Differential privacy is a technique used to ensure the privacy of individual data points in a dataset by adding statistical noise. This method allows the dataset to be used for analysis or AI model training while maintaining the confidentiality of individual data entries. The key aspect of differential privacy is that it provides insights into the general patterns or trends of the data without revealing sensitive information about any specific individual. Body of Knowledge Domain I, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q15",
+    "question_type": "multiple_choice_single_answer",
+    "question": "When implementing responsible AI governance and risk management, what is a critical consideration for testing and evaluation in alignment with a specific use case?",
+    "options": [
+      "Include potentially malicious data in the test.",
+      "There is no need for repeatability assessments for novel cases.",
+      "Use the same testing and evaluation approach for all algorithms.",
+      "Exclude cases that the AI has not encountered during its training."
+    ],
+    "correct_answer": "Include potentially malicious data in the test.",
+    "explanation": "The correct answer is A. Incorporating potentially malicious data into the testing process would enable the assessment of the AI's robustness and resilience against adversarial inputs and ensure that it behaves safely in real-world scenarios. The other options are not aligned with the best practices for responsible AI testing. Body of Knowledge Domain I, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q16",
+    "question_type": "multiple_choice_single_answer",
+    "question": "The Voter Registration Department of a state agency has implemented an AI tool to scan and crossreference driver's license information and voter registration application information to detect fraud and identity theft. In assessing the effectiveness of the AI tool, which of the following isNOT a key assessment activity?",
+    "options": [
+      "Auditing for bias and discrimination across multiple demographic groups.",
+      "Confirming that all counties have analyzed the same number of voter registration applications.",
+      "Testing for the frequency of false positives that inaccurately identify fraud where it does not exist.",
+      "Collecting feedback from users to identify errors or aspects of the AI tool that need to be improved."
+    ],
+    "correct_answer": "Confirming that all counties have analyzed the same number of voter registration applications.",
+    "explanation": "The correct answer is B. In assessing an AI tool after deployment, it is important to determine error rates by testing and by collecting feedback from users and stakeholders. With an AI tool that could potentially discriminate and exclude persons from voting, bias testing is also important. Answer C is not a key assessment task because different counties may have different populations. Also, the number of applications analyzed by each county does not directly relate to the tool's performance or effectiveness. Body of Knowledge Domain IV, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q17",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What will be the classification of the AI system Hire in One Second be under the EU's Artificial Intelligence Act?",
+    "options": [
+      "High risk.",
+      "Limited risk.",
+      "Minimal risk.",
+      "Unacceptable risk."
+    ],
+    "correct_answer": "High risk.",
+    "explanation": "The correct answer is A. AI systems intended to be used for recruitment or selection of natural persons, notably to place targeted job advertisements, and to analyze and filter job applications and evaluate candidates are classified as high risk under the EU AI Act. The high-risk classification is due to the effect these actions have on an individual's employment opportunities and the bias AI could introduce if not regulated properly. Body of Knowledge Domain II, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q18",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Easy to Hire planned to sell its product directly within the European market and commercialize it through a distribution network. In that context, who will be the provider of the AI system under the EU AI Act?",
+    "options": [
+      "Healthcare.Gmb.",
+      "Emma, as the ethics officer.",
+      "The operations director of Hirenow.Inc.",
+      "Easy to Hire and its distribution network."
+    ],
+    "correct_answer": "Easy to Hire and its distribution network.",
+    "explanation": "The correct answer is D. The EU AI Act defines providers and users of AI systems. The provider is the entity which develops the AI system and makes it available through the market (supplying of an AI system for distribution or use in the EU ). The deployer is the organization or individual that utilizes the AI system for specific purposes. Among other names, deployers may be referred to as importers, distributors and operators. Body of Knowledge Domain II, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q19",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Among this list of regulations, which is legally binding and requires compliance from both AI users and providers?",
+    "options": [
+      "The European AI Act.",
+      "The OECD Guidelines on AI.",
+      "The Blueprint for an AI Bill of Rights.",
+      "The Singapore AI Governance Framework."
+    ],
+    "correct_answer": "The European AI Act.",
+    "explanation": "The correct answer is A. The only binding instrument within the choices listed is the European AI Act. The OECD Guidelines on AI from 2019, the Blueprint for an AI Bill of Rights adopted by the White House in 2021 and the Singapore AI Governance Framework of 2019 are guidelines and part of the plethora of frameworks published in the last few years to aid organizations in building AI ethically. Body of Knowledge Domain II, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q20",
+    "question_type": "multiple_choice_single_answer",
+    "question": "When assessing the success of an AI system meeting its objectives, which of the following approachesbest aligns with the requirement to ensure a comprehensive evaluation while avoiding automation bias?",
+    "options": [
+      "Evaluate and align predefined benchmarks that will provide evidence of having achieved your system goals.",
+      "Rely on the AI system's output to determine if the goals were achieved, as this will provide a reliable and objective measure.",
+      "Conduct a review that includes the AI system's output, human interpretation, and potential secondary or unintended outputs.",
+      "Focus on user feedback about the AI system's performance to directly measure the system's effectiveness in meeting the objectives."
+    ],
+    "correct_answer": "Conduct a review that includes the AI system's output, human interpretation, and potential secondary or unintended outputs.",
+    "explanation": "The correct answer is C. This is a comprehensive approach as it includes different testing initiatives. By integrating the AI system's output, human interpretation and potential secondary or unintended outputs, you will avoid automation bias (when only relying on the output), as well as the limitation of having only human feedback that might not fully capture AI specificities. Additionally, this process avoids a narrow focus, which would be the result of using only a benchmark as a comparison item. Body of Knowledge Domain III, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q21",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following pairs provides examples of potential group harms associated with AI technologies?",
+    "options": [
+      "Safety and deep fakes.",
+      "Acceleration and reputational.",
+      "Mass surveillance and facial recognition.",
+      "Carbon dioxide emission and agricultural."
+    ],
+    "correct_answer": "Mass surveillance and facial recognition.",
+    "explanation": "The correct answer is C. Mass surveillance and facial recognition can lead to group harm given the potential use of AI technology to target and/or discriminate against specific groups/demographics. Safety and deep fakes are examples of societal harm, which is different than group harms in that they are not targeted against a specific group or demographic. Acceleration refers to the potential harm caused by AI advancing beyond the ability to safeguard it properly. Reputation harm refers to the potential risk to organizations or individuals from poorly managed AI or competitors creating deep fakes. Carbon dioxide emissions and agricultural harm refer to the possibility of increased computer reliance affecting the environment. Body of Knowledge Domain I, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q22",
+    "question_type": "ordering",
+    "question": "Put the following AI system planning phase steps in the right order by letter.",
+    "options": [
+      "Identify laws that apply",
+      "Determine the business problem to be solved by the AI",
+      "Identify necessary data for the AI system",
+      "Determine the specific use cases",
+      "Identify gaps and risks to the use cases system"
+    ],
+    "correct_answer": [
+      "B. Determine the business problem to be solved by the AI",
+      "D. Determine the specific use cases",
+      "A. Identify laws that apply",
+      "E. Identify gaps and risks to the use cases system",
+      "C. Identify necessary data for the AI system"
+    ],
+    "explanation": "The correct answer is BDAE C. While there are other steps involved in planning to introduce an AI system to an organization, and some steps may occur more than once, the general order of those listed is: Determine the business problem Determine specific use case(s) Identify laws that apply Identify use case gaps and risks Identify the data that will be needed By having a defined process, beginning with whether the AI tool solves a specific business issue, you help to guide responsible and appropriate AI use within your organization. Body of Knowledge Domain III, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q23",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the main purpose of conducting regular audits of an AI model?",
+    "options": [
+      "To verify the cost of the AI system is offset by profits.",
+      "To ensure that the model has enough data for viable processing.",
+      "To increase the speed and effectiveness of the model's operations.",
+      "To evaluate performance, fairness and compliance with regulations."
+    ],
+    "correct_answer": "To evaluate performance, fairness and compliance with regulations.",
+    "explanation": "The correct answer is D. Regular audits are conducted to ensure that the AI model operates fairly, reliably, and complies with applicable laws and ethical standards. This helps identify and address issues such as bias, performance deterioration or legal non-compliance. Body of Knowledge Domain IV, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q24",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following isNOT true about the relationship of explainability and transparency as they relate to AI?",
+    "options": [
+      "They are synonymous.",
+      "They support trustworthy AI.",
+      "They are distinct characteristics that support each other.",
+      "They enable users of the system to understand the outcomes."
+    ],
+    "correct_answer": "They are synonymous.",
+    "explanation": "The correct answer is A. Both are types of documentation that help users understand how the system produces its outputs. Both support trustworthy AI as defined by NIST, OECD and others. “Explainability and transparency are distinct characteristics that support each other. Transparency can answer the question of 'what happened' in the system. Explainability can answer the question of 'how' a decision was made in the system” (NIST AI RMF, 3.5 Explainable and Interpretable). They are not synonymous. The words do not have nearly the same meaning but can be presented in ways that may make this appear to be the case. Body of Knowledge Domain I, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q25",
+    "question_type": "multiple_choice_single_answer",
+    "question": "A regulator has ruled that the AI model used by some features of your product should not be used in its jurisdiction. What is themostrobust way of reacting to this situation?",
+    "options": [
+      "Shut down the service in the jurisdiction to pressure the regulator to change its position.",
+      "Create a second, separate version of the application and deploy it to users in the jurisdiction.",
+      "Implement a feature flag to enable or disable the features based on a user's country of origin.",
+      "Retrain and deploy your AI model immediately to prove you can react quickly to regulatory demands."
+    ],
+    "correct_answer": "Implement a feature flag to enable or disable the features based on a user's country of origin.",
+    "explanation": "The correct answer is C. Feature flags can be toggled without major engineering efforts, and keeping the model offline during regulatory negotiations avoids unnecessary confrontations, such as requiring a redeploy. Body of Knowledge Domain IV, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q26",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is a key recommendation for assessing the reliability of general-purpose AI models after deployment?",
+    "options": [
+      "Limit assessments to specific use cases.",
+      "Use only quantitative metrics for evaluation.",
+      "Focus solely on pre-deployment testing results.",
+      "Monitor and evaluate models in real-world conditions."
+    ],
+    "correct_answer": "Monitor and evaluate models in real-world conditions.",
+    "explanation": "The correct answer is D. Continuously monitoring and evaluating AI models in real-world conditions ensures they remain reliable and effective as they face varied and dynamic environments. This approach helps identify any issues or degradation in performance, allowing for timely adjustments and improvements to maintain the integrity of AI systems. Body of Knowledge Domain IV, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q27",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following should Z Corporation do as it grows to reduce the risk of bias during the app's ongoing design and development process?",
+    "options": [
+      "Retrain the app using as many fields of data as possible from users in South America and Asia.",
+      "Remind users about the list of partner banks and their interest rates before finalizing a payment.",
+      "Ensure that its AI governance framework is designed to include a more diverse set of stakeholders.",
+      "Include requirements of privacy laws in its privacy policy, including for automated decision-making."
+    ],
+    "correct_answer": "Ensure that its AI governance framework is designed to include a more diverse set of stakeholders.",
+    "explanation": "The correct answer is C. Diversity of thought, including through a demographically diverse team, can reduce the chance of bias during the design process (ie, equitable design). Although a more globally applicable privacy notice and list of partner banks or interest rates would be helpful to improve transparency, they are unlikely to reduce bias. Retraining the app with more data fields can reduce bias, but, as the app's users are global, two continents are unlikely to be sufficient and the use of as many data fields as possible may breach the data protection principle of data minimization. Body of Knowledge Domain III, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q28",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following Asilomar AI principles aremostrelevant to Z Corporation when it's considering whether to remove users' ability to obtain a loan or use funds from their account?",
+    "options": [
+      "Importance, risks, research goal.",
+      "Safety, judicial transparency, shared benefit.",
+      "Research culture, race avoidance, human values.",
+      "Failure transparency, human control, personal privacy."
+    ],
+    "correct_answer": "Failure transparency, human control, personal privacy.",
+    "explanation": "The correct answer is D. If the feature determines to offer a loan when it is not beneficial to the user, this is likely to subvert the principle that the human user should decide whether to delegate a decision to an AI algorithm (human control ). The user must have the right to access and control the personal data used in that decision (personal privacy). If the user wanted to challenge the automated decision, the user would not be able to ascertain why (failure transparency) the decision was made. The other answers are less suitable because the principles are less relevant. For example, the question does not ask about research (research goal or research culture) or use of AI by judges (judicial transparency). Body of Knowledge Domain III, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q29",
+    "question_type": "multiple_choice_single_answer",
+    "question": "When Z Corporation applies the OECD AI principles to its decision of whether to purchase the ready-made app, which of the following isNOT an important argument against the use of O Ltd.?",
+    "options": [
+      "Robustness, security and safety.",
+      "Transparency and explainability.",
+      "Human-centered values and fairness.",
+      "Sustainable development and well-being."
+    ],
+    "correct_answer": "Sustainable development and well-being.",
+    "explanation": "The correct answer is D. While all the principles should be considered, there is little in the question which focuses on growth, prosperity and global development objectives (sustainable development and well-being). The use of O Ltd. could present concerns about the rule of law, human rights, democratic values (humancentered value and fairness), and privacy and digital security (robustness, security and safety). Using a pretrained algorithm would present concerns around the factors and logic used to make the decisions (transparency and explainability). Body of Knowledge Domain II, Competency D"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q30",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is themosteffective way for an AI developer to mitigate the risk of copyright infringement in developing and training an AI system?",
+    "options": [
+      "Confirm that any picture of a person the system generates does not resemble a living person.",
+      "Confirm that the output is factually accurate and fully responds to each of the training prompts.",
+      "Confirm that all the data in the foundational model and used for training constitutes a fair use of any existing work.",
+      "Confirm that consent to use personal information to train the model has been obtained from the relevant individuals."
+    ],
+    "correct_answer": "Confirm that all the data in the foundational model and used for training constitutes a fair use of any existing work.",
+    "explanation": "The correct answer is C. Copyright law recognizes that a \"fair use\" of existing copyright material is permissible and does not constitute copyright infringement. By ensuring that all material used for training constitutes a \"fair use\" of existing work, the developer can most effectively mitigate its potential for copyright infringement. While the other options may be relevant considerations in developing and training an AI model, they do not implicit or bear upon whether the developer may be liable for copyright infringement. Body of Knowledge Domain II, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q31",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following isNOT a key feature in determining what laws apply to the deployment of an AI model?",
+    "options": [
+      "The sector in which the model is being used.",
+      "The technology stack used to develop the model.",
+      "The jurisdiction where the model will be deployed.",
+      "The type of information used by the model as its training set."
+    ],
+    "correct_answer": "The technology stack used to develop the model.",
+    "explanation": "The correct answer is B. A technology stack is the collection of frameworks, tools, platforms and libraries used to build and deploy AI. While including the laws that apply to the jurisdiction(s) in which the AI tool will be deployed is important when building the technology stack, the stack itself is not specifically subject to those laws. There may be laws based on the model's training on personal information or copyrighted material, jurisdiction-specific laws, and sector-specific laws (eg, for the healthcare sector). Body of Knowledge Domain IV, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q32",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Why should an AI developer separate data into training and test sets?",
+    "options": [
+      "To create models that can be trained quickly.",
+      "To reduce the inherent biases in stochastic gradient descent.",
+      "To avoid overfitting to the specific characteristics of the training data.",
+      "To improve the test validation scores by presenting multiple datasets."
+    ],
+    "correct_answer": "To avoid overfitting to the specific characteristics of the training data.",
+    "explanation": "The correct answer is C. It is best practice to separate training and test sets to ensure any random biases in the training set do not carry over into the final model. In machine learning, overfitting occurs when an algorithm fits too closely or even exactly to its training data, resulting in a model that can't make accurate predictions or conclusions from any data other than the training data. Body of Knowledge Domain III, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q33",
+    "question_type": "multiple_choice_single_answer",
+    "question": "When considering the implementation of AI systems, how should companies educate users to best address their concerns?",
+    "options": [
+      "Abort the AI system to avoid addressing user concerns.",
+      "Assume that users will self-educate through online resources.",
+      "Provide highly technical details relevant only to AI professionals.",
+      "Offer comprehensive information on AI functionalities and limitations."
+    ],
+    "correct_answer": "Offer comprehensive information on AI functionalities and limitations.",
+    "explanation": "The correct answer is D. To effectively address user concerns, companies should provide comprehensive and accessible information regarding the AI system. This includes educating users on the capabilities and limitations of AI to ensure that they have a balanced and realistic understanding of the AI technology in place. Body of Knowledge Domain I, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q34",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is a key element in ensuring responsible data governance when deploying an AI model?",
+    "options": [
+      "Storing all data indefinitely to allow future analysis.",
+      "Implementing data minimization and retention limits.",
+      "Only focusing on data quality without considering privacy.",
+      "Collecting as much data as possible, regardless of its relevance."
+    ],
+    "correct_answer": "Implementing data minimization and retention limits.",
+    "explanation": "The correct answer is B. Responsible data governance requires collecting only the necessary data and enforcing retention limits to comply with privacy regulations like GDPR. It ensures that data usage is both relevant and legally compliant. Body of Knowledge Domain IV, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q35",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Alex is working for a public transit agency that is building out its AI program. He is collaborating with a local university to work on an AI project that involves what the NIST AI Risk Management Framework defines as social responsibility. Which proposal belowbestaligns with the concepts of social responsibility?",
+    "options": [
+      "Using AI-assisted software to analyze anonymized ridership data to fulfill government reporting requirements.",
+      "Attaching sensors on buses to determine and assess heavy traffic periods on specific routes to provide accurate travel time to passengers.",
+      "Analyzing video from station surveillance cameras to determine when office trash cans need to be emptied to save staff from unnecessary trips.",
+      "Developing an AI-based mobile application that provides pseudonymized assistance to disabled customers booking point-to-point ride services."
+    ],
+    "correct_answer": "Developing an AI-based mobile application that provides pseudonymized assistance to disabled customers booking point-to-point ride services.",
+    "explanation": "The correct answer is D. NIST refers to the organization's social responsibility as considering the “impacts of its decisions and activities on society and the environment through transparent and ethical behavior.” While each of these are important or useful in one way or another , providing ride assistance to disabled customers meets the goal of ethical social behavior. By pseudonymizing the information and the service itself, the company is providing a socially responsible service that protects the individual. Body of Knowledge Domain II, Competency D"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q36",
+    "question_type": "multiple_choice_single_answer",
+    "question": "The engineering team is working on training an AI model with a large, new dataset culled from social media. The team has built out the model to predict trends in car buying for the coming year based on social media posts. The AI model has a clear bias toward one particular automotive model. It turns out the recent data input was pulled when the car was featured in a blockbuster Hollywood movie. This is an example of which type of AI bias?",
+    "options": [
+      "Human-cognitive.",
+      "Systemic and directed.",
+      "Computational and statistical.",
+      "Psychological and sociological."
+    ],
+    "correct_answer": "Computational and statistical.",
+    "explanation": "The correct answer is C. Computational and statistical biases may stem from errors due to nonrepresentative samples. In this example, the data is skewed based on the movie release. Body of Knowledge Domain III, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q37",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is a primary consideration for Tochi when tailoring AI governance to the organization?",
+    "options": [
+      "The availability and expertise of the organization's IT team.",
+      "The organization's budget constraints and financial resources.",
+      "The unique context, culture and objectives of the organization.",
+      "Emerging trends and innovations in the broader industry landscape."
+    ],
+    "correct_answer": "The unique context, culture and objectives of the organization.",
+    "explanation": "The correct answer is C. While Tochi has worked for five years at NMATO, his focus was on privacy risk management. At this time, his focus needs to be on how AI will be used by examining the context, culture and objectives of the organization. He must evaluate the context and how best practices for AI use will fit within the organization. Body of Knowledge Domain I, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q38",
+    "question_type": "multiple_choice_single_answer",
+    "question": "To strengthen the AI governance program early in its build-out, Tochi must do which of the following?",
+    "options": [
+      "Block third-party AI solutions from being deployed in the organization.",
+      "Evaluate technology solutions different stakeholders can leverage in assessing AI solutions.",
+      "Create a new organization charter and hire AI experts to build new AI governance processes.",
+      "Understand the stakeholders involved and engage them early to identify areas of partnership."
+    ],
+    "correct_answer": "Understand the stakeholders involved and engage them early to identify areas of partnership.",
+    "explanation": "The correct answer is D. AI governance requires a diverse set of stakeholders due to the multifaceted nature of AI harms and diverse perspectives that can be leveraged to enrich the program. Tochi must demonstrate inclusiveness internally and potentially do an assessment to identify if there are gaps that may be fulfilled by an additional hire. Body of Knowledge Domain I, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q39",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following describes NMATO's governance model?",
+    "options": [
+      "Hybrid.",
+      "Centralized.",
+      "Cooperative.",
+      "Decentralized."
+    ],
+    "correct_answer": "Hybrid.",
+    "explanation": "The correct answer is A. Best practice is to leverage existing governance models. NMATO currently has a hybrid model, given that risk evaluations happen locally with a coordination mechanism at the head office. Operating a hybrid model also allows for the combination of centralized and local governance. This is typically seen when a large organization assigns a main individual responsibility for AI-related affairs, and the local entities then fulfill and support the policies and directives from the central governing body. Body of Knowledge Domain IV, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q40",
+    "question_type": "multiple_choice_single_answer",
+    "question": "ABC Corp is negotiating a contract with a vendor for a generative AI system to be used by ABC Corp's marketing team. Which of the following would be ofleastconcern to ABC Corp when negotiating the agreement?",
+    "options": [
+      "ABC Corp not having copyright in the output generated by the vendor's AI system.",
+      "ABC Corp not having a patent in order to use the algorithms of the vendor's AI system.",
+      "ABC Corp losing its own trade secrets when providing inputs to align the algorithms of the vendor's AI system.",
+      "ABC Corp infringing the intellectual property rights of others when using the output generated by the vendor's AI system."
+    ],
+    "correct_answer": "ABC Corp not having a patent in order to use the algorithms of the vendor's AI system.",
+    "explanation": "The correct answer is B. ABC Corp does not need its own patent to use the vendor's AI system since the vendor would permit ABC Corp to use any patent the vendor had (if any). The other options relate to ensuring that ABC Corp can use the vendor's AI system while maintaining its own IP rights or not infringing the IP rights of others, which are issues particularly pertinent to generative AI. Body of Knowledge Domain IV, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q41",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Brad is the Chief Technology Officer for Chip Zone, a chip manufacturer for the video game industry. The business has grown dramatically over the past two years and Brad needs an additional engineer to keep up with demand for new gaming chips. Brad prompts ChatGPT to draft a job description for his talent recruiters to use in advertising the engineering position. Which of the following results should BradNOT include in the job description?",
+    "options": [
+      "The successful applicant will be a collaborative team player, detail-oriented, with creative problemsolving skills. They must provide two verifiable references from an employer or a recognized educator in the field.",
+      "The successful applicant must demonstrate appropriate skills in chip design and engineering with a minimum of two years' experience and must be able to work 40 hours per week onsite at the ChipZone headquarters.",
+      "The successful applicant will demonstrate skills in chip design and engineering, including at least two years' experience in integrated circuitry design and experience with CAD simulation tools, and must be able to work collaboratively.",
+      "The successful applicant must have two years' experience in chip design. He should be a highly energetic “rock star” in the field, and a have graduated from a top 10 computer engineering university program within the United States."
+    ],
+    "correct_answer": "The successful applicant must have two years' experience in chip design. He should be a highly energetic “rock star” in the field, and a have graduated from a top 10 computer engineering university program within the United States.",
+    "explanation": "The correct answer is D. The response in D violates the policy against bias and discrimination because it is male gender-specific and uses slang in such a way that could be viewed as discriminatory against women, non- binary individuals and older applicants. It also discriminates against applicants who may be equally qualified but received education at a lower-ranked school or a school outside of the United States, which may indicate ethnic discrimination. Body of Knowledge Domain I, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q42",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Nolan is in the IT procurement department of Happy Customer Inc., a provider of call center solutions. Other companies are using Happy Customer Inc. services to help their clients with easy, first-level support requests. Happy Customer Inc. wants to offer its B2B clients a new text-based chatbot solution that offers the right answers to a given set of questions. What type of AI model should Nolan look for?",
+    "options": [
+      "A robotics model.",
+      "A statistical model.",
+      "A decision tree model.",
+      "A speech recognition model."
+    ],
+    "correct_answer": "A decision tree model.",
+    "explanation": "The correct answer is C. A decision tree model predicts an outcome based on a flowchart of questions and answers. A statistical model is used to model the relationships between two variables. A speech recognition model is used to analyze speech; eg, for voice assistants. A robotics model is based on a multidisciplinary field that encompasses the design, construction, operation and programming of robots and allows AI systems and software to interact with the physical world without human intervention. Body of Knowledge Domain IV, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q43",
+    "question_type": "multiple_choice_single_answer",
+    "question": "EuDizzy sells polyester toys in its shop aimed at children. The toys can respond to questions from the children via a wifi connection to an AI system on EuDizzy's servers. To maximize profits the toys are sold in the shop at prices based on an stuff algorithm which considers what the child looks like and what similar customers were willing to pay for it previously. Which pair of laws will EuDizzy need to considermostwhen designing and selling the toys?",
+    "options": [
+      "Child labor laws; copyright laws.",
+      "Manufacturing laws; medical device laws.",
+      "Data protection laws; animal welfare laws.",
+      "Discrimination laws; consumer protection laws."
+    ],
+    "correct_answer": "Discrimination laws; consumer protection laws.",
+    "explanation": "The correct answer is D. Discrimination laws and consumer protection laws will both be relevant to evaluate the proposed pricing strategy to avoid discriminating against children in protected classes (eg race or gender) based on images and to ensure fair pricing. While data protection laws will also be relevant to the pricing strategy and the images collected, and copyright laws will be relevant to the inputs and outputs of the AI system, animal welfare laws will not be relevant to toys made from polyester. Child labor laws, and manufacturing laws are not directly relevant to the issues raised. The toys do not claim to be a medical device. Body of Knowledge Domain IV, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q44",
+    "question_type": "multiple_choice_single_answer",
+    "question": "A company uses automated decision-making via an AI system to evaluate and subsequently accept or deny loan applications from potential customers. A customer (data subject) who is denied might use the process of redress because of the denial. Which of the following is a component of the right to redress?",
+    "options": [
+      "Review the privacy notice.",
+      "Register a formal complaint.",
+      "Sign a contract with the company.",
+      "Provide consent for data processing."
+    ],
+    "correct_answer": "Register a formal complaint.",
+    "explanation": "The correct answer is B. The data subject would use the process of redress to make a formal complaint or request a review of the automated decision. Body of Knowledge Domain II, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q45",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is an important reason to continuously improve and maintain deployed models by tuning and retraining them with new data and human feedback?",
+    "options": [
+      "To comply with various legal and regulatory requirements.",
+      "To maintain the system's relevance and effectiveness over time.",
+      "To reduce the initial cost of training the model by adding new data iteratively.",
+      "To ensure perfect accuracy and eliminate any possibility of errors in the model."
+    ],
+    "correct_answer": "To maintain the system's relevance and effectiveness over time.",
+    "explanation": "The correct answer is B. This option best captures one of the key objectives of continuously improving and maintaining models. Other reasons include adapting the model to evolving data and addressing potential bias. No model can achieve perfect accuracy, and continuous improvement aims to minimize errors, not eliminate them entirely. While continuous training can improve model performance over time, it is not primarily a cost-saving measure. Laws and regulations might necessitate responsible AI practices that are aided by training on new data, but the concept of continuous improvement focuses more on enhancing the model's real-world effectiveness and fairness. Body of Knowledge Domain IV, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q46",
+    "question_type": "multiple_choice_single_answer",
+    "question": "When an organization performs an existing function in a new way with the help of AI, which of the following must the organization consider during the planning stage?",
+    "options": [
+      "What the user interface will look like.",
+      "What laws and regulations will apply.",
+      "What the impact to employees will be.",
+      "What the audit and review process will be."
+    ],
+    "correct_answer": "What laws and regulations will apply.",
+    "explanation": "The correct answer is B. Prior to incorporating AI into existing functions, the organization should determine which laws and regulations apply and assess the AI technology's compliance with those laws and regulations. Depending on the AI function and use case, the organization should consider the applicability of privacy, security, safety, employment discrimination and intellectual property laws and regulations. The user interface appearance might be considered during the planning process but is not a requirement. The impact to employees and audit and review processes occurs later in the AI lifecycle . Body of Knowledge Domain IV, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q47",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which aspect of AI development ismost likelyto be affected by existing data privacy laws such as the GDPR or CCPA?",
+    "options": [
+      "The efficiency of the AI algorithms.",
+      "The physical location of AI infrastructure.",
+      "Training AI models using publicly available data.",
+      "Transparency regarding how personal data is used."
+    ],
+    "correct_answer": "Transparency regarding how personal data is used.",
+    "explanation": "The correct answer is D. Data privacy laws like the GDPR (General Data Protection Regulation) and the CCPA (California Consumer Privacy Act) emphasize the importance of transparency and accountability in how personal data is collected, used and shared. These laws are designed to give individuals control over their personal data, including knowing what data is being used, for what purpose and by whom. Body of Knowledge Domain II, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q48",
+    "question_type": "multiple_choice_single_answer",
+    "question": "FinSecure knows that it needs toconduct periodic activities to assess the AI model's performance, reliability and safety. Which of the following activities would assist with these efforts and involvesimulating potential attacks and adversarial scenarios to identify vulnerabilities and weaknesses that could be exploited in realworld environments?",
+    "options": [
+      "Risk Audits.",
+      "Red Teaming.",
+      "Security Testing.",
+      "Threat Modeling."
+    ],
+    "correct_answer": "Red Teaming.",
+    "explanation": "The correct answer is B. Red teaming is a critical practice used to evaluate the security and robustness of AI models and systems. Red teaming involves a group of experts, known as the \"red team,\" who act as adversaries to challenge and test the AI model's defenses. Their goal is to find and exploit any weaknesses in the system, providing insights that can be used to strengthen the model's security and resilience. Audits are focusing on checking if everything is being done correctly and consistently but do not typically actively involve simulating attacks or adversarial scenarios. Threat Modeling is more about understanding the types of threats that could arise, rather than directly simulating them in real-world scenarios. It's a valuable step but doesn't involve the active adversarial testing described in the question. Security testing can be part of a broader security evaluation, but it is less adversarial in nature than red teaming. Body of Knowledge Domain IV, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q49",
+    "question_type": "multiple_choice_single_answer",
+    "question": "After system deployment, which of the following would assist FinSecure with its AI governance and contain system documentation, incident response plans, data dictionaries, links to implementation software or source code, names and contact information for relevant AI actors, and other information that may be helpful for model or system maintenance and incident response purposes?",
+    "options": [
+      "The model card.",
+      "The risk assessment.",
+      "The AI system inventory.",
+      "The privacy impact assessment."
+    ],
+    "correct_answer": "The AI system inventory.",
+    "explanation": "The correct answer is C. An AI system inventory is an organized database of artifacts relating to an AI system or model. It may include system documentation, incident response plans, data dictionaries, links to implementation software or source code, names and contact information for relevant AI actors, or other information that may be helpful for model or system maintenance and incident response purposes. A model card is primarily focused on documenting the model's behavior and intended deployment context rather than serving as a complete system governance tool. The risk assessment outlines the risk mitigation measures but does not contain detailed system documentation, incident response plans, or data dictionaries as required by the question. A privacy impact assessment focuses on data protection and privacy issues. Body of Knowledge Domain IV, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q50",
+    "question_type": "multiple_choice_single_answer",
+    "question": "FinSecure had enormous success with its AI system for several years but has now detected performance inconsistent with the intended use. After investigation, which of the following reasons would indicate that FinSecure could continue to use the system and not deactivate/decommission it?",
+    "options": [
+      "Detected or identified risks do not align with new tolerance thresholds.",
+      "Feasible mitigation was identified and implemented in a timely fashion.",
+      "Limitations of the existing system are well-documented and understood.",
+      "Transfer of data to a new system would be burdensome and introduce new risks."
+    ],
+    "correct_answer": "Feasible mitigation was identified and implemented in a timely fashion.",
+    "explanation": "The correct answer is B. Performance inconsistent with intended use does not always necessarily mean that a system should be deactivated or decommissioned. Mitigated risks indicate that potential issues have been identified and addressed proactively, reducing the likelihood of adverse outcomes. This approach not only ensures the safe and reliable operation of AI systems but also builds trust with users and stakeholders. Not aligning risks (Answer A) would typically signal that the system needs to be reviewed for possible deactivation or major modification to meet new thresholds, rather than justifying continued use. Knowing the limitations doesn't resolve the underlying performance issue. Lastly: even though transferring data to a new system might be burdensome or introduce new risks, this doesn't justify continuing to use a system that is no longer performing as intended. Body of Knowledge Domain IV, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q51",
+    "question_type": "multiple_choice_single_answer",
+    "question": "As the privacy officer of a large commercial organization, which of the following willNOT require you to reevaluate existing data privacy policies?",
+    "options": [
+      "A jurisdiction in which you operate enacted a new law governing the use of AI in the private sector.",
+      "The privacy department has expanded from ten part-time employees to twelve full-time employees.",
+      "The finance department is planning to use a machine learning process to pre-approve financing for products.",
+      "Customer support is replacing some customer support team members with an AI-driven chatbot for customer inquiries."
+    ],
+    "correct_answer": "The privacy department has expanded from ten part-time employees to twelve full-time employees.",
+    "explanation": "The correct answer is B. Either using AI to implement an existing program, implementing a new program using AI, or becoming subject to new regulations will require you to evaluate and potentially update your organization's data privacy policies. It may be that the creation of a privacy department, or a substantial increase in size, will require updating policies to allow the newly-created or expanded department to take on new roles and responsibilities, but a marginal change can be handled in the ordinary policy update cadence. Body of Knowledge Domain I, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q52",
+    "question_type": "multiple_choice_single_answer",
+    "question": "A newly developed AI system in your organization is almost ready to deploy. The engineers who collaborated on the project are the most appropriate personnel to ensure which of the following is in place before the system is deployed?",
+    "options": [
+      "A change management plan to support widespread internal adoption.",
+      "A new company policy to address AI developer, deployer and user risks.",
+      "A method for continuous monitoring for issues that affect performance.",
+      "A set of documented roles and responsibilities for an AI governance program."
+    ],
+    "correct_answer": "A method for continuous monitoring for issues that affect performance.",
+    "explanation": "The correct answer is C. This is the only option that describes one of the four key steps in the implementation phase:monitoring.The prompt states the actors involved are engineers who worked directly on the project. These engineers can be assumed to have the technical and project knowledge necessary to establish continuous monitoring for deviations in accuracy or irregular decisions made by the model. The other options listed should also be in place before the system is deployed but are best addressed by the chief privacy officer, AI governance committee, office for responsible AI, ethics board or other steering groups. Body of Knowledge Domain III, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q53",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Morgan has just started their position as an AI governance lead for a pharmaceutical company. They have been tasked with ensuring AI governance principles are integrated across the company. What is one of the principles that should be applied consistently?",
+    "options": [
+      "Adopt a dissenting viewpoint.",
+      "Select a team that is process focused.",
+      "Ensure planning and design is consensus driven.",
+      "Prioritize the financial considerations of the program."
+    ],
+    "correct_answer": "Ensure planning and design is consensus driven.",
+    "explanation": "The correct answer is C. Core objectives to ensure AI governance principles apply an integrated focus include adopting a pro-innovation mindset, ensuring the AI ethics framework is law, remaining industry and technology agnostic, focusing the team on outcomes and ensuring there is consensus in planning and design. Financial considerations are important, but they should not be the primary consideration. Adopting a dissenting viewpoint will likely only silo AI governance rather than integrate it into the company. Finally, while the team can follow a process, it should focus on the outcomes. There may be many pathways to integrate AI governance into the company to achieve successful outcomes. Body of Knowledge Domain III, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q54",
+    "question_type": "multiple_choice_single_answer",
+    "question": "WonderTemp, a temporary staffing company, terminated most of its employees after implementing a virtual assistant to help write emails, policies, marketing materials and responses to client questions. Three months later, WonderTemp learns that four of its biggest clients are not renewing their contracts because the work product from WonderTemp is full of inaccuracies. Based on these facts, what types of harm has WonderTemp suffered because of its reliance on the virtual assistant?",
+    "options": [
+      "Legal and regulatory harm.",
+      "Individual and societal harm.",
+      "Economic and reputational harm.",
+      "Disinformation and reportable harm."
+    ],
+    "correct_answer": "Economic and reputational harm.",
+    "explanation": "The correct answer is C. The company suffers economic harm when the four companies choose not to renew, and they suffer reputational harm because their clients found their work to be full of inaccuracies. Legal and regulatory do not apply here as WonderTemp has not been sued, there are no assertions that the company violated laws or regulations, and it is not in a highly regulated industry. Social harm is also incorrect, as this type of harm is not experienced by WonderTemp. Disinformation is incorrect, as disinformation is false information that is deliberately intended to mislead — intentionally misstating the facts, and that is not what is happening here. Body of Knowledge Domain I, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q55",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Use Case 1: A customer inputs a picture of the product they are looking for and receives a link to the page where they can purchase the product.",
+    "options": [
+      "Detection.",
+      "Recognition.",
+      "Optimization.",
+      "Personalization."
+    ],
+    "correct_answer": "Recognition.",
+    "explanation": "The correct answer is B. The system needs to recognize and identify the item shown in the customer's picture to match it with products in the company recognition catalog. Recognition models are also used for tasks like facial, identification of defects in manufacturing, and deepfake detection. Body of Knowledge Domain IV, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q56",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Use Case 2: A marketer predicts and displays items a known customer might want to buy on the landing page based on the customer's profile.",
+    "options": [
+      "Detection.",
+      "Recognition.",
+      "Optimization.",
+      "Personalization."
+    ],
+    "correct_answer": "Personalization.",
+    "explanation": "The correct answer is D. When a company is developing a customer profile, it is using information about the customer's previous behavior to predict future purchasing behavior. Personalization models aim to create a unique experience based on the needs and preference of each customer. Body of Knowledge Domain IV, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q57",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How do you ensure your AI system does not develop bias over time?",
+    "options": [
+      "You train a specialized customer service representative to handle any complaints about bias.",
+      "You implement an automated test suite to check for bias and monitor the results continuously.",
+      "You provide users with a survey every quarter asking if the respondents have observed any bias.",
+      "You personally test the system every week to ensure your recommendations remain the same or improve."
+    ],
+    "correct_answer": "You implement an automated test suite to check for bias and monitor the results continuously.",
+    "explanation": "The correct answer is B. Automated testing is the only method that ensures full coverage of the user base. Not all users respond to surveys or contact customer service. Checking the system yourself does not cover all corner cases. Body of Knowledge Domain III, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q58",
+    "question_type": "multiple_choice_single_answer",
+    "question": "The recruiting department for Company X wants to use AI to help it identify the best external candidates and fast-track the hiring process for open positions. It trains the AI program using the resumes of topperforming software engineers across the company. The AI determines that men between the ages of 25 and 35 are the best candidates. This is an example of what type of bias in the AI system?",
+    "options": [
+      "Sampling bias. B. Temporal bias. C. Projection bias.",
+      "Confirmation bias."
+    ],
+    "correct_answer": "Sampling bias. B. Temporal bias. C. Projection bias.",
+    "explanation": "The correct answer is A. The data is skewed toward a subset of individuals due to the limited group selected (internal employees) to train the program — the sample. The sample data should be broader than just those individuals currently employed by the company . The larger the sample, the more diverse the results will be. Temporal bias does not apply because the biased outcome is not due to unbalanced data sampling over time. Confirmation bias does not apply because the recruiters did not seek out information to confirm existing beliefs , but trained the AI using performance statistics. Projection bias does not apply as this type of bias is based on assuming others share our preferences, beliefs and attitudes, and there is no indication that this is the case. Body of Knowledge Domain III, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q59",
+    "question_type": "multiple_choice_single_answer",
+    "question": "In your role as Chief AI Officer, you discover that your AI system unintentionally collects geolocation data from users during its normal operations, which was not disclosed in your company's privacy policy. According to the NIST AI Risk Management Framework (RMF), which function focuses on effectively addressing this unintentional data collection and managing associated regulatory risk?",
+    "options": [
+      "Map.",
+      "Manage.",
+      "Measure.",
+      "Organize."
+    ],
+    "correct_answer": "Manage.",
+    "explanation": "The correct answer is B. The \"Manage\" function focuses on mitigating risks, which includes identifying and addressing any unauthorized data collection that could violate privacy laws. Body of Knowledge Domain II, Competency D"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q60",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the role of US federal agencies in regulating and overseeing the development and use of AI systems?",
+    "options": [
+      "To discourage the development and adoption of AI systems, including private use.",
+      "To regulate the development and use of AI systems, including various liability issues.",
+      "To reduce the legal risks and costs associated with AI systems, including copyright issues.",
+      "To change the accountability of parties who cause damage with AI systems, including social media companies."
+    ],
+    "correct_answer": "To regulate the development and use of AI systems, including various liability issues.",
+    "explanation": "The correct answer is B. The role of US federal agencies is to regulate and oversee the development and use of AI systems and to address the liability issues and challenges arising from AI systems. US federal agencies have been involved in various initiatives and activities related to AI, such as issuing guidance, standards and best practices; conducting research and analysis; providing funding and support; and enforcing laws and regulations. For example, the National Artificial Intelligence Initiative Office, created in January 2021, is responsible for coordinating and advancing the federal government's efforts and investments in AI research, development, innovation and education. Body of Knowledge Domain II, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q61",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Of the below organizational stakeholders, with whom should Sam prioritize meeting to determine thebest way to approach risk management and build the AI governance program?",
+    "options": [
+      "Privacy and security experts.",
+      "Audit and assurance experts.",
+      "The head of market research.",
+      "His human resources business partner."
+    ],
+    "correct_answer": "Privacy and security experts.",
+    "explanation": "The correct answer is A. Privacy and security experts are core stakeholders in building an AI governance program and will be key to identifying and mitigating AI-related risks specific to Spenger Inc. The stakeholder list may need to be fluid as Sam scopes out AI dependencies across Spencer Inc. and discovers additional uses and interactions with AI systems across teams. Other stakeholders may be consulted during the process; however, privacy and security experts will always need to be involved. Body of Knowledge Domain I, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q62",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Sam knows an algorithmic impact assessment is necessary to manage AI risks and adopt responsible, ethical AI practices, but he is not sure where to begin. Which of the following options is thebeststarting point for an algorithmic impact assessment?",
+    "options": [
+      "Confirming whether the AI system is approved by applicable regulators.",
+      "Leveraging an applicable PIA or DPIA and tailoring it to cover any gaps for AI.",
+      "Making sure the organization has secured the proper funding for the AI system.",
+      "Notifying employees who will use the system about any necessary risk mitigation."
+    ],
+    "correct_answer": "Leveraging an applicable PIA or DPIA and tailoring it to cover any gaps for AI.",
+    "explanation": "The correct answer is B. An AI governance professional should begin an algorithmic impact assessment by leveraging PIAs as a starting point and tailoring them to the AI process. Treating an algorithmic impact assessment as an extension of a privacy impact assessment will help to ensure the assessment ties back to the company's vision, mission and core values, and accounts for organizational context. Body of Knowledge Domain II, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q63",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is a key risk to Spenger Inc. if Sam does not properly document the decisions made regarding an AI system's appropriate uses?",
+    "options": [
+      "The system is used for something not considered and approved.",
+      "The organization may not see the return on investment expected.",
+      "Another department in the organization implements a similar system.",
+      "The organization will not be able to respond to auditors appropriately."
+    ],
+    "correct_answer": "The system is used for something not considered and approved.",
+    "explanation": "The correct answer is A. To limit potential misuse and liability of an AI system, an organization must properly document the decisions made regarding an AI system. Otherwise, it is easy for the system to be used for a purpose not considered and approved . Body of Knowledge Domain I, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q64",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is an example of societal harm in AI?",
+    "options": [
+      "Reputational harm to an organization.",
+      "Housing discrimination against a family.",
+      "Spread of disinformation over the internet.",
+      "Insurance discrimination against a demographic."
+    ],
+    "correct_answer": "Spread of disinformation over the internet.",
+    "explanation": "The correct answer is C. The spread of disinformation causes harm to a society by making it difficult or impossible for individuals to verify whether the information they are accessing is accurate or not. This undermines the individual's faith in their societal structure, causing social polarization, unrest and mistrust in the decision-making process of policy makers. The internet has made the ability to spread disinformation a much more rapid process, complicating these issues further. Reputation harm to an organization is an example of organization harm; housing discrimination is an example of individual harm; and insurance discrimination is an example of AI bias that causes individual harm. Body of Knowledge Domain I, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q65",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How does addressing model drift contribute to responsible AI governance?",
+    "options": [
+      "By increasing model training time to allow for additional review.",
+      "By making models more complex to better mimic real-world situations.",
+      "By ensuring ongoing accountability and reliability in AI decision-making.",
+      "By limiting the scope of model applications to organization-specific concerns."
+    ],
+    "correct_answer": "By ensuring ongoing accountability and reliability in AI decision-making.",
+    "explanation": "The correct answer is C. Model drift is the degradation of model performance because of changes to data or other variables. Addressing model drift is crucial for responsible AI governance because it ensures that AI systems remain effective and trustworthy over time. Body of Knowledge Domain IV, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q66",
+    "question_type": "multiple_choice_single_answer",
+    "question": "To which authority should Patrick report this incident to initiate an investigation?",
+    "options": [
+      "The incident should be reported to the EDPS.",
+      "The incident should be reported to the EU AI office.",
+      "The incident should be reported to the data protection regulator.",
+      "The incident should be reported to the designated national authority."
+    ],
+    "correct_answer": "The incident should be reported to the designated national authority.",
+    "explanation": "The correct answer is D. According to the latest release by the European Commission on the EU AI Act, Member States must designate a national authority to serve as a point of contact for the complaints of citizens. Body of Knowledge Domain II, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q67",
+    "question_type": "multiple_choice_single_answer",
+    "question": "If Starnet Ltd. is found to have violated the EU AI Act, what would be the threshold of the penalty to be imposed?",
+    "options": [
+      "The penalty would be a fine of up to 35 million euros or 7 percent of the total worldwide turnover.",
+      "The penalty would be a fine of up to 15 million euros or 3 percent of the total worldwide turnover.",
+      "The penalty would be a fine of up to 15 million euros or 3 percent of the total worldwide turnover.",
+      "The penalty would be a fine of up to 7.5 million euros or 1.5 percent of the total worldwide turnover."
+    ],
+    "correct_answer": "The penalty would be a fine of up to 35 million euros or 7 percent of the total worldwide turnover.",
+    "explanation": "The correct answer is A. The use of AI for untargeted scraping of the internet for facial images to build up or expand databases is classified as a prohibited use case of AI and, as such, any AI system used for this purpose will be banned. Therefore, if Starnet Ltd. has used an AI system for this purpose, as a multinational company, Starnet Ltd. would face an applicable threshold of penalty of a fine of up to 35 million euros or seven percent of the total worldwide turnover. Body of Knowledge Domain II, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q68",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Your company is developing an AI system for global markets. This system involves personal data processing and some decision-making that may affect rights of the individuals. Part of your role as an AI governance professional is to ensure that the AI system complies with various international regulatory requirements. Which of the following approachesbestaligns with a comprehensive understanding of and compliance with AI regulatory requirements in this situation?",
+    "options": [
+      "Focus on the EU AI Act, as it is the most comprehensive regulation, since compliance with it will ensure compliance with all other international regulations that apply to AI.",
+      "Develop a compliance strategy based on the strictest requirements in various regulations, including the EU AI Act, GDPR and HIPAA, then harmonize it into a unified compliance framework.",
+      "Consider that if the AI system complies with local regulations of the country where the company is based, it is not necessary to comply with international regulations, as AI is adaptable globally.",
+      "Adopt a region-specific compliance strategy where the AI is modified to meet regulatory requirements of each region independently, disregarding commonalities or overlaps in international regulations."
+    ],
+    "correct_answer": "Develop a compliance strategy based on the strictest requirements in various regulations, including the EU AI Act, GDPR and HIPAA, then harmonize it into a unified compliance framework.",
+    "explanation": "The correct answer is B. This option represents a balanced and comprehensive approach to AI regulatory compliance by acknowledging the need to understand and integrate multiple international requirements, ensuring adherence to the highest standards of AI compliance, data privacy and other regulatory considerations. Body of Knowledge Domain II, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q69",
+    "question_type": "multiple_choice_single_answer",
+    "question": "As technology continues to advance, companies, scientists and technologists are adopting a human-centric approach to develop AI. What specifically characterizes an AI system as “human-centric”?",
+    "options": [
+      "It prioritizes technical advancement without considering human input, needs or experiences.",
+      "It disregards technological advancements and societal technological needs and rely entirely on human input.",
+      "It is designed with a focus on human input, providing an approach that addresses human needs and experiences.",
+      "It is developed internally by companies without review of existing technologies and without collaboration with external technologists."
+    ],
+    "correct_answer": "It is designed with a focus on human input, providing an approach that addresses human needs and experiences.",
+    "explanation": "The correct answer is C. Human-centric AI is AI designed to put humans before the machine by acknowledging human abilities and ingenuity. HCAI is AI that enhances and augments human abilities rather than displacing them. HCAI aims to preserve human control to ensure that AI meets human needs. “Human centeredness asserts firstly, that we must always put people before machines, however complex or elegant that machine might be, and, secondly, it marvels and delights at the ability and ingenuity of human beings. In the Human Centered System, there exists a symbiotic relation between the human and the machine, in which the human being would handle the qualitative subjective judgments and the machine the quantitative elements. It involves a radical redesign of the interface technologies and at a philosophical level, the objective is to provide tools (in the Heidegger sense) which would support human skill and ingenuity rather than machines which would objectivize that knowledge.” Mike Cooley,On Human-Machine Symbiosis,2008. Body of Knowledge Domain I, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q70",
+    "question_type": "multiple_choice_single_answer",
+    "question": "A financial institution aims to develop a model for detecting fraudulent credit card transactions. It possesses a history of transaction data in which instances of fraud and non-fraud are clearly labeled and explicitly identified. What is the appropriate machine learning technique the financial institution should adopt?",
+    "options": [
+      "Supervised.",
+      "Unsupervised.",
+      "Reinforcement.",
+      "Semi-supervised."
+    ],
+    "correct_answer": "Supervised.",
+    "explanation": "The correct answer is A. In this situation, where the financial institution has a labeled dataset with instances of fraud and non-fraud clearly identified, the appropriate machine learning technique is supervised learning. In supervised learning, the model is trained on labeled data, and it learns to make predictions or classifications based on the provided labels. The goal is to identify patterns in the labeled data that can be used to accurately predict the labels for new, unseen instances . Body of Knowledge Domain I, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q71",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Supermarket Limited is a global supermarket chain and is rapidly introducing AI systems into its business to drive efficiency and quality. Its human resources, marketing and quality control departments are the priority. Supermarket Limited's AI Officer is putting together a cross-functional team of lawyers to help advise on the AI aspects of these projects, but due to budgetary constraints the team can only consist of three lawyers. Which of the following disciplines would bemostappropriate for the AI Officer to focus on?",
+    "options": [
+      "Employment, patents, anti-trust.",
+      "Litigation, healthcare, product safety.",
+      "Copyright, data protection, employment.",
+      "Product safety, contracts, government relations."
+    ],
+    "correct_answer": "Copyright, data protection, employment.",
+    "explanation": "The correct answer is C. Copyright will be relevant to generative AI systems used to create marketing materials, while data protection and employment expertise will be relevant to AI systems used for recruitment and allocating job responsibilities. While product safety expertise would also be very helpful for AI systems relating to the quality control, the other legal disciplines mentioned (contracts, government relations, patents, litigation and anti-trust) are less relevant to the stated goals of Supermarket Limited and interaction with AI laws. Body of Knowledge Domain IV, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q72",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is thebestanswer for what Amy's first step should be?",
+    "options": [
+      "Clean the data to remove any outliers and missing values.",
+      "Perform a data lineage analysis to determine where the data originated.",
+      "Start building a predictive model that can be used to assess client satisfaction.",
+      "Examine the data for unexpected insights, concepts and semantic relationships."
+    ],
+    "correct_answer": "Perform a data lineage analysis to determine where the data originated.",
+    "explanation": "The correct answer is B. Given the strong privacy and data protection laws in this region, privacy and data transfer laws must be considered first. EU, French and German laws must be reviewed before any other activity is performed. This is achieved by reviewing where the data originates, where it is transferred and what laws control this path, as well as the use of the data. While removing outliers and missing items; or examining insights, concepts and semantics are vital aspects of the AI development process, laws may disallow the processing or movement of the data entirely. In addition, building the model to the client's satisfaction occurs further along in the AI development process and is ill-advised. Body of Knowledge Domain III, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q73",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Assuming Amy has complied with all privacy and data protection laws, what type of machine learning is Amy most likelyto use to predict patient satisfaction?",
+    "options": [
+      "Regression.",
+      "Decision tree.",
+      "Dimensionality reduction.",
+      "Natural language processing."
+    ],
+    "correct_answer": "Natural language processing.",
+    "explanation": "The correct answer is D. Since the doctors' notes are in free-form text, natural language processing would be the most likely type of machine learning used. NLP is specifically used for analyzing text and natural language. Regression is used typically for predicting numerical values where there are underlying variables that are numeric. A decision tree is used typically for classification where a limited number of variables are involved. Dimensionality reduction is used to reduce the number of variables and other extraneous factors, so is not likely to be used, given the other options. Body of Knowledge Domain IV, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q74",
+    "question_type": "multiple_choice_single_answer",
+    "question": "When initiating an AI governance program, which of the following statementsbestreflects a strategic approach to effectively engaging leadership?",
+    "options": [
+      "Identify leaders already using AI who see opportunities for differentiation through improved governance.",
+      "Postpone leadership engagement until the AI program is fully implemented to avoid an overly complicated journey.",
+      "Prioritize leaders with extensive business experience to help minimize discussions about responsible AI and simplify your decision-making process.",
+      "Get buy-in from leaders whose primary interest centers around the ability of AI to allow the organization to get ahead of its competition."
+    ],
+    "correct_answer": "Identify leaders already using AI who see opportunities for differentiation through improved governance.",
+    "explanation": "The correct answer is A. In the context of AI governance, it is crucial to engage leaders who not only have experience with AI, but also recognize the potential for differentiation through responsible practices. This approach ensures leadership alignment with the AI governance program goals and helps in understanding the value it brings. Body of Knowledge Domain I, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q75",
+    "question_type": "multiple_choice_single_answer",
+    "question": "The EU AI Act and NIST AI Risk Management Framework are both pursuing the dual purposes of promoting the uptake of AI and addressing the risks associated with its use. Which of the following is one of themain differences between the EU AI Act and NIST AI RMF?",
+    "options": [
+      "The EU AI Act is underpinned by a risk-based approach, while the NIST AI RMF is a horizontal regulation.",
+      "The EU AI Act is applicable to EU-based companies only, while the NIST AI RMF has an extraterritorial effect.",
+      "The EU AI Act is relevant to large- and medium-sized companies, while NIST AI RMF applies to companies of all sizes.",
+      "The EU AI Act imposes mandatory compliance requirements, while NIST AI RMF is a voluntary AI governance framework."
+    ],
+    "correct_answer": "The EU AI Act imposes mandatory compliance requirements, while NIST AI RMF is a voluntary AI governance framework.",
+    "explanation": "The correct answer is D. The NIST AI Risk Management Framework is intended for voluntary use and to improve the ability to incorporate trustworthiness considerations into the design, development, use and evaluation of AI products, services and systems. The EU AI Act imposes comprehensive mandatory compliance requirements on high-risk AI with respect to, among other things, risk mitigation, data governance, detailed documentation, human oversight, transparency, robustness, accuracy and cybersecurity. The EU AI Act requires mandatory conformity assessments and fundamental rights impact assessments .It also provides a right for citizens to launch complaints about AI systems and receive explanations about decisions based on high-risk AI systems that impact their rights. Body of Knowledge Domain II, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q76",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Robotic processing automation is an emerging type of artificial intelligence. Which of the following does NOT describe RPA?",
+    "options": [
+      "Machines that mimic human actions on digital systems.",
+      "Software robots that are used to automate rule-based tasks.",
+      "Machines designed to perform tasks relying on human intervention.",
+      "Software robots that are augmented by other types of artificial intelligence."
+    ],
+    "correct_answer": "Machines designed to perform tasks relying on human intervention.",
+    "explanation": "The correct answer is C. The intent of robotic processing automation is to “mimic” human behavior by leveraging intelligent systems. The goal of this is to decrease human intervention by automating tasks to increase efficiency of business processes, and not rely on humans to complete tasks. Body of Knowledge Domain I, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q77",
+    "question_type": "multiple_choice_single_answer",
+    "question": "A retailer plans to implement facial recognition in physical stores. Which of the following measures should the retailer take to comply with regulatory requirements?",
+    "options": [
+      "Disclose the practice of facial recognition to consumers.",
+      "Train the employees not to reveal the use of facial recognition technology.",
+      "Ensure as many images as possible are placed into the facial-matching system.",
+      "Consult with a trusted privacy professional network to source a facial-recognition vendor."
+    ],
+    "correct_answer": "Disclose the practice of facial recognition to consumers.",
+    "explanation": "The correct answer is A. Transparency is a key value in privacy and responsible AI. Failure to disclose risks of harm to consumers can also lead to violations of the FTC Act section 5, as well as existing privacy laws such as the GDPR, and potentially to violations of emerging laws. Companies that use facial recognition in physical stores should, at a minimum, consider disclosing the practice to consumers. Body of Knowledge Domain III, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q78",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Company N works in the field of disability benefits and wants to use AI to determine who ismost likelyto benefit from its services by filtering applications. Company N's privacy officer is concerned about unintended serious impacts of filtering applications. What is a negative impact the privacy officer should consider when analyzing the proposed project?",
+    "options": [
+      "Impacting an employee's job.",
+      "Making individuals uncomfortable.",
+      "Discriminating against a particular group.",
+      "Creating a false sense of security for applicants."
+    ],
+    "correct_answer": "Discriminating against a particular group.",
+    "explanation": "The correct answer is C. The privacy officer should examine the project carefully to determine if there will be an unintended result of discrimination against a particular group of individuals who may share a trait that will accidentally cause the AI to filter out their applications for disability benefits, even though they would normally qualify. Body of Knowledge Domain I, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q79",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following isNOT a key component of AI governance policies to ensure oversight and accountability across all AI lifecycle stages?",
+    "options": [
+      "Implementing a data privacy compliance program.",
+      "Establishing a centralized AI governance committee.",
+      "Promoting a culture of innovation and experimentation.",
+      "Developing comprehensive AI risk assessment frameworks."
+    ],
+    "correct_answer": "Promoting a culture of innovation and experimentation.",
+    "explanation": "The correct answer is C. While innovation and experimentation are essential for AI development, they should be balanced with robust governance to ensure ethical and responsible AI practices. The other options (A, B and C) are all critical components of AI governance , as they provide oversight, risk management and compliance. A culture of innovation without proper governance can lead to unintended consequences, such as biased models or privacy breaches. Body of Knowledge Domain I, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q80",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Kim is expanding their governance, risk and compliance role at their organization to include the NIST AI Risk Management Framework. Kim is using the four core functions to lay out their project to present to management. Which of the following is the step for the measure function?",
+    "options": [
+      "Risk management is cultivated and present.",
+      "Identified risks are assessed, analyzed or tracked.",
+      "Risk is prioritized and acted upon based on projected impact.",
+      "Context is recognized and risks related to context are identified."
+    ],
+    "correct_answer": "Identified risks are assessed, analyzed or tracked.",
+    "explanation": "The correct answer is B. The measure function involves quantifying risks and their related impacts, including tracking trustworthiness and social impacts. Through this stage, organizations can balance any trade-offs necessary and ensure the risks are mitigated where possible. Body of Knowledge Domain II, Competency D"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q81",
+    "question_type": "multiple_choice_single_answer",
+    "question": "An organization is in the process of integrating an open-source AI model into its operations and needs to evaluate the vendor agreement. Which of the following considerations ismostcritical for ensuring that the organization understands potential risks and obligations related to data privacy and intellectual property?",
+    "options": [
+      "Evaluate the compliance of the AI model with existing organizational policies to ensure consistency with internal practices and procedures.",
+      "Review the license type of the open-source AI model to ensure it aligns with the organization's commercial goals and does not impose restrictions on distribution.",
+      "Examine the terms regarding the model's training data, including ownership, usage rights and any obligations for sharing derivative works based on the open-source model.",
+      "Assess whether the agreement includes clauses for liability limitations, as these can impact the organization's recourse in the event of a data breach or model malfunction."
+    ],
+    "correct_answer": "Examine the terms regarding the model's training data, including ownership, usage rights and any obligations for sharing derivative works based on the open-source model.",
+    "explanation": "The correct answer is C. Understanding the terms regarding the model's training data is essential for assessing data privacy risks, potential intellectual property issues, and compliance with data protection regulations. Ownership and usage rights of training data can significantly impact the organization's obligations and rights, especially in relation to user data and the use of derivative works from the model. While reviewing the license type is important, it focuses more on distribution and commercial goals rather than the immediate risks associated with data privacy and intellectual property, which are paramount when integrating an AI model that handles sensitive data. Liability limitations are also important, but this option does not directly address the critical elements of data usage and ownership, which are vital for privacy compliance and the ethical use of AI. And while alignment with internal policies is beneficial, it does not address the external risks tied to data privacy and intellectual property outlined in the vendor or open- source agreement. By focusing on C, organizations can better safeguard their interests and comply with relevant laws and regulations when leveraging open-source AI technologies. Body of Knowledge Domain IV Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q82",
+    "question_type": "multi_select",
+    "question": "Which of the following outline some of the necessary components of creating an AI governance structure?",
+    "options": [
+      "Identify an executive champion",
+      "Identify applicable laws",
+      "Determine whether there is an AI governance structure",
+      "Identify and document who will implement AI governance structure",
+      "Establish and document data lineage"
+    ],
+    "correct_answer": [
+      "Identify an executive champion",
+      "Determine whether there is an AI governance structure",
+      "Identify and document who will implement AI governance structure"
+    ],
+    "explanation": "The correct answer is A, C and D. While identifying laws and establishing data lineage are important stages of AI implementation, they are not part of creating the governance structure. Typically, one would first determine whether an AI governance structure is already in place; then, if not, or if a new structure is needed, decide who the executive champion is and determine who will maintain the structure. Body of Knowledge Domain I, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q83",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is a key component of the NIST ARIA program for AI safety?",
+    "options": [
+      "AI Ethics Guidelines.",
+      "AI Governance Framework.",
+      "AI Safety Assurance Framework.",
+      "AI Risk Assessment Framework."
+    ],
+    "correct_answer": "AI Risk Assessment Framework.",
+    "explanation": "The correct answer is D. The NIST ARIA program (Artificial Intelligence Risk Assessment) is primarily focused on assessing and managing risks associated with AI systems. The AI Risk Assessment Framework is a central component of this program, providing a structured approach to identifying , assessing and mitigating risks. While the other options (AI Safety Assurance Framework, AI Ethics Guidelines and AI Governance Framework) are also important aspects of AI safety, they are not the central focus of the NIST ARIA program. Body of Knowledge Domain II, Competency D"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q84",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of a risk assessment in AI Governance?",
+    "options": [
+      "Test and validate the AI system.",
+      "Establish priorities and allocate resources.",
+      "Compile feedback from impacted AI actors.",
+      "Establish appropriate roles and responsibilities."
+    ],
+    "correct_answer": "Establish priorities and allocate resources.",
+    "explanation": "The correct answer is B. The purpose of a risk assessment is to identify the areas of greatest risk in an AI system so risk mitigation resources can be allocated appropriately. Risk assessments can also be used to generate metrics for tracking and managing priorities throughout the model development life cycle. Body of Knowledge Domain III, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q85",
+    "question_type": "multiple_choice_single_answer",
+    "question": "An India-based company has developed an AI system to assist recruiters for initial screening of resumes based on certain criteria, which can also be modified as per customer's needs. When considering expanding to the EU market, this type of technology would?",
+    "options": [
+      "Require the company to register the tool with the EU database.",
+      "Require the company to get approval by the relevant EU authority.",
+      "Require the company to perform a detailed conformity assessment.",
+      "Require the company to appoint an EU representative to handle queries from the EU market."
+    ],
+    "correct_answer": "Require the company to perform a detailed conformity assessment.",
+    "explanation": "The correct answer is C. Under the EU AI Act, high-risk AI systems (like systems dealing with recruitment) would require a detailed conformity assessment before being deployed in the EU market. This assessment ensures that the AI system complies with all relevant regulations and standards, addressing potential risks related to privacy, security and discrimination. Body of Knowledge Domain IV, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q86",
+    "question_type": "multiple_choice_single_answer",
+    "question": "John is the AI governance lead for his EU-based company, XYZ. XYZ provides users with a virtual assistant. When exiting the system, users receive a notice which informs them they have interacted with an AI system and its responses may include hallucinations that should be reviewed by the user. John informs XYZ of his approval of this notice along with the way it is presented to him. Based on the information provided, why is XYZ not in compliance with the transparency requirements set out by the EU AI Act?",
+    "options": [
+      "The notice is not GDPR compliant.",
+      "The notice was not displayed in a timely manner.",
+      "The notice is not accessible to vulnerable persons.",
+      "The notice is not adequate in terms of the information provided."
+    ],
+    "correct_answer": "The notice was not displayed in a timely manner.",
+    "explanation": "The correct answer is B. As per the transparency obligations set forth in the EU AI Act, the notice that informs users they are using an AI system shall be provided, at the latest, at the time of first interaction or exposure to the AI system in question. In this case, the notice was provided as a response to the first prompt rather than being displayed to users at the time of the first interaction or exposure, before they enter a prompt. Body of Knowledge Domain II, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q87",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is a critical term to assess in an open-source AI vendor agreement regarding the use of the software?",
+    "options": [
+      "Data Ownership.",
+      "Marketing Rights.",
+      "Termination Clause.",
+      "Non-Disclosure Agreement."
+    ],
+    "correct_answer": "Data Ownership.",
+    "explanation": "The correct answer is A. Since the vendor is open source, it is critical to address clauses related to data ownership, to ensure no copyrighted data is being used without consent which could lead to infringement claims. Additionally, specifying in the agreement who ultimately owns the output will determine who has the right to use it and how it can be used. Body of Knowledge Domain IV, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q88",
+    "question_type": "multiple_choice_single_answer",
+    "question": "DPIAs and AI conformity assessments are both important tools in evaluating privacy risk. Which of the following is a key component of both?",
+    "options": [
+      "A targeted mitigation plan.",
+      "An effective consent model.",
+      "A strategy to anonymize data.",
+      "A policy for personal data use."
+    ],
+    "correct_answer": "A targeted mitigation plan.",
+    "explanation": "The correct answer is A. Both assessments should involve an assessment of risks, as well as a plan to mitigate such risks. Consent and anonymization may be needed depending on the process or system involved. While personal data is a component of a DPIA , it may or may not be for an AI conformity assessment. Body of Knowledge Domain II, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q89",
+    "question_type": "multiple_choice_single_answer",
+    "question": "How can human oversight influence the reduction of bias or discrimination in AI/ML models (algorithmic bias) in the initial stages of selecting data and defining goals?",
+    "options": [
+      "Using only data scientists to handle data selection in AI/ML models ensures success in meeting set goals.",
+      "Working with a variety of social experts ensures inclusive and unbiased data during the AI/ML model design.",
+      "Having software engineers manage AI/ML bias reduction without social science input provides clarity in data selection.",
+      "Allowing government regulators to provide the sole definition of AI/ML model data will remove all bias and discrimination."
+    ],
+    "correct_answer": "Working with a variety of social experts ensures inclusive and unbiased data during the AI/ML model design.",
+    "explanation": "The correct answer is B. Collaboration with social experts, such as psychologists, linguists and sociologists, provides diverse insights into human behavior and societal dynamics essential for identifying potential biases that may not be obvious to data scientists or software engineers. Body of Knowledge Domain III, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q90",
+    "question_type": "multiple_choice_single_answer",
+    "question": "What is the purpose of liability reform regarding liability for AI systems?",
+    "options": [
+      "To discourage the development and adoption of AI systems.",
+      "To increase the legal risks and costs associated with AI systems.",
+      "To reduce the legal certainty for developers and users of AI systems.",
+      "To change the governing rules accountability for damages caused by AI systems."
+    ],
+    "correct_answer": "To change the governing rules accountability for damages caused by AI systems.",
+    "explanation": "The correct answer is D. Liability reform is the process of changing the legal rules and principles that govern the responsibility and accountability of parties who cause or contribute to damage or harm through AI systems. Body of Knowledge Domain II, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q91",
+    "question_type": "multiple_choice_single_answer",
+    "question": "When building an AI model, which of the following is a best practice for feature selection?",
+    "options": [
+      "Raw data is preferred to processed data.",
+      "The more features used, the better the model performs.",
+      "Personal information should never be used as a feature.",
+      "The same features must be used for training and testing."
+    ],
+    "correct_answer": "D",
+    "explanation": "The correct answer is D. Training and testing data must use the same features to ensure accuracy. There are trade-offs to adding model features in performance, and adding too many features can cause overfitting to the training data. Raw data needs to be processed before being added to the model, at the very least, for data cleaning purposes. Finally, personal information can be used as a feature, but only where necessary. Body of Knowledge Domain III, Competency B"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q92",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Company XBR is developing an AI system for a virtual assistant to be used in households. How would the development team incorporate the principles of human-centric design throughout the entire process, from conception to deployment?",
+    "options": [
+      "Ignoring privacy concerns to maximize data collection for refining the AI algorithms.",
+      "Designing the virtual assistant to operate independently, without requiring user input.",
+      "Prioritizing user feedback and involving potential users in the early stages of development.",
+      "Focusing on technical advancements and automation to streamline the virtual assistant's capabilities."
+    ],
+    "correct_answer": "Prioritizing user feedback and involving potential users in the early stages of development.",
+    "explanation": "The correct answer is C. The development team should rely on users' participation and feedback to incorporate the principles of human-centric design through the process, from development to deployment of the AI system. Human-centered AI learns from human input and collaboration, and continuously improves based on human feedback. Prioritizing users' feedback and involving users in the development of the AI system or otherwise is known as “human-centered design,” which is an approach to interactive systems development that aims to make systems usable and useful by focusing on the users, and their needs and requirements, and by applying human factors/ ergonomics, usability knowledge and techniques. This approach enhances effectiveness and efficiency, improves human well-being, user satisfaction, accessibility and sustainability; and counteracts possible adverse effects of use on human health, safety and performance. See ISO 9241-210:2019(E) Body of Knowledge Domain I, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q93",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which one of the following options contains elements that should be considered when building an AI incident response plan?",
+    "options": [
+      "The security incident plan, which covers all requirements needed, includes required incident actions so the security team can oversee AI incident management.",
+      "The third-party tools that are integrated into your system should be identified because, in the case of an incident, you might need to notify those third parties.",
+      "An automated tool should be in place to guarantee the algorithm is shut down immediately, avoiding dependence on human action to avoid delays or human error.",
+      "The existing privacy breach response tools in your organization need to be reused, as the data privacy team should be the reporting body overseeing all data-related incidents."
+    ],
+    "correct_answer": "The third-party tools that are integrated into your system should be identified because, in the case of an incident, you might need to notify those third parties.",
+    "explanation": "The correct answer is B. To understand third-party risk in the organization, it is necessary to identify all third- party tools that are integrated in the system. If there is an incident, the organization might need to notify the user of these third-party tools, as the incident might not only impact the tool owned by the organization. Body of Knowledge Domain I, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q94",
+    "question_type": "multiple_choice_single_answer",
+    "question": "The HR department of the EU-based CompanyX purchases an AI-enabled tool to optimize efficiency and resource allocation. The tool collects personal data, including special categories of personal data under the GDPR, for an automated rating of workers' performance and assignment of work. Given the context, the tool might be qualified as a high-risk AI system under the EU AI Act. Consequently, CompanyX must conduct tests against preliminarily defined metrics and probabilistic thresholds to identify risks and the most appropriate risk management measures. Since the tool will be used for automated decision-making affecting the privacy rights of employees, CompanyX must?",
+    "options": [
+      "Carry out a conformity assessment procedure after working with a representative in the EU.",
+      "Draft the technical documentation and the required instructions for use once the tool is ready for use.",
+      "Perform a data protection impact assessment to determine the impact to personal data before launching the tool.",
+      "Inform appropriate national authorities of the Member States of all the risk mitigations taken as soon as the tool is in use."
+    ],
+    "correct_answer": "Perform a data protection impact assessment to determine the impact to personal data before launching the tool.",
+    "explanation": "The correct answer is C. CompanyX is an EU-based AI user and, therefore, it will need to comply with the requirements of the EU AI Act. The EU AI Act classifies AI systems used in employment and worker management as high risk and imposes rigorous obligations on the providers of high-risk AI systems. Users of high-risk AI tools must comply with less stringent requirements, such as using the product according to provider instructions; conducting impact assessments, including data protection impact assessments; monitoring the operation of the system; and informing the provider or distributor of system malfunctions. Carrying out a data protection impact assessment in this context is a GDPR requirement since the type of processing activity described creates a likelihood of a high-risk outcome to the rights and freedoms of the employees. Body of Knowledge Domain II, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q95",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the followingbestdescribes why ABC Corp. had these issues?",
+    "options": [
+      "The model suffers from concept drift.",
+      "Their training data was improperly labeled.",
+      "They did not properly test Phlunk's software tool.",
+      "They did not have a model inference process in place."
+    ],
+    "correct_answer": "They did not have a model inference process in place.",
+    "explanation": "The correct answer is D. ABC has no procedure in place to test the accuracy of the model after it's deployed. Any deployed model must have a separate process for testing a model's performance in the real world, that is, in production. This is a failure of a basic machine learning governance stage called “inference.” Concept and improperly-labeled data would be reflected in model accuracy, which the facts state is not an issue. Since the model has been extensively trained, it is not a testing issue. Body of Knowledge Domain III, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q96",
+    "question_type": "multiple_choice_single_answer",
+    "question": "To mitigate the false negatives issue, ABC Corp. has decided it wants to increase the accuracy of its model to account for potentially unknown threats. Which of the following approaches is thebestsolution?",
+    "options": [
+      "Synthetic data.",
+      "Data minimization.",
+      "Federated learning.",
+      "Probabilistic graphical models."
+    ],
+    "correct_answer": "Synthetic data.",
+    "explanation": "The correct answer is A. Synthetic data is specifically used to increase the accuracy of models. Using agentbased modeling, this process generates possible new threats that mimic real data. Effective AI requires a significant amount of data, so data minimization is not a good solution. Federated learning is a technique used to assist with training on private or sensitive data in a way that is compliant with privacy laws. It has nothing to do with finding unknown threats. Probabilistic graphical models are used to represent dependencies and correlations between features . It has no applicability in this context. Body of Knowledge, Domain III, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q97",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following is a crucial aspect of a deactivation policy for AI models?",
+    "options": [
+      "The ability to immediately shut down a model if it generates profits.",
+      "Ensuring that only technical staff are aware of the deactivation process.",
+      "The capacity to disable the model due to legal or performance concerns.",
+      "Disabling the former AI model fully whenever a new model version is released."
+    ],
+    "correct_answer": "The capacity to disable the model due to legal or performance concerns.",
+    "explanation": "The correct answer is C. A deactivation policy ensures that an AI model can be safely and effectively shut down if it no longer complies with regulatory requirements or exhibits significant performance issues, thus reducing risks to users and stakeholders. However, disabling a model due to profits is clearly not in the company's best interest; and new versions of the same product should not require fully disabling the model since new versions should build upon the prior one and would therefore use the same or a similar model. Body of Knowledge Domain IV, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q98",
+    "question_type": "multiple_choice_single_answer",
+    "question": "An organization wants to build a model to analyze content on social media by considering both textual content and associated images or videos. Which type of machine learning modeling technique is suitable in this scenario?",
+    "options": [
+      "Regression.",
+      "Multi-modal.",
+      "Reinforcement.",
+      "Anomaly detection."
+    ],
+    "correct_answer": "Multi-modal.",
+    "explanation": "The correct answer is B. Multi-modal models are designed to process and integrate information from multiple modalities, making them well suited for tasks that involve diverse types of data, such as text, images and videos. In the given scenario, where the organization wants to analyze content on social media by developing a model that processes both textual content and associated images or videos, the resulting model would be regarded as multi-modal. Body of Knowledge Domain IV, Competency A"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q99",
+    "question_type": "multiple_choice_single_answer",
+    "question": "The engineering team within your company has been working on an AI tool for the past several months. After completion of planning, design and development, what is the next step?",
+    "options": [
+      "Perform a readiness assessment.",
+      "Define the business requirements.",
+      "Determine the governance structure.",
+      "Verify the data used to test the system."
+    ],
+    "correct_answer": "Perform a readiness assessment.",
+    "explanation": "The correct answer is A. Although the other options reference some part of the AI development life cycle, these steps should be completed before commencement of the implementation phase and during system planning, design and development. After the completion of these activities, a readiness assessment will determine whether the technology is ready to deploy. Body of Knowledge Domain III, Competency C"
+  },
+  {
+    "source_file": "aigp questions.pdf",
+    "section": "IAPP Official AIGP Practice Exam",
+    "question_number": "Q100",
+    "question_type": "multiple_choice_single_answer",
+    "question": "Which of the following activities is a best practice method to identify and mitigate predictable risks of secondary or unintended uses of AI models?",
+    "options": [
+      "Developing model cards for AI systems.",
+      "Implementing an AI governance strategy.",
+      "Conducting data protection impact assessments.",
+      "Engaging in bug bashing and red teaming exercises."
+    ],
+    "correct_answer": "Developing model cards for AI systems.",
+    "explanation": "The correct answer is A. Model cards are short summary documents explaining the purpose of an AI model and provide information regarding a model's development and performance, as well as additional details for model transparency purposes. These cards are considered as a best practice method to identify and mitigate predictable risks associated with any secondary/unintended AI model use. Body of Knowledge Domain III, Competency C"
+  }
+]

@@ -11,7 +11,7 @@ except ImportError:
     HAS_SORTABLES = False
 
 QUESTION_SETS = {
-    "IAPP AIGP 2.0 (2024)": "question_bank_iapp.json",
+    "AIGP 2024": "question_bank_2024.json",
     "Straits Interactive": "question_bank_straits_interactive.json",
     "Online Sourced": "question_bank_online_sourced.json"
 }
